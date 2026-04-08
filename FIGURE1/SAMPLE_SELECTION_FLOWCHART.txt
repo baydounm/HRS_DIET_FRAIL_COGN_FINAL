@@ -1,0 +1,603 @@
+
+. 
+. use ///
+> "D:\16GBBACKUPUSB\BACKUP_USB_SEPTEMBER2014\SUMMER_STUDENT_2026\HRS_DIET_FRAILTY_COG\FINAL_DATA\HRS_TLHEIFRAILEPIGENMORTfinLONG_final.d
+> ta", ///
+> clear
+
+. 
+. ********************************************************************************
+. ** 0. HOUSEKEEPING
+. ********************************************************************************
+. 
+. * Keep one record per respondent
+. capture drop dup
+
+. duplicates tag HHIDPN, gen(dup)
+
+Duplicates in terms of HHIDPN
+
+. tab dup
+
+        dup |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |     46,858      100.00      100.00
+------------+-----------------------------------
+      Total |     46,858      100.00
+
+. keep if dup==0 | missing(dup)
+(0 observations deleted)
+
+. drop dup
+
+. 
+. * Optional: save a clean copy before sample construction
+. save ///
+> "D:\16GBBACKUPUSB\BACKUP_USB_SEPTEMBER2014\SUMMER_STUDENT_2026\HRS_DIET_FRAILTY_COG\FINAL_DATA\HRS_HEI_FRAIL_ANALYTIC_BASE.dta", ///
+> replace
+file D:\16GBBACKUPUSB\BACKUP_USB_SEPTEMBER2014\SUMMER_STUDENT_2026\HRS_DIET_FRAILTY_COG\FINAL_DATA\HRS_HEI_FRAIL_ANALYTIC_BASE.dta
+    saved
+
+. 
+. ********************************************************************************
+. ** 1. DEFINE CORE 2016 ELIGIBILITY
+. ********************************************************************************
+. 
+. capture drop elig_age50
+
+. gen elig_age50 = .
+(46,858 missing values generated)
+
+. replace elig_age50 = 1 if r13agey_e >= 50 & r13agey_e < .
+(20,148 real changes made)
+
+. replace elig_age50 = 0 if r13agey_e < 50 & r13agey_e < .
+(764 real changes made)
+
+. label var elig_age50 "Age >=50 years in 2016"
+
+. 
+. capture drop elig_alive2016
+
+. gen elig_alive2016 = .
+(46,858 missing values generated)
+
+. replace elig_alive2016 = 1 if inw13 == 1
+(20,912 real changes made)
+
+. replace elig_alive2016 = 0 if inw13 != 1 & inw13 < .
+(21,492 real changes made)
+
+. label var elig_alive2016 "Interviewed/alive in 2016 wave"
+
+. 
+. capture drop sample_step1
+
+. gen sample_step1 = 0
+
+. replace sample_step1 = 1 if elig_age50 == 1 & elig_alive2016 == 1
+(20,148 real changes made)
+
+. label var sample_step1 "Eligible 2016 age/alive sample"
+
+. 
+. tab sample_step1
+
+   Eligible |
+       2016 |
+  age/alive |
+     sample |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |     26,710       57.00       57.00
+          1 |     20,148       43.00      100.00
+------------+-----------------------------------
+      Total |     46,858      100.00
+
+. 
+. ********************************************************************************
+. ** 2. COMPLETE EXPOSURE + FRAILTY DATA AT 2016 BASELINE
+. ********************************************************************************
+. 
+. * HEI exposure
+. capture drop complete_hei2016
+
+. gen complete_hei2016 = !missing(hei2015_total_score)
+
+. label var complete_hei2016 "Non-missing HEI score in 2016"
+
+. 
+. * Fried frailty status
+. capture drop complete_frailty2016
+
+. gen complete_frailty2016 = !missing(fried_status)
+
+. label var complete_frailty2016 "Non-missing Fried frailty status in 2016"
+
+. 
+. capture drop sample_step2
+
+. gen sample_step2 = 0
+
+. replace sample_step2 = 1 if sample_step1 == 1 & ///
+>                            complete_hei2016 == 1 & ///
+>                            complete_frailty2016 == 1
+(2,202 real changes made)
+
+. label var sample_step2 "Eligible + complete HEI and frailty data"
+
+. 
+. tab sample_step2
+
+ Eligible + |
+   complete |
+    HEI and |
+    frailty |
+       data |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |     44,656       95.30       95.30
+          1 |      2,202        4.70      100.00
+------------+-----------------------------------
+      Total |     46,858      100.00
+
+. 
+. ********************************************************************************
+. ** 3. EXCLUDE PREVALENT CIND / PROBABLE DEMENTIA BEFORE OR AT 2016 BASELINE
+. ********************************************************************************
+. 
+. * Assumption:
+. * cogfunction2016 coding is:
+. *   1 = normal cognition
+. *   2 = CIND
+. *   3 = probable dementia
+. * If your coding differs, modify this block.
+. 
+. tab cogfunction2016, missing
+
+      2016: |
+  Cognition |
+  Category: |
+  1=Normal, |
+    2=CIND, |
+ 3=Demented |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          1 |     15,988       34.12       34.12
+          2 |      3,617        7.72       41.84
+          3 |      1,307        2.79       44.63
+          . |     25,946       55.37      100.00
+------------+-----------------------------------
+      Total |     46,858      100.00
+
+. 
+. capture drop baseline_cognitively_normal
+
+. gen baseline_cognitively_normal = .
+(46,858 missing values generated)
+
+. replace baseline_cognitively_normal = 1 if cogfunction2016 == 1
+(15,988 real changes made)
+
+. replace baseline_cognitively_normal = 0 if inlist(cogfunction2016,2,3)
+(4,924 real changes made)
+
+. label var baseline_cognitively_normal "Normal cognition at baseline (2016)"
+
+. 
+. capture drop sample_step3
+
+. gen sample_step3 = 0
+
+. replace sample_step3 = 1 if sample_step2 == 1 & baseline_cognitively_normal == 1
+(1,771 real changes made)
+
+. label var sample_step3 "Analytic risk set after excluding prevalent CIND/dementia"
+
+. 
+. tab sample_step3
+
+   Analytic |
+   risk set |
+      after |
+  excluding |
+  prevalent |
+CIND/dement |
+         ia |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |     45,087       96.22       96.22
+          1 |      1,771        3.78      100.00
+------------+-----------------------------------
+      Total |     46,858      100.00
+
+. 
+. ********************************************************************************
+. ** 4. COMPLETE COVARIATE DATA
+. ********************************************************************************
+. 
+. 
+. * Core covariates based on manuscript
+. capture drop complete_covars2016
+
+. egen nmiss_covars2012 = rowmiss(r13agey_e ragender RACE_ETHN totwealth_2012 marital_2012 education ///
+>                                 smoking_2012 alcohol_2012 ///
+>                                 physic_act_2012 srh_2012 bmibr_2012 ///
+>                                 hbp_ever_2012 diab_ever_2012 stroke_ever_2012 heart_ever_2012)
+
+. 
+. gen complete_covars2012 = (nmiss_covars2012 == 0)
+
+. label var complete_covars2012 "Complete covariate data in 2012"
+
+. 
+. capture drop sample_final
+
+. gen sample_final = 0
+
+. replace sample_final = 1 if sample_step3 == 1 & complete_covars2012 == 1
+(1,636 real changes made)
+
+. label var sample_final "Final analytic sample"
+
+. 
+. tab sample_final
+
+      Final |
+   analytic |
+     sample |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |     45,222       96.51       96.51
+          1 |      1,636        3.49      100.00
+------------+-----------------------------------
+      Total |     46,858      100.00
+
+. 
+. ********************************************************************************
+. ** 5. OPTIONAL: FOLLOW-UP AVAILABILITY / OUTCOME VARIABLES
+. ********************************************************************************
+. 
+. * Keep this separate from flowchart unless you explicitly want to mention it in Figure 1
+. * Example outcome variables already merged from Langa-Weir wide filD:
+. tab cogfunction2018 if sample_final==1, missing
+
+      2018: |
+  Cognition |
+  Category: |
+  1=Normal, |
+    2=CIND, |
+ 3=Demented |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          1 |      1,317       80.50       80.50
+          2 |        136        8.31       88.81
+          3 |          7        0.43       89.24
+          . |        176       10.76      100.00
+------------+-----------------------------------
+      Total |      1,636      100.00
+
+. tab cogfunction2020 if sample_final==1, missing
+
+      2020: |
+  Cognition |
+  Category: |
+  1=Normal, |
+    2=CIND, |
+ 3=Demented |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          1 |      1,194       72.98       72.98
+          2 |        126        7.70       80.68
+          3 |         27        1.65       82.33
+          . |        289       17.67      100.00
+------------+-----------------------------------
+      Total |      1,636      100.00
+
+. tab cogfunction2022 if sample_final==1, missing
+
+      2022: |
+  Cognition |
+  Category: |
+  1=Normal, |
+    2=CIND, |
+ 3=Demented |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          1 |      1,000       61.12       61.12
+          2 |        152        9.29       70.42
+          3 |         29        1.77       72.19
+          . |        455       27.81      100.00
+------------+-----------------------------------
+      Total |      1,636      100.00
+
+. 
+. * Incident cognitive impairment by 2022 (modify if your coding differs)
+. capture drop incident_cogimp_2016_2022
+
+. gen incident_cogimp_2016_2022 = .
+(46,858 missing values generated)
+
+. replace incident_cogimp_2016_2022 = 1 if sample_final==1 & ///
+>     (cogfunction2018>1 & cogfunction2018<. | ///
+>      cogfunction2020>1 & cogfunction2020<. | ///
+>      cogfunction2022>1 & cogfunction2022<.)
+(349 real changes made)
+
+. replace incident_cogimp_2016_2022 = 0 if sample_final==1 & ///
+>     incident_cogimp_2016_2022 != 1
+(1,287 real changes made)
+
+. label var incident_cogimp_2016_2022 "Incident CIND/probable dementia by 2022"
+
+. 
+. tab incident_cogimp_2016_2022 if sample_final==1, missing
+
+   Incident |
+CIND/probab |
+le dementia |
+    by 2022 |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |      1,287       78.67       78.67
+          1 |        349       21.33      100.00
+------------+-----------------------------------
+      Total |      1,636      100.00
+
+. 
+. save ///
+> "D:\16GBBACKUPUSB\BACKUP_USB_SEPTEMBER2014\SUMMER_STUDENT_2026\HRS_DIET_FRAILTY_COG\FINAL_DATA\HRS_HEI_FRAIL_ANALYTIC_FINAL.dta", ///
+> replace
+file D:\16GBBACKUPUSB\BACKUP_USB_SEPTEMBER2014\SUMMER_STUDENT_2026\HRS_DIET_FRAILTY_COG\FINAL_DATA\HRS_HEI_FRAIL_ANALYTIC_FINAL.dta
+    saved
+
+. 
+. 
+. 
+. 
+. ********************************************************************************
+. ** 6. DISPLAY COUNTS FOR FIGURE 1
+. ********************************************************************************
+. 
+. display "------------------------------------------------------------"
+------------------------------------------------------------
+
+. count
+  46,858
+
+. display "Total records in merged analytic file = " r(N)
+Total records in merged analytic file = 46858
+
+. 
+. count if sample_step1==1
+  20,148
+
+. display "Step 1: Age >=50 and alive/interviewed in 2016 = " r(N)
+Step 1: Age >=50 and alive/interviewed in 2016 = 20148
+
+. 
+. count if sample_step1==1 & complete_hei2016==0
+  13,489
+
+. display "Excluded for missing HEI in 2016 = " r(N)
+Excluded for missing HEI in 2016 = 13489
+
+. 
+. count if sample_step1==1 & complete_frailty2016==0
+  15,487
+
+. display "Excluded for missing Fried frailty status in 2016 = " r(N)
+Excluded for missing Fried frailty status in 2016 = 15487
+
+. 
+. count if sample_step2==1
+  2,202
+
+. display "Step 2: Complete HEI + frailty data = " r(N)
+Step 2: Complete HEI + frailty data = 2202
+
+. 
+. count if sample_step2==1 & baseline_cognitively_normal==0
+  431
+
+. display "Excluded for prevalent CIND/probable dementia at baseline = " r(N)
+Excluded for prevalent CIND/probable dementia at baseline = 431
+
+. 
+. count if sample_step3==1
+  1,771
+
+. display "Step 3: Cognitively normal at baseline = " r(N)
+Step 3: Cognitively normal at baseline = 1771
+
+. 
+. count if sample_step3==1 & complete_covars2012==0
+  135
+
+. display "Excluded for missing covariates = " r(N)
+Excluded for missing covariates = 135
+
+. 
+. count if sample_final==1
+  1,636
+
+. display "Final analytic sample = " r(N)
+Final analytic sample = 1636
+
+. display "------------------------------------------------------------"
+------------------------------------------------------------
+
+. 
+. ********************************************************************************
+. ** 7. CREATE FLOWCHART DATASET FOR EXPORT
+. ********************************************************************************
+. 
+. tempname memhold
+
+. postfile `memhold' str70 flow_step N using ///
+> "D:\16GBBACKUPUSB\BACKUP_USB_SEPTEMBER2014\SUMMER_STUDENT_2026\HRS_DIET_FRAILTY_COG\OUTPUT\flowchart_counts.dta", ///
+> replace
+
+. 
+. quietly count
+
+. post `memhold' ("Merged 2016 analytic file") (`r(N)')
+
+. 
+. quietly count if sample_step1==1
+
+. post `memhold' ("Age >=50 and alive/interviewed in 2016") (`r(N)')
+
+. 
+. quietly count if sample_step1==1 & complete_hei2016==0
+
+. post `memhold' ("Excluded: missing HEI in 2016") (`r(N)')
+
+. 
+. quietly count if sample_step1==1 & complete_frailty2016==0
+
+. post `memhold' ("Excluded: missing Fried frailty status in 2016") (`r(N)')
+
+. 
+. quietly count if sample_step2==1
+
+. post `memhold' ("Complete HEI and frailty data") (`r(N)')
+
+. 
+. quietly count if sample_step2==1 & baseline_cognitively_normal==0
+
+. post `memhold' ("Excluded: prevalent CIND/probable dementia at baseline") (`r(N)')
+
+. 
+. quietly count if sample_step3==1
+
+. post `memhold' ("Cognitively normal at baseline") (`r(N)')
+
+. 
+. quietly count if sample_step3==1 & complete_covars2012==0
+
+. post `memhold' ("Excluded: missing covariates") (`r(N)')
+
+. 
+. quietly count if sample_final==1
+
+. post `memhold' ("Final analytic sample") (`r(N)')
+
+. 
+. postclose `memhold'
+
+. 
+. use ///
+> "D:\16GBBACKUPUSB\BACKUP_USB_SEPTEMBER2014\SUMMER_STUDENT_2026\HRS_DIET_FRAILTY_COG\OUTPUT\flowchart_counts.dta", ///
+> clear
+
+. list, noobs abbreviate(40)
+
+  +----------------------------------------------------------------+
+  |                                              flow_step       N |
+  |----------------------------------------------------------------|
+  |                              Merged 2016 analytic file   46858 |
+  |                 Age >=50 and alive/interviewed in 2016   20148 |
+  |                          Excluded: missing HEI in 2016   13489 |
+  |         Excluded: missing Fried frailty status in 2016   15487 |
+  |                          Complete HEI and frailty data    2202 |
+  |----------------------------------------------------------------|
+  | Excluded: prevalent CIND/probable dementia at baseline     431 |
+  |                         Cognitively normal at baseline    1771 |
+  |                           Excluded: missing covariates     135 |
+  |                                  Final analytic sample    1636 |
+  +----------------------------------------------------------------+
+
+. 
+. export excel using ///
+> "D:\16GBBACKUPUSB\BACKUP_USB_SEPTEMBER2014\SUMMER_STUDENT_2026\HRS_DIET_FRAILTY_COG\OUTPUT\flowchart_counts.xlsx", ///
+> firstrow(variables) replace
+file D:\16GBBACKUPUSB\BACKUP_USB_SEPTEMBER2014\SUMMER_STUDENT_2026\HRS_DIET_FRAILTY_COG\OUTPUT\flowchart_counts.xlsx saved
+
+. 
+. ********************************************************************************
+. ** 8. SAVE FINAL ANALYTIC DATASET
+. ********************************************************************************
+. 
+. use ///
+> "D:\16GBBACKUPUSB\BACKUP_USB_SEPTEMBER2014\SUMMER_STUDENT_2026\HRS_DIET_FRAILTY_COG\FINAL_DATA\HRS_HEI_FRAIL_ANALYTIC_FINAL.dta", ///
+> clear
+
+. 
+. capture drop dup
+
+. duplicates tag HHIDPN, gen(dup)
+
+Duplicates in terms of HHIDPN
+
+. keep if dup==0 | missing(dup)
+(0 observations deleted)
+
+. drop dup
+
+. 
+. * Recreate sample flags
+. capture drop elig_age50 elig_alive2016 sample_step1 complete_hei2016 ///
+>              complete_frailty2016 sample_step2 ///
+>              baseline_cognitively_normal sample_step3 nmiss_covars2012 ///
+>              complete_covars2012 sample_final incident_cogimp_2016_2022
+
+. 
+. gen elig_age50 = (r13agey_e >= 50 & r13agey_e < .)
+
+. gen elig_alive2016 = (inw13 == 1)
+
+. gen sample_step1 = (elig_age50 == 1 & elig_alive2016 == 1)
+
+. 
+. gen complete_hei2016 = !missing(hei2015_total_score)
+
+. gen complete_frailty2016 = !missing(fried_status)
+
+. 
+. gen sample_step2 = (sample_step1 == 1 & complete_hei2016 == 1 & ///
+>                     complete_frailty2016 == 1)
+
+. 
+. gen baseline_cognitively_normal = .
+(46,858 missing values generated)
+
+. replace baseline_cognitively_normal = 1 if cogfunction2016 == 1
+(15,988 real changes made)
+
+. replace baseline_cognitively_normal = 0 if inlist(cogfunction2016,2,3)
+(4,924 real changes made)
+
+. 
+. gen sample_step3 = (sample_step2 == 1 & baseline_cognitively_normal == 1)
+
+. 
+. capture drop complete_covars2012
+
+. egen nmiss_covars2012 = rowmiss(r13agey_e ragender RACE_ETHN totwealth_2012 marital_2012 education ///
+>                                 smoking_2012 alcohol_2012 ///
+>                                 physic_act_2012 srh_2012 bmibr_2012 ///
+>                                 hbp_ever_2012 diab_ever_2012 stroke_ever_2012 heart_ever_2012)
+
+. 
+. gen complete_covars2012 = (nmiss_covars2012 == 0)
+
+. 
+. gen sample_final = (sample_step3 == 1 & complete_covars2012 == 1)
+
+. 
+. gen incident_cogimp_2016_2022 = .
+(46,858 missing values generated)
+
+. replace incident_cogimp_2016_2022 = 1 if sample_final==1 & ///
+>     (cogfunction2018>1 & cogfunction2018<. | ///
+>      cogfunction2020>1 & cogfunction2020<. | ///
+>      cogfunction2022>1 & cogfunction2022<.)
+(349 real changes made)
+
+. replace incident_cogimp_2016_2022 = 0 if sample_final==1 & ///
+>     incident_cogimp_2016_2022 != 1
+(1,287 real changes made)
+
+. 
+. save ///
+> "D:\16GBBACKUPUSB\BACKUP_USB_SEPTEMBER2014\SUMMER_STUDENT_2026\HRS_DIET_FRAILTY_COG\FINAL_DATA\HRS_HEI_FRAIL_ANALYTIC_FINAL.dta", ///
+> replace
+file D:\16GBBACKUPUSB\BACKUP_USB_SEPTEMBER2014\SUMMER_STUDENT_2026\HRS_DIET_FRAILTY_COG\FINAL_DATA\HRS_HEI_FRAIL_ANALYTIC_FINAL.dta
+    saved
+
+. 
+. 
+. 
+. capture log close
