@@ -1,0 +1,200 @@
+----------------------------------------------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  D:\16GBBACKUPUSB\BACKUP_USB_SEPTEMBER2014\SUMMER_STUDENT_2026\HRS_DIET_FRAILTY_COG\OUTPUT\TABLE4.txt
+  log type:  text
+ opened on:   2 Apr 2026, 17:17:36
+(0 observations deleted)
+
+Survival-time data settings
+
+           ID variable: HHIDPN
+         Failure event: fail_cog==1
+Observed time interval: (doevent[_n-1], doevent]
+     Enter on or after: time doenter
+     Exit on or before: failure
+     Time for analysis: (time-origin)
+                Origin: time doenter
+
+--------------------------------------------------------------------------
+      1,645  total observations
+        123  observations end on or before enter()
+--------------------------------------------------------------------------
+      1,522  observations remaining, representing
+      1,522  subjects
+        357  failures in single-failure-per-subject data
+  2,661,603  total analysis time at risk and under observation
+                                                At risk from t =         0
+                                     Earliest observed entry t =         0
+                                          Last observed exit t =     2,191
+==============================================================
+TABLE 4. Four-way decomposition
+Exposure: Frailty score
+Outcome: Incident CIND / probable dementia
+Outcome model: Cox proportional hazards
+Mediator model: linear regression
+Mediator/moderator: HEI-2015 total score
+==============================================================
+Warning: this analysis assumes a rare outcome.
+Warning: fixed values for the covariates age_2016 female race_2 race_3 race_4 mar_2 mar_3 mar_4 edu_2 edu_3 edu_4 edu_5 wealth_2 wealth_
+> 3 wealth_4 wealth_5 smoke_2 smoke_3 alcohol_2 alcohol_3 alcohol_4 phys_2 phys_3 bmi_2 bmi_3 hbp_yes diab_yes stroke_yes heart_yes srh_
+> 2 cesd_cont were not provided. All covariates are fixed at their respective mean.
+
+-> Summary
+
+   Outcome    (yvar):  doevent
+   Exposure   (avar):  fried_sum
+   Mediator   (mvar):  hei2015_total_score
+   Covariates (cvars): age_2016 female race_2 race_3 race_4 mar_2 mar_3 mar_4 edu_2 edu_3 edu_4 edu_5 wealth_2 wealth_3 wealth_4 wealth_
+> 5 smoke_2 smoke_3 alcohol_2 alcohol_3 alcohol_4 phys_2 phys_3 bmi_2 bmi_3 hbp_yes diab_yes stroke_yes heart_yes srh_2 cesd_cont
+
+   Model for the outcome  (yreg): cox
+   Model for the mediator (mreg): linear
+
+   Referent exposure level (a0):             0
+   Actual exposure level   (a1):             1
+   Mediator level for the decomposition (m): 50
+   Fixed values of the covariates (c):       69.18 .6103 .1295 .08754 .03404 .6675 .1295 .1587 .04377 .3076 .2821 .2821 .6079 .1337 .019
+> 45 .008511 .4316 .08754 .1939 .2347 .1477 .262 .5556 .3605 .3891 .6152 .2334 .07477 .2681 .2073 1.114
+
+
+-> Model for the outcome
+
+         Failure _d: fail_cog==1
+   Analysis time _t: (doevent-origin)
+             Origin: time doenter
+  Enter on or after: time doenter
+        ID variable: HHIDPN
+
+Iteration 0:  Log likelihood = -2555.7203
+Iteration 1:  Log likelihood = -2447.4014
+Iteration 2:  Log likelihood =  -2443.159
+Iteration 3:  Log likelihood = -2443.1388
+Iteration 4:  Log likelihood = -2443.1388
+Refining estimates:
+Iteration 0:  Log likelihood = -2443.1388
+
+Cox regression with Breslow method for ties
+
+No. of subjects =     1,522                             Number of obs =  1,522
+No. of failures =       357
+Time at risk    = 2,661,603
+                                                        LR chi2(34)   = 225.16
+Log likelihood = -2443.1388                             Prob > chi2   = 0.0000
+
+---------------------------------------------------------------------------------------------
+                         _t | Haz. ratio   Std. err.      z    P>|z|     [95% conf. interval]
+----------------------------+----------------------------------------------------------------
+                  fried_sum |   .8073752   .2536991    -0.68   0.496     .4361188    1.494672
+        hei2015_total_score |   .9930881   .0098601    -0.70   0.485     .9739494    1.012603
+_fried_sumXhei2015_tota_000 |   1.005572   .0044272     1.26   0.207     .9969319    1.014286
+                   age_2016 |   1.068056   .0080827     8.70   0.000     1.052332    1.084016
+                     female |   .7814535   .0955585    -2.02   0.044     .6149158    .9930945
+                     race_2 |   1.895004   .2866227     4.23   0.000     1.408849    2.548918
+                     race_3 |    .903751   .1949302    -0.47   0.639     .5921789    1.379255
+                     race_4 |   1.650071   .5075445     1.63   0.103      .902988     3.01525
+                      mar_2 |   .7467509   .1947323    -1.12   0.263     .4479253    1.244933
+                      mar_3 |    .748482   .2112621    -1.03   0.305     .4304535    1.301477
+                      mar_4 |   .5839707   .1625522    -1.93   0.053     .3384179    1.007694
+                      edu_2 |   .9572334   .2533577    -0.17   0.869     .5698025    1.608094
+                      edu_3 |   .7214649   .1366062    -1.72   0.085     .4977874     1.04565
+                      edu_4 |    .669068   .1335673    -2.01   0.044     .4524215    .9894576
+                      edu_5 |    .630012   .1318747    -2.21   0.027     .4179983    .9495617
+                   wealth_2 |    .944279   .1363039    -0.40   0.691     .7115934    1.253051
+                   wealth_3 |   .9300436   .2184172    -0.31   0.757     .5869511    1.473685
+                   wealth_4 |   .5776357   .3505277    -0.90   0.366     .1758401    1.897537
+                   wealth_5 |   .9890639   .7270196    -0.01   0.988     .2341756     4.17741
+                    smoke_2 |   .9051019   .1082523    -0.83   0.404     .7159651    1.144203
+                    smoke_3 |   1.412991   .2761339     1.77   0.077     .9633702    2.072457
+                  alcohol_2 |   .7432892   .1201039    -1.84   0.066     .5415231    1.020231
+                  alcohol_3 |    1.03632   .1495219     0.25   0.805     .7810543    1.375012
+                  alcohol_4 |   .8516149   .1565897    -0.87   0.382     .5939222    1.221116
+                     phys_2 |    .877315    .138942    -0.83   0.409     .6432047    1.196636
+                     phys_3 |   1.049412   .1658503     0.31   0.760     .7698763    1.430444
+                      bmi_2 |   .9141601   .1282497    -0.64   0.522     .6943927    1.203481
+                      bmi_3 |   .7916965   .1210885    -1.53   0.127     .5866365    1.068436
+                    hbp_yes |   1.217644   .1531342     1.57   0.117     .9516362    1.558008
+                   diab_yes |   1.127724   .1418761     0.96   0.339     .8812828     1.44308
+                 stroke_yes |   .8958566   .1753382    -0.56   0.574     .6104361    1.314731
+                  heart_yes |   .9173488   .1149394    -0.69   0.491      .717601    1.172697
+                      srh_2 |   1.148749   .1722272     0.92   0.355     .8562643     1.54114
+                  cesd_cont |   1.135704   .0355112     4.07   0.000     1.068193    1.207482
+---------------------------------------------------------------------------------------------
+
+
+-> Model for the mediator
+
+Iteration 0:  Log likelihood = -6005.0492  
+Iteration 1:  Log likelihood = -6005.0492  
+
+Linear regression (Maximum Likelihood)                  Number of obs =  1,645
+                                                        Wald chi2(32) = 247.01
+Log likelihood = -6005.0492                             Prob > chi2   = 0.0000
+
+------------------------------------------------------------------------------
+hei2015_to~e | Coefficient  Std. err.      z    P>|z|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+mu           |
+   fried_sum |  -.9098826   .2612971    -3.48   0.000    -1.422015   -.3977497
+    age_2016 |   .1259918   .0309285     4.07   0.000      .065373    .1866106
+      female |   2.515952   .5118013     4.92   0.000      1.51284    3.519065
+      race_2 |   2.321212   .7359534     3.15   0.002     .8787694    3.763654
+      race_3 |   2.896622   .8850692     3.27   0.001     1.161918    4.631326
+      race_4 |   4.615869   1.306621     3.53   0.000     2.054938      7.1768
+       mar_2 |   .1827013   1.182376     0.15   0.877    -2.134712    2.500115
+       mar_3 |   1.081998    1.28009     0.85   0.398    -1.426932    3.590927
+       mar_4 |   .0347856   1.282385     0.03   0.978    -2.478644    2.548215
+       edu_2 |   3.003969   1.383773     2.17   0.030     .2918246    5.716113
+       edu_3 |   1.073807   .9396426     1.14   0.253     -.767859    2.915472
+       edu_4 |   1.988698   .9610504     2.07   0.039     .1050738    3.872322
+       edu_5 |   3.023682   1.004743     3.01   0.003     1.054422    4.992941
+    wealth_2 |   .0243495   .6516756     0.04   0.970    -1.252911     1.30161
+    wealth_3 |    1.08198   .9520774     1.14   0.256    -.7840575    2.948017
+    wealth_4 |     .66327   1.833693     0.36   0.718    -2.930702    4.257242
+    wealth_5 |   5.807616   2.626139     2.21   0.027      .660477    10.95475
+     smoke_2 |  -.2095919   .5073246    -0.41   0.680     -1.20393    .7847459
+     smoke_3 |  -3.651202   .9005799    -4.05   0.000    -5.416306   -1.886098
+   alcohol_2 |   1.404786    .646001     2.17   0.030     .1386475    2.670925
+   alcohol_3 |   .8985777   .6224247     1.44   0.149    -.3213523    2.118508
+   alcohol_4 |   .9545248   .7531408     1.27   0.205    -.5216041    2.430654
+      phys_2 |   1.486165   .7325687     2.03   0.042     .0503564    2.921973
+      phys_3 |   3.776639   .7164301     5.27   0.000     2.372462    5.180816
+       bmi_2 |  -.5858285   .6172124    -0.95   0.343    -1.795543    .6238855
+       bmi_3 |  -1.111182   .6490738    -1.71   0.087    -2.383343    .1609792
+     hbp_yes |  -.5864485   .5118986    -1.15   0.252    -1.589751    .4168543
+    diab_yes |   .9482006   .5792287     1.64   0.102    -.1870668    2.083468
+  stroke_yes |   1.706086   .9122431     1.87   0.061    -.0818779     3.49405
+   heart_yes |   .1009879   .5681955     0.18   0.859    -1.012655    1.214631
+       srh_2 |  -.1327998   .6723878    -0.20   0.843    -1.450656    1.185056
+   cesd_cont |  -.2473754   .1498678    -1.65   0.099    -.5411109    .0463601
+       _cons |    56.1907   2.855912    19.68   0.000     50.59321    61.78818
+-------------+----------------------------------------------------------------
+sigma2       |
+       _cons |   86.75557   3.025028    28.68   0.000     80.82663    92.68452
+------------------------------------------------------------------------------
+
+
+-> 4-way decomposition: delta method
+
+------------------------------------------------------------------------------
+             | Coefficient  Std. err.      z    P>|z|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+      tereri |   .1988754   .0702648     2.83   0.005     .0611589    .3365918
+   ereri_cde |   .0762576   .1203127     0.63   0.526     -.159551    .3120662
+ereri_intref |   .1211137   .0979203     1.24   0.216    -.0708066    .3130341
+ereri_intmed |  -.0048268   .0037725    -1.28   0.201    -.0122208    .0025672
+   ereri_pie |   .0063308   .0092723     0.68   0.495    -.0118427    .0245042
+      terira |   1.198875   .0702648    17.06   0.000     1.061159    1.336592
+       p_cde |   .3834442   .5440444     0.70   0.481    -.6828632    1.449752
+    p_intref |   .6089932   .5267812     1.16   0.248     -.423479    1.641465
+    p_intmed |  -.0242703   .0203243    -1.19   0.232    -.0641052    .0155645
+       p_pie |   .0318329   .0474132     0.67   0.502    -.0610954    .1247611
+        op_m |   .0075626   .0372124     0.20   0.839    -.0653724    .0804975
+      op_ati |   .5847229   .5078053     1.15   0.250    -.4105571    1.580003
+        op_e |   .6165558   .5440444     1.13   0.257    -.4497516    1.682863
+------------------------------------------------------------------------------
+
+   tereri=total excess relative risk; ereri_cde=excess relative risk due to controlled direct effect; ereri_intref=excess relative
+   risk due to reference interaction; ereri_intmed=excess relative risk due to mediated interaction; ereri_pie=excess relative risk
+   due to pure indirect effect; terira=total effect risk ratio; p_cde=proportion controlled direct effect; p_intref=proportion
+   reference interaction; p_intmed=proportion mediated interaction; p_pie=proportion pure indirect effect; op_m=overall proportion
+   mediated; op_ati=overall proportion attributable to interaction; op_e=overall proportion eliminated.

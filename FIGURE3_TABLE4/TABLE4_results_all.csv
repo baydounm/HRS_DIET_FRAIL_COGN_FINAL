@@ -1,0 +1,1603 @@
+outcome,predictor,predictor_label,model,hr,ll,ul,p
+CIND/probable dementia,zC3A_FF_13,Standardized values of C3A_FF_13,Model 1,.9836962877712472,.86631203,1.116986,.79641497
+CIND/probable dementia,zC3A_FF_13,Standardized values of C3A_FF_13,Model 2,1.030514242589519,.90681142,1.171092,.639467
+CIND/probable dementia,zC3A_FF_13,Standardized values of C3A_FF_13,Model 3,1.053708797404741,.9351005,1.1873614,.38378397
+CIND/probable dementia,zC3B_FF_13,Standardized values of C3B_FF_13,Model 1,.9462428159426967,.85514098,1.0470501,.27877942
+CIND/probable dementia,zC3B_FF_13,Standardized values of C3B_FF_13,Model 2,.9355984025046231,.84902239,1.0310026,.17504516
+CIND/probable dementia,zC3B_FF_13,Standardized values of C3B_FF_13,Model 3,.9269399452984579,.83136851,1.0334979,.16795762
+CIND/probable dementia,zC3C_FF_13,Standardized values of C3C_FF_13,Model 1,1.082045272914607,.99602711,1.175492,.061651852
+CIND/probable dementia,zC3C_FF_13,Standardized values of C3C_FF_13,Model 2,1.031787879003365,.96047395,1.1083968,.38504818
+CIND/probable dementia,zC3C_FF_13,Standardized values of C3C_FF_13,Model 3,1.025897062728876,.95506972,1.1019769,.4768768
+CIND/probable dementia,zC3D_FF_13,Standardized values of C3D_FF_13,Model 1,.8396902902116881,.65668845,1.0736899,.15998
+CIND/probable dementia,zC3D_FF_13,Standardized values of C3D_FF_13,Model 2,.8474550764952781,.66721034,1.0763923,.17100234
+CIND/probable dementia,zC3D_FF_13,Standardized values of C3D_FF_13,Model 3,.8444123914467777,.66065603,1.0792792,.17285904
+CIND/probable dementia,zC3E_FF_13,Standardized values of C3E_FF_13,Model 1,1.054324556586962,.92157692,1.2061937,.43419194
+CIND/probable dementia,zC3E_FF_13,Standardized values of C3E_FF_13,Model 2,1.036129752327067,.91482115,1.1735244,.57017463
+CIND/probable dementia,zC3E_FF_13,Standardized values of C3E_FF_13,Model 3,1.052127750948669,.92863703,1.1920403,.41822246
+CIND/probable dementia,zC3F_FF_13,Standardized values of C3F_FF_13,Model 1,1.003901594845949,.87971175,1.1456234,.95309085
+CIND/probable dementia,zC3F_FF_13,Standardized values of C3F_FF_13,Model 2,.9742018814112937,.85181659,1.1141709,.69791842
+CIND/probable dementia,zC3F_FF_13,Standardized values of C3F_FF_13,Model 3,.9863182056307491,.86878788,1.1197481,.82855135
+CIND/probable dementia,zC3G_FF_13,Standardized values of C3G_FF_13,Model 1,1.140068841842222,1.0143423,1.281379,.028586147
+CIND/probable dementia,zC3G_FF_13,Standardized values of C3G_FF_13,Model 2,1.142880737345413,1.0280434,1.2705461,.014392817
+CIND/probable dementia,zC3G_FF_13,Standardized values of C3G_FF_13,Model 3,1.154763408727917,1.0418791,1.2798784,.0069741295
+CIND/probable dementia,zC3H_FF_13,Standardized values of C3H_FF_13,Model 1,1.143013657639056,1.0272566,1.2718148,.015092283
+CIND/probable dementia,zC3H_FF_13,Standardized values of C3H_FF_13,Model 2,1.166848266026068,1.0442952,1.3037834,.0072914944
+CIND/probable dementia,zC3H_FF_13,Standardized values of C3H_FF_13,Model 3,1.145874305038647,1.0189707,1.2885826,.023794588
+CIND/probable dementia,zC3I_FF_13,Standardized values of C3I_FF_13,Model 1,1.006152156506092,.87587821,1.1558025,.92968732
+CIND/probable dementia,zC3I_FF_13,Standardized values of C3I_FF_13,Model 2,1.028012341569497,.9035722,1.1695904,.66952187
+CIND/probable dementia,zC3I_FF_13,Standardized values of C3I_FF_13,Model 3,1.045037151462325,.92010874,1.1869278,.4909656
+CIND/probable dementia,zC3J_FF_13,Standardized values of C3J_FF_13,Model 1,.9922654512133154,.87436014,1.12607,.90254712
+CIND/probable dementia,zC3J_FF_13,Standardized values of C3J_FF_13,Model 2,1.028948271237732,.89856035,1.1782565,.67461985
+CIND/probable dementia,zC3J_FF_13,Standardized values of C3J_FF_13,Model 3,1.051607358611919,.91741723,1.2054254,.46322459
+CIND/probable dementia,zC3L_FF_13,Standardized values of C3L_FF_13,Model 1,.9303583788762728,.83641529,1.0348529,.1796802
+CIND/probable dementia,zC3L_FF_13,Standardized values of C3L_FF_13,Model 2,.9569481576691219,.85735804,1.0681065,.42571527
+CIND/probable dementia,zC3L_FF_13,Standardized values of C3L_FF_13,Model 3,.9505257942455747,.85894507,1.0518708,.31991875
+CIND/probable dementia,zC3M_FF_13,Standardized values of C3M_FF_13,Model 1,1.01144350977163,.88092107,1.161305,.86951643
+CIND/probable dementia,zC3M_FF_13,Standardized values of C3M_FF_13,Model 2,1.020513439041433,.88468832,1.1771916,.77677578
+CIND/probable dementia,zC3M_FF_13,Standardized values of C3M_FF_13,Model 3,1.00747476255066,.87041825,1.1661123,.91908038
+CIND/probable dementia,zC3N_FF_13,Standardized values of C3N_FF_13,Model 1,.8496160398095182,.75272119,.95898378,.0092645409
+CIND/probable dementia,zC3N_FF_13,Standardized values of C3N_FF_13,Model 2,.8833545100380525,.79324782,.98369664,.024653565
+CIND/probable dementia,zC3N_FF_13,Standardized values of C3N_FF_13,Model 3,.8636143187642296,.76290536,.97761762,.021327151
+CIND/probable dementia,zC3P_FF_13,Standardized values of C3P_FF_13,Model 1,.9425944103286844,.81257045,1.0934242,.42819557
+CIND/probable dementia,zC3P_FF_13,Standardized values of C3P_FF_13,Model 2,.9611421416749497,.8300761,1.1129031,.59016472
+CIND/probable dementia,zC3P_FF_13,Standardized values of C3P_FF_13,Model 3,.9410570743206793,.81420243,1.087676,.40408051
+CIND/probable dementia,zC3Q_FF_13,Standardized values of C3Q_FF_13,Model 1,1.086012546155803,.98977101,1.1916122,.080270521
+CIND/probable dementia,zC3Q_FF_13,Standardized values of C3Q_FF_13,Model 2,1.075241468476136,.97934997,1.1805221,.12535346
+CIND/probable dementia,zC3Q_FF_13,Standardized values of C3Q_FF_13,Model 3,1.04001091677936,.94710076,1.1420355,.40446767
+CIND/probable dementia,zC3R_FF_13,Standardized values of C3R_FF_13,Model 1,1.08814351667226,.98592836,1.2009557,.091765054
+CIND/probable dementia,zC3R_FF_13,Standardized values of C3R_FF_13,Model 2,1.077520576969049,.9694314,1.1976614,.16256709
+CIND/probable dementia,zC3R_FF_13,Standardized values of C3R_FF_13,Model 3,1.05797891577531,.95786637,1.1685548,.26079071
+CIND/probable dementia,zC4A_FF_13,Standardized values of C4A_FF_13,Model 1,1.079771612739943,.99200571,1.1753025,.075086303
+CIND/probable dementia,zC4A_FF_13,Standardized values of C4A_FF_13,Model 2,1.063738484591024,.98427653,1.1496155,.11645313
+CIND/probable dementia,zC4A_FF_13,Standardized values of C4A_FF_13,Model 3,1.078358326649672,.98685592,1.178345,.093836047
+CIND/probable dementia,zC4B_FF_13,Standardized values of C4B_FF_13,Model 1,.9646596520645638,.87822729,1.0595984,.44568869
+CIND/probable dementia,zC4B_FF_13,Standardized values of C4B_FF_13,Model 2,.9778496727041734,.88534969,1.0800139,.65324432
+CIND/probable dementia,zC4B_FF_13,Standardized values of C4B_FF_13,Model 3,.9702611332360043,.87161058,1.0800772,.574866
+CIND/probable dementia,zC4C_FF_13,Standardized values of C4C_FF_13,Model 1,1.048856874105864,.95846808,1.1477698,.29343951
+CIND/probable dementia,zC4C_FF_13,Standardized values of C4C_FF_13,Model 2,.9827279853087634,.85858935,1.1248151,.79694021
+CIND/probable dementia,zC4C_FF_13,Standardized values of C4C_FF_13,Model 3,1.001235268222408,.88859373,1.1281557,.98353684
+CIND/probable dementia,zC4D_FF_13,Standardized values of C4D_FF_13,Model 1,1.102515111883689,.98511076,1.2339116,.087977387
+CIND/probable dementia,zC4D_FF_13,Standardized values of C4D_FF_13,Model 2,1.07130315194915,.95927733,1.1964115,.2167017
+CIND/probable dementia,zC4D_FF_13,Standardized values of C4D_FF_13,Model 3,1.08154198079793,.97538882,1.199248,.13407858
+CIND/probable dementia,zC4E_FF_13,Standardized values of C4E_FF_13,Model 1,.9959658565845081,.87389982,1.135082,.95082015
+CIND/probable dementia,zC4E_FF_13,Standardized values of C4E_FF_13,Model 2,.9869283712996973,.88288528,1.1032324,.81376928
+CIND/probable dementia,zC4E_FF_13,Standardized values of C4E_FF_13,Model 3,.9870991951573717,.89670831,1.0866017,.78744382
+CIND/probable dementia,zC4F_FF_13,Standardized values of C4F_FF_13,Model 1,.9831203175215969,.82477826,1.1718612,.84668344
+CIND/probable dementia,zC4F_FF_13,Standardized values of C4F_FF_13,Model 2,1.021758795102661,.8718881,1.197391,.78667217
+CIND/probable dementia,zC4F_FF_13,Standardized values of C4F_FF_13,Model 3,1.052548011594462,.91493046,1.210865,.46698987
+CIND/probable dementia,zC4G_FF_13,Standardized values of C4G_FF_13,Model 1,.9310855477214368,.8134563,1.0657245,.29399607
+CIND/probable dementia,zC4G_FF_13,Standardized values of C4G_FF_13,Model 2,.9269108329434131,.81449169,1.0548465,.24449453
+CIND/probable dementia,zC4G_FF_13,Standardized values of C4G_FF_13,Model 3,.9422497498249087,.83042973,1.0691266,.34946769
+CIND/probable dementia,zC4H_FF_13,Standardized values of C4H_FF_13,Model 1,.9933565339413637,.8530305,1.1567667,.9304232
+CIND/probable dementia,zC4H_FF_13,Standardized values of C4H_FF_13,Model 2,.9970621398363559,.85444325,1.1634862,.96966857
+CIND/probable dementia,zC4H_FF_13,Standardized values of C4H_FF_13,Model 3,1.021504411124385,.88621402,1.1774484,.76521736
+CIND/probable dementia,zC4I_FF_13,Standardized values of C4I_FF_13,Model 1,1.107217942186499,1.0301541,1.1900468,.0064983908
+CIND/probable dementia,zC4I_FF_13,Standardized values of C4I_FF_13,Model 2,1.067366421696721,.98953855,1.1513156,.090020865
+CIND/probable dementia,zC4I_FF_13,Standardized values of C4I_FF_13,Model 3,1.079546213822257,.99459875,1.1717489,.066582039
+CIND/probable dementia,zC4J_FF_13,Standardized values of C4J_FF_13,Model 1,1.09008973968797,.97018445,1.2248142,.14365435
+CIND/probable dementia,zC4J_FF_13,Standardized values of C4J_FF_13,Model 2,1.07730710731357,.9619177,1.2065383,.19322288
+CIND/probable dementia,zC4J_FF_13,Standardized values of C4J_FF_13,Model 3,1.104860681472312,.99522078,1.2265792,.061067063
+CIND/probable dementia,zC4K_FF_13,Standardized values of C4K_FF_13,Model 1,1.1449258168485,1.0397961,1.2606847,.0067372317
+CIND/probable dementia,zC4K_FF_13,Standardized values of C4K_FF_13,Model 2,1.105429254892298,1.0120904,1.2073761,.02669449
+CIND/probable dementia,zC4K_FF_13,Standardized values of C4K_FF_13,Model 3,1.129682574463162,1.025128,1.2449009,.014812361
+CIND/probable dementia,zC4L_FF_13,Standardized values of C4L_FF_13,Model 1,1.085371083449941,.96927172,1.2153769,.15240978
+CIND/probable dementia,zC4L_FF_13,Standardized values of C4L_FF_13,Model 2,1.097832880840657,.97629076,1.2345062,.11661939
+CIND/probable dementia,zC4L_FF_13,Standardized values of C4L_FF_13,Model 3,1.067436354366631,.94073516,1.211202,.30516967
+CIND/probable dementia,zC4M_FF_13,Standardized values of C4M_FF_13,Model 1,1.044261722851514,.95288694,1.1443987,.34734294
+CIND/probable dementia,zC4M_FF_13,Standardized values of C4M_FF_13,Model 2,1.024462759625401,.95659667,1.0971437,.48277274
+CIND/probable dementia,zC4M_FF_13,Standardized values of C4M_FF_13,Model 3,1.011985434052037,.96606475,1.0600889,.60920465
+CIND/probable dementia,zC4N_FF_13,Standardized values of C4N_FF_13,Model 1,1.019577116741205,.90508747,1.1485492,.74551034
+CIND/probable dementia,zC4N_FF_13,Standardized values of C4N_FF_13,Model 2,.9996328739755381,.87016082,1.1483692,.99578637
+CIND/probable dementia,zC4N_FF_13,Standardized values of C4N_FF_13,Model 3,1.029319050053393,.91295618,1.1605133,.63119644
+CIND/probable dementia,zC4O_FF_13,Standardized values of C4O_FF_13,Model 1,.9999293650161368,.8948974,1.1172887,.99898684
+CIND/probable dementia,zC4O_FF_13,Standardized values of C4O_FF_13,Model 2,.9773494438338537,.87728864,1.0888228,.67241949
+CIND/probable dementia,zC4O_FF_13,Standardized values of C4O_FF_13,Model 3,.9885728984585085,.88393193,1.1056014,.83765918
+CIND/probable dementia,zC4P_FF_13,Standardized values of C4P_FF_13,Model 1,1.036054720508025,.88825113,1.2084526,.64649731
+CIND/probable dementia,zC4P_FF_13,Standardized values of C4P_FF_13,Model 2,1.075292971212223,.92401969,1.2513314,.34148863
+CIND/probable dementia,zC4P_FF_13,Standardized values of C4P_FF_13,Model 3,1.106535006401821,.94400555,1.2970471,.20693095
+CIND/probable dementia,zC4Q_FF_13,Standardized values of C4Q_FF_13,Model 1,.8297264543873376,.71834296,.9583807,.012101772
+CIND/probable dementia,zC4Q_FF_13,Standardized values of C4Q_FF_13,Model 2,.9012418868113724,.78432423,1.0355883,.13941342
+CIND/probable dementia,zC4Q_FF_13,Standardized values of C4Q_FF_13,Model 3,.9350093781129275,.81532812,1.0722585,.32979891
+CIND/probable dementia,zC4R_FF_13,Standardized values of C4R_FF_13,Model 1,1.139781490214951,1.0228037,1.270138,.018790586
+CIND/probable dementia,zC4R_FF_13,Standardized values of C4R_FF_13,Model 2,1.114286966816693,.99954987,1.2421947,.050923932
+CIND/probable dementia,zC4R_FF_13,Standardized values of C4R_FF_13,Model 3,1.127102471856315,1.0008519,1.2692786,.048435744
+CIND/probable dementia,zC4S_FF_13,Standardized values of C4S_FF_13,Model 1,1.025972054320245,.9070546,1.1604799,.67822367
+CIND/probable dementia,zC4S_FF_13,Standardized values of C4S_FF_13,Model 2,1.055916096318718,.94027275,1.1857823,.35131389
+CIND/probable dementia,zC4S_FF_13,Standardized values of C4S_FF_13,Model 3,1.050828502212626,.94261891,1.1714602,.36455294
+CIND/probable dementia,zC5AA_FF_13,Standardized values of C5AA_FF_13,Model 1,1.04673464444996,.94583076,1.1584033,.37045777
+CIND/probable dementia,zC5AA_FF_13,Standardized values of C5AA_FF_13,Model 2,1.001216995931552,.89935106,1.1146208,.98195869
+CIND/probable dementia,zC5AA_FF_13,Standardized values of C5AA_FF_13,Model 3,1.039412591376565,.9380762,1.151696,.45335361
+CIND/probable dementia,zC5AB_FF_13,Standardized values of C5AB_FF_13,Model 1,.960723226255827,.82219869,1.1225865,.60811657
+CIND/probable dementia,zC5AB_FF_13,Standardized values of C5AB_FF_13,Model 2,.9597775900578658,.82369554,1.1183417,.59268969
+CIND/probable dementia,zC5AB_FF_13,Standardized values of C5AB_FF_13,Model 3,.9765662168427166,.8394329,1.1361022,.75466835
+CIND/probable dementia,zC5A_FF_13,Standardized values of C5A_FF_13,Model 1,.9152155923562555,.79167229,1.0580382,.22602847
+CIND/probable dementia,zC5A_FF_13,Standardized values of C5A_FF_13,Model 2,.9475374505652829,.82057345,1.0941461,.45604298
+CIND/probable dementia,zC5A_FF_13,Standardized values of C5A_FF_13,Model 3,.9718862517821824,.82988149,1.1381902,.71888816
+CIND/probable dementia,zC5B_FF_13,Standardized values of C5B_FF_13,Model 1,1.05903664482833,.88467401,1.2677648,.52548259
+CIND/probable dementia,zC5B_FF_13,Standardized values of C5B_FF_13,Model 2,1.048060895042652,.87221122,1.2593642,.61056238
+CIND/probable dementia,zC5B_FF_13,Standardized values of C5B_FF_13,Model 3,1.054359859131734,.87301105,1.2733798,.57636565
+CIND/probable dementia,zC5C_FF_13,Standardized values of C5C_FF_13,Model 1,.9235599422292637,.77572119,1.0995741,.3649444
+CIND/probable dementia,zC5C_FF_13,Standardized values of C5C_FF_13,Model 2,.9845973699743507,.83883774,1.1556847,.84676445
+CIND/probable dementia,zC5C_FF_13,Standardized values of C5C_FF_13,Model 3,.9838897126395343,.82909203,1.1675893,.84989965
+CIND/probable dementia,zC5D_FF_13,Standardized values of C5D_FF_13,Model 1,.8652240430790631,.70610392,1.0602019,.15906957
+CIND/probable dementia,zC5D_FF_13,Standardized values of C5D_FF_13,Model 2,.8769271237142244,.71968502,1.0685246,.18839139
+CIND/probable dementia,zC5D_FF_13,Standardized values of C5D_FF_13,Model 3,.9314981086141679,.77875137,1.1142051,.43060154
+CIND/probable dementia,zC5E_FF_13,Standardized values of C5E_FF_13,Model 1,.710143907701937,.49050233,1.0281386,.069139965
+CIND/probable dementia,zC5E_FF_13,Standardized values of C5E_FF_13,Model 2,.7487615440548938,.53000122,1.0578161,.099009149
+CIND/probable dementia,zC5E_FF_13,Standardized values of C5E_FF_13,Model 3,.7560740910340457,.54114926,1.0563593,.099512242
+CIND/probable dementia,zC5F_FF_13,Standardized values of C5F_FF_13,Model 1,1.035031607035953,.88368881,1.2122937,.66418147
+CIND/probable dementia,zC5F_FF_13,Standardized values of C5F_FF_13,Model 2,1.023234195611724,.8750391,1.1965274,.76970965
+CIND/probable dementia,zC5F_FF_13,Standardized values of C5F_FF_13,Model 3,1.016501745482692,.87327689,1.1832167,.82980478
+CIND/probable dementia,zC5G_FF_13,Standardized values of C5G_FF_13,Model 1,.8731410495715911,.74119622,1.0285742,.10272424
+CIND/probable dementia,zC5G_FF_13,Standardized values of C5G_FF_13,Model 2,.8992536028415204,.77926683,1.0377152,.14299375
+CIND/probable dementia,zC5G_FF_13,Standardized values of C5G_FF_13,Model 3,.9262769389185223,.80699539,1.0631894,.27042308
+CIND/probable dementia,zC5H_FF_13,Standardized values of C5H_FF_13,Model 1,.967993512522235,.86151165,1.0876365,.57815588
+CIND/probable dementia,zC5H_FF_13,Standardized values of C5H_FF_13,Model 2,.9477985317915012,.84299815,1.0656276,.36318168
+CIND/probable dementia,zC5H_FF_13,Standardized values of C5H_FF_13,Model 3,.9425905256561776,.831092,1.0690476,.35073128
+CIND/probable dementia,zC5I_FF_13,Standardized values of C5I_FF_13,Model 1,.992808096989761,.88233894,1.117108,.90285105
+CIND/probable dementia,zC5I_FF_13,Standardized values of C5I_FF_13,Model 2,1.010046074560932,.91445583,1.1156286,.84106052
+CIND/probable dementia,zC5I_FF_13,Standardized values of C5I_FF_13,Model 3,1.022079069585177,.91848785,1.1373538,.68373156
+CIND/probable dementia,zC5J_FF_13,Standardized values of C5J_FF_13,Model 1,.9461702535568111,.72500694,1.2347995,.6786657
+CIND/probable dementia,zC5J_FF_13,Standardized values of C5J_FF_13,Model 2,.9729856289778412,.80046695,1.182686,.77961314
+CIND/probable dementia,zC5J_FF_13,Standardized values of C5J_FF_13,Model 3,.9960300362313611,.81307465,1.2201535,.96881032
+CIND/probable dementia,zC5K_FF_13,Standardized values of C5K_FF_13,Model 1,.8139822399076515,.68300289,.97007942,.022332482
+CIND/probable dementia,zC5K_FF_13,Standardized values of C5K_FF_13,Model 2,.8642780765708109,.73735642,1.0130469,.07109464
+CIND/probable dementia,zC5K_FF_13,Standardized values of C5K_FF_13,Model 3,.8888912329769149,.74756169,1.0569397,.17839569
+CIND/probable dementia,zC5L_FF_13,Standardized values of C5L_FF_13,Model 1,.9710261144472782,.86365926,1.0917404,.61706984
+CIND/probable dementia,zC5L_FF_13,Standardized values of C5L_FF_13,Model 2,.990396160351863,.8829459,1.1109226,.86688429
+CIND/probable dementia,zC5L_FF_13,Standardized values of C5L_FF_13,Model 3,1.009310583901183,.8939957,1.1394998,.87889183
+CIND/probable dementia,zC5M_FF_13,Standardized values of C5M_FF_13,Model 1,1.073690337076967,.94641125,1.2180866,.26368558
+CIND/probable dementia,zC5M_FF_13,Standardized values of C5M_FF_13,Model 2,1.084412991400897,.95359957,1.2331712,.21178864
+CIND/probable dementia,zC5M_FF_13,Standardized values of C5M_FF_13,Model 3,1.076421224236077,.95170999,1.2174746,.23585458
+CIND/probable dementia,zC5N_FF_13,Standardized values of C5N_FF_13,Model 1,.9707086291497158,.85071671,1.1076251,.65338308
+CIND/probable dementia,zC5N_FF_13,Standardized values of C5N_FF_13,Model 2,.96713766872416,.86127907,1.0860072,.56584918
+CIND/probable dementia,zC5N_FF_13,Standardized values of C5N_FF_13,Model 3,.9735200955930196,.86233658,1.0990388,.65915769
+CIND/probable dementia,zC5O_FF_13,Standardized values of C5O_FF_13,Model 1,.9726484736024733,.84356302,1.1214871,.69780588
+CIND/probable dementia,zC5O_FF_13,Standardized values of C5O_FF_13,Model 2,.9824515579020943,.86951166,1.110061,.77249867
+CIND/probable dementia,zC5O_FF_13,Standardized values of C5O_FF_13,Model 3,1.014051476059034,.89745015,1.1458023,.81977451
+CIND/probable dementia,zC5P_FF_13,Standardized values of C5P_FF_13,Model 1,1.011769717852991,.86225587,1.187209,.88394767
+CIND/probable dementia,zC5P_FF_13,Standardized values of C5P_FF_13,Model 2,.9971165135101269,.85101962,1.1682943,.97099477
+CIND/probable dementia,zC5P_FF_13,Standardized values of C5P_FF_13,Model 3,1.017692015923356,.88432044,1.1711785,.80336916
+CIND/probable dementia,zC5Q_FF_13,Standardized values of C5Q_FF_13,Model 1,.9620907083688088,.83097756,1.1138911,.59917969
+CIND/probable dementia,zC5Q_FF_13,Standardized values of C5Q_FF_13,Model 2,1.000876793006546,.89261419,1.1222702,.98781449
+CIND/probable dementia,zC5Q_FF_13,Standardized values of C5Q_FF_13,Model 3,1.00162373526622,.90697819,1.1061457,.97398728
+CIND/probable dementia,zC5R_FF_13,Standardized values of C5R_FF_13,Model 1,.8748970580441077,.69727969,1.0977587,.24295101
+CIND/probable dementia,zC5R_FF_13,Standardized values of C5R_FF_13,Model 2,.9110280920719533,.75830364,1.0945116,.31327048
+CIND/probable dementia,zC5R_FF_13,Standardized values of C5R_FF_13,Model 3,.9149400861946752,.77447891,1.0808756,.28977996
+CIND/probable dementia,zC5S_FF_13,Standardized values of C5S_FF_13,Model 1,.9803731937848528,.86213392,1.1148287,.75842661
+CIND/probable dementia,zC5S_FF_13,Standardized values of C5S_FF_13,Model 2,.9329113304286968,.82166213,1.0592232,.27785441
+CIND/probable dementia,zC5S_FF_13,Standardized values of C5S_FF_13,Model 3,.9703314374206912,.85439223,1.1020033,.63714385
+CIND/probable dementia,zC5T_FF_13,Standardized values of C5T_FF_13,Model 1,.9590379334238325,.82157916,1.1194949,.59014124
+CIND/probable dementia,zC5T_FF_13,Standardized values of C5T_FF_13,Model 2,.9876779255545672,.84458506,1.1550142,.87444115
+CIND/probable dementia,zC5T_FF_13,Standardized values of C5T_FF_13,Model 3,1.007562179009473,.87912279,1.1547666,.91224343
+CIND/probable dementia,zC5U_FF_13,Standardized values of C5U_FF_13,Model 1,.8439341348971708,.67549688,1.0543717,.13238224
+CIND/probable dementia,zC5U_FF_13,Standardized values of C5U_FF_13,Model 2,.8949188189106664,.74050462,1.0815324,.24516708
+CIND/probable dementia,zC5U_FF_13,Standardized values of C5U_FF_13,Model 3,.9312339011156645,.78289682,1.1076767,.41412926
+CIND/probable dementia,zC5V_FF_13,Standardized values of C5V_FF_13,Model 1,1.009411239306729,.90960515,1.1201686,.85757244
+CIND/probable dementia,zC5V_FF_13,Standardized values of C5V_FF_13,Model 2,1.005687290066756,.88826054,1.1386377,.92739892
+CIND/probable dementia,zC5V_FF_13,Standardized values of C5V_FF_13,Model 3,1.025790895146469,.91337854,1.1520382,.66190606
+CIND/probable dementia,zC5W_FF_13,Standardized values of C5W_FF_13,Model 1,.9575051903399495,.79164457,1.1581159,.64911801
+CIND/probable dementia,zC5W_FF_13,Standardized values of C5W_FF_13,Model 2,.9765165410778249,.82775021,1.1520197,.77432525
+CIND/probable dementia,zC5W_FF_13,Standardized values of C5W_FF_13,Model 3,.9972781130811053,.83380353,1.1928034,.97577095
+CIND/probable dementia,zC5X_FF_13,Standardized values of C5X_FF_13,Model 1,.8916299132262298,.70849419,1.1221036,.32176724
+CIND/probable dementia,zC5X_FF_13,Standardized values of C5X_FF_13,Model 2,.9732987034339606,.79717392,1.1883359,.78686339
+CIND/probable dementia,zC5X_FF_13,Standardized values of C5X_FF_13,Model 3,1.038835160038699,.84446728,1.27794,.71384472
+CIND/probable dementia,zC5Y_FF_13,Standardized values of C5Y_FF_13,Model 1,1.004503403436631,.90813226,1.1111015,.92918283
+CIND/probable dementia,zC5Y_FF_13,Standardized values of C5Y_FF_13,Model 2,1.018742709714178,.92408353,1.1230984,.70423472
+CIND/probable dementia,zC5Y_FF_13,Standardized values of C5Y_FF_13,Model 3,1.051767896076709,.95235127,1.1615627,.31281278
+CIND/probable dementia,zC5Z_FF_13,Standardized values of C5Z_FF_13,Model 1,.9522796529210853,.84148622,1.0776606,.43162751
+CIND/probable dementia,zC5Z_FF_13,Standardized values of C5Z_FF_13,Model 2,.9758478895538442,.8611111,1.1058725,.69678801
+CIND/probable dementia,zC5Z_FF_13,Standardized values of C5Z_FF_13,Model 3,1.018379210294427,.91158503,1.1376846,.74306023
+CIND/probable dementia,zC6A_FF_13,Standardized values of C6A_FF_13,Model 1,1.117026200744691,1.0057386,1.2406281,.039125349
+CIND/probable dementia,zC6A_FF_13,Standardized values of C6A_FF_13,Model 2,1.090371437344517,.96670526,1.2298577,.15544313
+CIND/probable dementia,zC6A_FF_13,Standardized values of C6A_FF_13,Model 3,1.093277675580958,.97004426,1.2321665,.14078629
+CIND/probable dementia,zC6B_FF_13,Standardized values of C6B_FF_13,Model 1,.9839172382911995,.87463647,1.1068521,.78359461
+CIND/probable dementia,zC6B_FF_13,Standardized values of C6B_FF_13,Model 2,.9871135899222748,.87334049,1.1157084,.83269203
+CIND/probable dementia,zC6B_FF_13,Standardized values of C6B_FF_13,Model 3,.9785060558410468,.86808956,1.1029669,.71748918
+CIND/probable dementia,zC6C_FF_13,Standardized values of C6C_FF_13,Model 1,1.092942740391825,.96883869,1.232944,.14519541
+CIND/probable dementia,zC6C_FF_13,Standardized values of C6C_FF_13,Model 2,1.102342254147181,.9768334,1.2439772,.11193807
+CIND/probable dementia,zC6C_FF_13,Standardized values of C6C_FF_13,Model 3,1.102252294495202,.98276693,1.2362648,.094699576
+CIND/probable dementia,zC6D_FF_13,Standardized values of C6D_FF_13,Model 1,1.062334806732825,.95518178,1.1815083,.25932407
+CIND/probable dementia,zC6D_FF_13,Standardized values of C6D_FF_13,Model 2,1.007488803463163,.90999442,1.1154284,.88374168
+CIND/probable dementia,zC6D_FF_13,Standardized values of C6D_FF_13,Model 3,1.007287773484915,.90012217,1.1272122,.89753872
+CIND/probable dementia,zC6E_FF_13,Standardized values of C6E_FF_13,Model 1,1.020044222114104,.91475439,1.1374531,.71646309
+CIND/probable dementia,zC6E_FF_13,Standardized values of C6E_FF_13,Model 2,1.003264907996661,.90168297,1.1162909,.95142812
+CIND/probable dementia,zC6E_FF_13,Standardized values of C6E_FF_13,Model 3,1.029428048096716,.9268021,1.1434178,.58218855
+CIND/probable dementia,zC6F_FF_13,Standardized values of C6F_FF_13,Model 1,1.119583265895339,.99720341,1.256982,.055604685
+CIND/probable dementia,zC6F_FF_13,Standardized values of C6F_FF_13,Model 2,1.093931961949297,.96314198,1.2424825,.16329306
+CIND/probable dementia,zC6F_FF_13,Standardized values of C6F_FF_13,Model 3,1.102405885489082,.94950074,1.2799345,.19612975
+CIND/probable dementia,zC6G_FF_13,Standardized values of C6G_FF_13,Model 1,1.038165515476259,.88165069,1.2224656,.64780438
+CIND/probable dementia,zC6G_FF_13,Standardized values of C6G_FF_13,Model 2,1.093014129819918,.9377656,1.2739643,.24965923
+CIND/probable dementia,zC6G_FF_13,Standardized values of C6G_FF_13,Model 3,1.142448129621592,.97028518,1.3451588,.10798347
+CIND/probable dementia,zC6H_FF_13,Standardized values of C6H_FF_13,Model 1,1.182165843079064,1.0802596,1.2936854,.00046883195
+CIND/probable dementia,zC6H_FF_13,Standardized values of C6H_FF_13,Model 2,1.146171730072262,1.0542169,1.2461474,.001862733
+CIND/probable dementia,zC6H_FF_13,Standardized values of C6H_FF_13,Model 3,1.127659523316327,1.0172051,1.2501076,.023182211
+CIND/probable dementia,zC6I_FF_13,Standardized values of C6I_FF_13,Model 1,1.155468387672404,1.0631177,1.2558414,.00099954871
+CIND/probable dementia,zC6I_FF_13,Standardized values of C6I_FF_13,Model 2,1.130574468754817,1.0440205,1.2243041,.0031557416
+CIND/probable dementia,zC6I_FF_13,Standardized values of C6I_FF_13,Model 3,1.142201420562098,1.0521456,1.2399653,.0020041659
+CIND/probable dementia,zC6J_FF_13,Standardized values of C6J_FF_13,Model 1,1.079204301443544,.97971505,1.1887966,.11997742
+CIND/probable dementia,zC6J_FF_13,Standardized values of C6J_FF_13,Model 2,1.061467554303303,.97634703,1.1540091,.15832904
+CIND/probable dementia,zC6J_FF_13,Standardized values of C6J_FF_13,Model 3,1.015100613654299,.91673541,1.1240203,.76933956
+CIND/probable dementia,zC6K_FF_13,Standardized values of C6K_FF_13,Model 1,1.172690045319494,1.0818672,1.2711375,.00021717863
+CIND/probable dementia,zC6K_FF_13,Standardized values of C6K_FF_13,Model 2,1.117121448475035,1.0399729,1.1999931,.0030342941
+CIND/probable dementia,zC6K_FF_13,Standardized values of C6K_FF_13,Model 3,1.087458615423125,1.0025778,1.1795257,.043402012
+CIND/probable dementia,zC6L_FF_13,Standardized values of C6L_FF_13,Model 1,1.116652346788754,1.0138774,1.2298454,.025874754
+CIND/probable dementia,zC6L_FF_13,Standardized values of C6L_FF_13,Model 2,1.137006353783278,1.0334271,1.2509673,.0093452083
+CIND/probable dementia,zC6L_FF_13,Standardized values of C6L_FF_13,Model 3,1.120263880905574,1.024647,1.2248034,.01355448
+CIND/probable dementia,zC6M_FF_13,Standardized values of C6M_FF_13,Model 1,1.106774557615694,.98014563,1.2497631,.099951446
+CIND/probable dementia,zC6M_FF_13,Standardized values of C6M_FF_13,Model 2,1.094257791849363,.97559953,1.227348,.12151708
+CIND/probable dementia,zC6M_FF_13,Standardized values of C6M_FF_13,Model 3,1.082983934088215,.96138972,1.2199571,.18528196
+CIND/probable dementia,zC6N_FF_13,Standardized values of C6N_FF_13,Model 1,.9578663242001094,.84569019,1.0849221,.49146819
+CIND/probable dementia,zC6N_FF_13,Standardized values of C6N_FF_13,Model 2,.9867493362373264,.88323528,1.1023951,.81028605
+CIND/probable dementia,zC6N_FF_13,Standardized values of C6N_FF_13,Model 3,.972001939080576,.86197835,1.096069,.63755721
+CIND/probable dementia,zC6O_FF_13,Standardized values of C6O_FF_13,Model 1,.9249848985065,.7857787,1.0888524,.3421962
+CIND/probable dementia,zC6O_FF_13,Standardized values of C6O_FF_13,Model 2,.9462459801985926,.80728734,1.1091236,.48862362
+CIND/probable dementia,zC6O_FF_13,Standardized values of C6O_FF_13,Model 3,.9166509701859054,.77381194,1.0858568,.30771282
+CIND/probable dementia,zC6P_FF_13,Standardized values of C6P_FF_13,Model 1,.8684272960663623,.75017804,1.005316,.058586199
+CIND/probable dementia,zC6P_FF_13,Standardized values of C6P_FF_13,Model 2,.9182629814395026,.80285579,1.0502595,.20860136
+CIND/probable dementia,zC6P_FF_13,Standardized values of C6P_FF_13,Model 3,.8984189371897022,.78373766,1.029881,.12169427
+CIND/probable dementia,zC6Q_FF_13,Standardized values of C6Q_FF_13,Model 1,1.093837522771588,.9969179,1.2001796,.05784243
+CIND/probable dementia,zC6Q_FF_13,Standardized values of C6Q_FF_13,Model 2,1.018159853828654,.87937629,1.1788464,.80650347
+CIND/probable dementia,zC6Q_FF_13,Standardized values of C6Q_FF_13,Model 3,.9588870824915398,.81866068,1.1231325,.59677023
+CIND/probable dementia,zC6R_FF_13,Standardized values of C6R_FF_13,Model 1,1.122406041625951,1.011281,1.2457421,.030582633
+CIND/probable dementia,zC6R_FF_13,Standardized values of C6R_FF_13,Model 2,1.030622687505321,.89642042,1.1849163,.66649598
+CIND/probable dementia,zC6R_FF_13,Standardized values of C6R_FF_13,Model 3,.9901589086423642,.86474234,1.1337651,.88418639
+CIND/probable dementia,zC6S_FF_13,Standardized values of C6S_FF_13,Model 1,.9431550493855405,.79347157,1.1210754,.50018215
+CIND/probable dementia,zC6S_FF_13,Standardized values of C6S_FF_13,Model 2,.9694770902981465,.84330833,1.1145221,.65766191
+CIND/probable dementia,zC6S_FF_13,Standardized values of C6S_FF_13,Model 3,.9740795307475538,.86322927,1.0991645,.66480267
+CIND/probable dementia,zC6T_FF_13,Standardized values of C6T_FF_13,Model 1,1.114945887176746,1.0240649,1.2138921,.013091519
+CIND/probable dementia,zC6T_FF_13,Standardized values of C6T_FF_13,Model 2,1.049912004867327,.95509839,1.1541378,.30691397
+CIND/probable dementia,zC6T_FF_13,Standardized values of C6T_FF_13,Model 3,1.043336345844663,.93439698,1.1649767,.44403407
+CIND/probable dementia,zC6U_FF_13,Standardized values of C6U_FF_13,Model 1,.9804954900190799,.85554981,1.1236885,.77322417
+CIND/probable dementia,zC6U_FF_13,Standardized values of C6U_FF_13,Model 2,1.015585188164625,.90846705,1.1353338,.7820124
+CIND/probable dementia,zC6U_FF_13,Standardized values of C6U_FF_13,Model 3,1.022620279199138,.92925179,1.1253701,.64149398
+CIND/probable dementia,zC6V_FF_13,Standardized values of C6V_FF_13,Model 1,.8670568037374331,.77301556,.97253865,.015820747
+CIND/probable dementia,zC6V_FF_13,Standardized values of C6V_FF_13,Model 2,.8963197387181312,.80359179,.99974775,.049491204
+CIND/probable dementia,zC6V_FF_13,Standardized values of C6V_FF_13,Model 3,.9321967153300907,.83026999,1.0466362,.22949606
+CIND/probable dementia,zC6W_FF_13,Standardized values of C6W_FF_13,Model 1,.8857948822429742,.7770797,1.0097195,.068813019
+CIND/probable dementia,zC6W_FF_13,Standardized values of C6W_FF_13,Model 2,.905046610689586,.81995314,.99897099,.047738623
+CIND/probable dementia,zC6W_FF_13,Standardized values of C6W_FF_13,Model 3,.9146674804745993,.81933659,1.0210903,.11008689
+CIND/probable dementia,zC7A_FF_13,Standardized values of C7A_FF_13,Model 1,.9680589178370732,.84944791,1.1032319,.62066132
+CIND/probable dementia,zC7A_FF_13,Standardized values of C7A_FF_13,Model 2,.9967161075430595,.87193155,1.1393589,.96087205
+CIND/probable dementia,zC7A_FF_13,Standardized values of C7A_FF_13,Model 3,.9806103260628924,.86807269,1.1077374,.74874926
+CIND/probable dementia,zC7B_FF_13,Standardized values of C7B_FF_13,Model 1,1.051885675601355,.9384957,1.1789756,.37800169
+CIND/probable dementia,zC7B_FF_13,Standardized values of C7B_FF_13,Model 2,1.035420615824775,.92416811,1.1600659,.54195756
+CIND/probable dementia,zC7B_FF_13,Standardized values of C7B_FF_13,Model 3,1.04838209906715,.92496997,1.1882602,.45285463
+CIND/probable dementia,zC7C_FF_13,Standardized values of C7C_FF_13,Model 1,1.106882555386603,1.0094945,1.2136657,.031309411
+CIND/probable dementia,zC7C_FF_13,Standardized values of C7C_FF_13,Model 2,1.053957441874123,.93936485,1.1825291,.36419907
+CIND/probable dementia,zC7C_FF_13,Standardized values of C7C_FF_13,Model 3,1.072193819942963,.96628541,1.1897103,.18472698
+CIND/probable dementia,zC7E_FF_13,Standardized values of C7E_FF_13,Model 1,1.124487646143356,1.023671,1.2352332,.015307116
+CIND/probable dementia,zC7E_FF_13,Standardized values of C7E_FF_13,Model 2,1.088360386753874,.9957158,1.1896249,.061705153
+CIND/probable dementia,zC7E_FF_13,Standardized values of C7E_FF_13,Model 3,1.043080737579006,.94532877,1.1509408,.39406222
+CIND/probable dementia,zC7F_FF_13,Standardized values of C7F_FF_13,Model 1,1.00595530881325,.902933,1.1207322,.91270453
+CIND/probable dementia,zC7F_FF_13,Standardized values of C7F_FF_13,Model 2,1.018658707899571,.90734345,1.1436304,.75006622
+CIND/probable dementia,zC7F_FF_13,Standardized values of C7F_FF_13,Model 3,1.019239183811486,.89835131,1.1563945,.76341683
+CIND/probable dementia,zC7G_FF_13,Standardized values of C7G_FF_13,Model 1,.9333553452678457,.82783091,1.0523311,.25429058
+CIND/probable dementia,zC7G_FF_13,Standardized values of C7G_FF_13,Model 2,.9306780442971013,.82651883,1.0479635,.23030579
+CIND/probable dementia,zC7G_FF_13,Standardized values of C7G_FF_13,Model 3,.9509932742943759,.84695762,1.067808,.38852683
+CIND/probable dementia,zC7H_FF_13,Standardized values of C7H_FF_13,Model 1,.9149623289369442,.7992571,1.0474178,.19318748
+CIND/probable dementia,zC7H_FF_13,Standardized values of C7H_FF_13,Model 2,.9588570886028199,.84426755,1.0889995,.51102579
+CIND/probable dementia,zC7H_FF_13,Standardized values of C7H_FF_13,Model 3,.9520140810760455,.83379561,1.0869941,.46048829
+CIND/probable dementia,zC7I_FF_13,Standardized values of C7I_FF_13,Model 1,1.009331561116227,.9193511,1.1081188,.84272623
+CIND/probable dementia,zC7I_FF_13,Standardized values of C7I_FF_13,Model 2,.9755113500274006,.87772387,1.0841933,.63993591
+CIND/probable dementia,zC7I_FF_13,Standardized values of C7I_FF_13,Model 3,.9410057230921157,.84341806,1.0498848,.27055079
+CIND/probable dementia,zC7J_FF_13,Standardized values of C7J_FF_13,Model 1,1.008793368764265,.89121962,1.141878,.88792419
+CIND/probable dementia,zC7J_FF_13,Standardized values of C7J_FF_13,Model 2,1.011777794352888,.92231268,1.1099211,.8008579
+CIND/probable dementia,zC7J_FF_13,Standardized values of C7J_FF_13,Model 3,1.046571159389453,.94860524,1.1546544,.3573727
+CIND/probable dementia,zC7K_FF_13,Standardized values of C7K_FF_13,Model 1,1.120836369103948,1.0255244,1.2250067,.012829684
+CIND/probable dementia,zC7K_FF_13,Standardized values of C7K_FF_13,Model 2,1.058280134142641,.953134,1.1750256,.28274032
+CIND/probable dementia,zC7K_FF_13,Standardized values of C7K_FF_13,Model 3,1.047524637417039,.93094766,1.1786999,.43369815
+CIND/probable dementia,zC7L_FF_13,Standardized values of C7L_FF_13,Model 1,1.016603191592776,.88831127,1.1634234,.80765468
+CIND/probable dementia,zC7L_FF_13,Standardized values of C7L_FF_13,Model 2,1.06261290878826,.94255722,1.1979604,.3144733
+CIND/probable dementia,zC7L_FF_13,Standardized values of C7L_FF_13,Model 3,1.027222306614382,.90447295,1.1666304,.67397958
+CIND/probable dementia,zC7M_FF_13,Standardized values of C7M_FF_13,Model 1,1.012247442427438,.89894354,1.1398323,.83793485
+CIND/probable dementia,zC7M_FF_13,Standardized values of C7M_FF_13,Model 2,.9503956178696501,.82355708,1.0967689,.47960752
+CIND/probable dementia,zC7M_FF_13,Standardized values of C7M_FF_13,Model 3,.9444179485799568,.82626897,1.0794612,.39488712
+CIND/probable dementia,zC7N_FF_13,Standardized values of C7N_FF_13,Model 1,.8771359951859992,.56276244,1.3671267,.55629975
+CIND/probable dementia,zC7N_FF_13,Standardized values of C7N_FF_13,Model 2,.9427791330980412,.70058471,1.268701,.69238824
+CIND/probable dementia,zC7N_FF_13,Standardized values of C7N_FF_13,Model 3,.9657765227316587,.73225611,1.2737678,.80189055
+CIND/probable dementia,zC7O_FF_13,Standardized values of C7O_FF_13,Model 1,1.156617174087384,1.0373173,1.2896376,.0097326227
+CIND/probable dementia,zC7O_FF_13,Standardized values of C7O_FF_13,Model 2,1.117487810493789,1.0183914,1.2262269,.019937269
+CIND/probable dementia,zC7O_FF_13,Standardized values of C7O_FF_13,Model 3,1.088896173089353,.98656178,1.2018455,.089360796
+CIND/probable dementia,zC7P_FF_13,Standardized values of C7P_FF_13,Model 1,1.058545921075695,.94974273,1.1798137,.29772583
+CIND/probable dementia,zC7P_FF_13,Standardized values of C7P_FF_13,Model 2,1.057631267719084,.95117301,1.1760046,.29448512
+CIND/probable dementia,zC7P_FF_13,Standardized values of C7P_FF_13,Model 3,1.033682938543124,.93663579,1.1407853,.50351
+CIND/probable dementia,zC7Q_FF_13,Standardized values of C7Q_FF_13,Model 1,.9211605195901743,.83380967,1.0176623,.10426022
+CIND/probable dementia,zC7Q_FF_13,Standardized values of C7Q_FF_13,Model 2,.9658145071513957,.88072389,1.0591261,.452981
+CIND/probable dementia,zC7Q_FF_13,Standardized values of C7Q_FF_13,Model 3,.933455834137326,.84878719,1.0265704,.15236287
+CIND/probable dementia,zC7R_FF_13,Standardized values of C7R_FF_13,Model 1,1.025896008037517,.92249113,1.1408918,.63154167
+CIND/probable dementia,zC7R_FF_13,Standardized values of C7R_FF_13,Model 2,1.038380073326499,.92965513,1.1598207,.49784863
+CIND/probable dementia,zC7R_FF_13,Standardized values of C7R_FF_13,Model 3,1.00386440365945,.89277613,1.1287754,.94768965
+CIND/probable dementia,zC7SA_FF_13,Standardized values of C7SA_FF_13,Model 1,1.011550643931327,.87277067,1.1723981,.87663126
+CIND/probable dementia,zC7SA_FF_13,Standardized values of C7SA_FF_13,Model 2,1.027854305330086,.90013123,1.1737006,.67979807
+CIND/probable dementia,zC7SA_FF_13,Standardized values of C7SA_FF_13,Model 3,1.04510569443125,.92498279,1.1808283,.47205731
+CIND/probable dementia,zC7SB_FF_13,Standardized values of C7SB_FF_13,Model 1,.9593859994377163,.81268519,1.1325684,.61857909
+CIND/probable dementia,zC7SB_FF_13,Standardized values of C7SB_FF_13,Model 2,.9469365040572802,.79287231,1.1309371,.54086381
+CIND/probable dementia,zC7SB_FF_13,Standardized values of C7SB_FF_13,Model 3,.933352621980717,.7936846,1.0975986,.39751238
+CIND/probable dementia,zC7S_FF_13,Standardized values of C7S_FF_13,Model 1,.9673160816522561,.8515873,1.0987722,.60333562
+CIND/probable dementia,zC7S_FF_13,Standardized values of C7S_FF_13,Model 2,.9662230030523642,.84669745,1.1026216,.60413581
+CIND/probable dementia,zC7S_FF_13,Standardized values of C7S_FF_13,Model 3,.9423533718878053,.81444758,1.0903462,.41817608
+CIND/probable dementia,zC7T_FF_13,Standardized values of C7T_FF_13,Model 1,1.030514484249746,.9045918,1.1739661,.64576352
+CIND/probable dementia,zC7T_FF_13,Standardized values of C7T_FF_13,Model 2,1.032166740078596,.92434859,1.1525611,.56756973
+CIND/probable dementia,zC7T_FF_13,Standardized values of C7T_FF_13,Model 3,1.002822850625454,.89641684,1.1218594,.96001559
+CIND/probable dementia,zC8A_FF_13,Standardized values of C8A_FF_13,Model 1,1.053491196035347,.93123776,1.1917942,.40087947
+CIND/probable dementia,zC8A_FF_13,Standardized values of C8A_FF_13,Model 2,1.080779492878034,.95493072,1.2232137,.21388014
+CIND/probable dementia,zC8A_FF_13,Standardized values of C8A_FF_13,Model 3,1.058068619234045,.93511498,1.1971887,.3638159
+CIND/probable dementia,zC8B_FF_13,Standardized values of C8B_FF_13,Model 1,1.09647022071805,1.0361741,1.1602751,.0018969282
+CIND/probable dementia,zC8B_FF_13,Standardized values of C8B_FF_13,Model 2,1.101861984336804,1.0366465,1.1711802,.0023762286
+CIND/probable dementia,zC8B_FF_13,Standardized values of C8B_FF_13,Model 3,1.077749001628777,1.01217,1.1475769,.020291822
+CIND/probable dementia,zC8C_FF_13,Standardized values of C8C_FF_13,Model 1,1.034359379457329,.89995831,1.188832,.62861812
+CIND/probable dementia,zC8C_FF_13,Standardized values of C8C_FF_13,Model 2,.9787816320559269,.84074289,1.1394845,.77845114
+CIND/probable dementia,zC8C_FF_13,Standardized values of C8C_FF_13,Model 3,.9744822104193172,.82188123,1.155417,.76214939
+CIND/probable dementia,zC8D_FF_13,Standardized values of C8D_FF_13,Model 1,1.024838282976084,.92578989,1.1344836,.63048935
+CIND/probable dementia,zC8D_FF_13,Standardized values of C8D_FF_13,Model 2,1.015917216840598,.92426997,1.1166519,.73909199
+CIND/probable dementia,zC8D_FF_13,Standardized values of C8D_FF_13,Model 3,1.011689885319339,.9237653,1.1079832,.79877216
+CIND/probable dementia,zC8E_FF_13,Standardized values of C8E_FF_13,Model 1,1.003706639813969,.90717089,1.1105151,.94181657
+CIND/probable dementia,zC8E_FF_13,Standardized values of C8E_FF_13,Model 2,.9940791947777845,.8983081,1.1000607,.9069103
+CIND/probable dementia,zC8E_FF_13,Standardized values of C8E_FF_13,Model 3,.9458214115691738,.84015739,1.0647745,.3501634
+CIND/probable dementia,zC8F_FF_13,Standardized values of C8F_FF_13,Model 1,1.060216695589146,.96080077,1.1699194,.23910262
+CIND/probable dementia,zC8F_FF_13,Standardized values of C8F_FF_13,Model 2,1.089816357745205,.98842162,1.2016124,.083106749
+CIND/probable dementia,zC8F_FF_13,Standardized values of C8F_FF_13,Model 3,1.078931360684409,.9631654,1.2086116,.18530662
+CIND/probable dementia,zC8G_FF_13,Standardized values of C8G_FF_13,Model 1,1.048653363654715,.95745414,1.1485395,.29995421
+CIND/probable dementia,zC8G_FF_13,Standardized values of C8G_FF_13,Model 2,1.065243368581274,.97833514,1.1598719,.14238796
+CIND/probable dementia,zC8G_FF_13,Standardized values of C8G_FF_13,Model 3,1.027112105694859,.93031162,1.1339849,.59028745
+CIND/probable dementia,zC8H_FF_13,Standardized values of C8H_FF_13,Model 1,.7516334866856609,.64057392,.88194799,.00073025236
+CIND/probable dementia,zC8H_FF_13,Standardized values of C8H_FF_13,Model 2,.8108560792215593,.71113354,.92456275,.0022707349
+CIND/probable dementia,zC8H_FF_13,Standardized values of C8H_FF_13,Model 3,.7693459510637632,.66494316,.89014101,.00067663315
+CIND/probable dementia,zC8I_FF_13,Standardized values of C8I_FF_13,Model 1,.897089171221696,.80448508,1.0003529,.050720792
+CIND/probable dementia,zC8I_FF_13,Standardized values of C8I_FF_13,Model 2,.9784636036469074,.89790905,1.066245,.61359251
+CIND/probable dementia,zC8I_FF_13,Standardized values of C8I_FF_13,Model 3,.9796341337630331,.87970972,1.0909088,.70299351
+CIND/probable dementia,zC8J_FF_13,Standardized values of C8J_FF_13,Model 1,.987460234820293,.8577283,1.1368141,.85816717
+CIND/probable dementia,zC8J_FF_13,Standardized values of C8J_FF_13,Model 2,1.023892256594374,.88918889,1.1790018,.73855877
+CIND/probable dementia,zC8J_FF_13,Standardized values of C8J_FF_13,Model 3,.9981134607313871,.86585885,1.1505692,.97885704
+CIND/probable dementia,zC8K_FF_13,Standardized values of C8K_FF_13,Model 1,.9139534909391615,.80879062,1.0327902,.14588867
+CIND/probable dementia,zC8K_FF_13,Standardized values of C8K_FF_13,Model 2,.8811881330508966,.77855211,.99735457,.045456685
+CIND/probable dementia,zC8K_FF_13,Standardized values of C8K_FF_13,Model 3,.9008343988358716,.7856859,1.0328588,.13167493
+CIND/probable dementia,zC8L_FF_13,Standardized values of C8L_FF_13,Model 1,.9661919291438243,.75734597,1.2326293,.7782324
+CIND/probable dementia,zC8L_FF_13,Standardized values of C8L_FF_13,Model 2,.9780584630809022,.78976071,1.2112509,.83605981
+CIND/probable dementia,zC8L_FF_13,Standardized values of C8L_FF_13,Model 3,1.00358620314836,.8106128,1.2424986,.97332162
+CIND/probable dementia,zC8M_FF_13,Standardized values of C8M_FF_13,Model 1,.8910118589248494,.72068775,1.1015896,.28043205
+CIND/probable dementia,zC8M_FF_13,Standardized values of C8M_FF_13,Model 2,.9125376119961276,.74558258,1.1168782,.36797285
+CIND/probable dementia,zC8M_FF_13,Standardized values of C8M_FF_13,Model 3,.9378752220903097,.75341821,1.1674923,.5596506
+CIND/probable dementia,zC8N_FF_13,Standardized values of C8N_FF_13,Model 1,.9907820637342079,.88523233,1.1089169,.86974031
+CIND/probable dementia,zC8N_FF_13,Standardized values of C8N_FF_13,Model 2,.9918339918115439,.87622404,1.1226976,.8950026
+CIND/probable dementia,zC8N_FF_13,Standardized values of C8N_FF_13,Model 3,.997248644570367,.89178377,1.1151861,.96078175
+CIND/probable dementia,zC8O_FF_13,Standardized values of C8O_FF_13,Model 1,1.079789433618303,.93888813,1.2418362,.27601504
+CIND/probable dementia,zC8O_FF_13,Standardized values of C8O_FF_13,Model 2,1.098449065973173,.96802765,1.246442,.14224549
+CIND/probable dementia,zC8O_FF_13,Standardized values of C8O_FF_13,Model 3,1.060516952813559,.92833173,1.211524,.38026211
+CIND/probable dementia,zC8P_FF_13,Standardized values of C8P_FF_13,Model 1,1.128473945141456,1.0449008,1.2187314,.0026552272
+CIND/probable dementia,zC8P_FF_13,Standardized values of C8P_FF_13,Model 2,1.101748032908459,1.0106235,1.201089,.028513655
+CIND/probable dementia,zC8P_FF_13,Standardized values of C8P_FF_13,Model 3,1.128260597580295,1.0301657,1.2356963,.010248961
+CIND/probable dementia,zC9AA_FF_13,Standardized values of C9AA_FF_13,Model 1,.9276611058410462,.80502683,1.068977,.29319599
+CIND/probable dementia,zC9AA_FF_13,Standardized values of C9AA_FF_13,Model 2,.9444260235461298,.81026888,1.1007956,.45770472
+CIND/probable dementia,zC9AA_FF_13,Standardized values of C9AA_FF_13,Model 3,.8945976220850992,.73750883,1.0851462,.25269046
+CIND/probable dementia,zC9AB_FF_13,Standardized values of C9AB_FF_13,Model 1,1.014581077870742,.90132403,1.1420696,.80730051
+CIND/probable dementia,zC9AB_FF_13,Standardized values of C9AB_FF_13,Model 2,1.029644362884821,.9257977,1.1451395,.58407891
+CIND/probable dementia,zC9AB_FF_13,Standardized values of C9AB_FF_13,Model 3,1.035386973083363,.9319033,1.150362,.51084691
+CIND/probable dementia,zC9AC_FF_13,Standardized values of C9AC_FF_13,Model 1,1.015739174389404,.89706212,1.1501167,.80206591
+CIND/probable dementia,zC9AC_FF_13,Standardized values of C9AC_FF_13,Model 2,1.037508994544128,.91668743,1.1742551,.55360603
+CIND/probable dementia,zC9AC_FF_13,Standardized values of C9AC_FF_13,Model 3,1.042625269346414,.91799706,1.1841731,.51384819
+CIND/probable dementia,zC9AD_FF_13,Standardized values of C9AD_FF_13,Model 1,1.047863251045827,.92493212,1.187133,.45595214
+CIND/probable dementia,zC9AD_FF_13,Standardized values of C9AD_FF_13,Model 2,1.018395962271702,.90074569,1.1514131,.76714438
+CIND/probable dementia,zC9AD_FF_13,Standardized values of C9AD_FF_13,Model 3,1.040397920255385,.92367041,1.1718767,.50760591
+CIND/probable dementia,zC9AE_FF_13,Standardized values of C9AE_FF_13,Model 1,.9224233492259669,.8018325,1.0611503,.25306109
+CIND/probable dementia,zC9AE_FF_13,Standardized values of C9AE_FF_13,Model 2,.9390828856476732,.83457136,1.0566821,.29038
+CIND/probable dementia,zC9AE_FF_13,Standardized values of C9AE_FF_13,Model 3,.904165678236882,.79295599,1.0309722,.12971137
+CIND/probable dementia,zC9AF_FF_13,Standardized values of C9AF_FF_13,Model 1,.9973104387953342,.83219761,1.1951826,.97631824
+CIND/probable dementia,zC9AF_FF_13,Standardized values of C9AF_FF_13,Model 2,1.004844432700363,.85989702,1.1742247,.95065045
+CIND/probable dementia,zC9AF_FF_13,Standardized values of C9AF_FF_13,Model 3,.9812226488889668,.84386361,1.1409402,.80205846
+CIND/probable dementia,zC9AG_FF_13,Standardized values of C9AG_FF_13,Model 1,.9635996162585215,.8283056,1.1209923,.62527043
+CIND/probable dementia,zC9AG_FF_13,Standardized values of C9AG_FF_13,Model 2,.9870262268566078,.85094154,1.1448739,.86062419
+CIND/probable dementia,zC9AG_FF_13,Standardized values of C9AG_FF_13,Model 3,.9470589437922504,.80774039,1.110407,.49618024
+CIND/probable dementia,zC9AH_FF_13,Standardized values of C9AH_FF_13,Model 1,1.171361378106368,1.0411935,1.3178025,.009422278
+CIND/probable dementia,zC9AH_FF_13,Standardized values of C9AH_FF_13,Model 2,1.085228821172058,.96261078,1.223466,.17715225
+CIND/probable dementia,zC9AH_FF_13,Standardized values of C9AH_FF_13,Model 3,1.08557818209595,.95541894,1.2334694,.2029853
+CIND/probable dementia,zC9AI_FF_13,Standardized values of C9AI_FF_13,Model 1,.96332334299346,.82878071,1.1197073,.62062061
+CIND/probable dementia,zC9AI_FF_13,Standardized values of C9AI_FF_13,Model 2,.9416192966690861,.79686338,1.1126711,.47321749
+CIND/probable dementia,zC9AI_FF_13,Standardized values of C9AI_FF_13,Model 3,.937686641383483,.78367627,1.1219636,.47540173
+CIND/probable dementia,zC9AJ_FF_13,Standardized values of C9AJ_FF_13,Model 1,1.041119751023202,.8894363,1.2186711,.61010504
+CIND/probable dementia,zC9AJ_FF_13,Standardized values of C9AJ_FF_13,Model 2,1.030813569319297,.8835305,1.2026484,.69475496
+CIND/probable dementia,zC9AJ_FF_13,Standardized values of C9AJ_FF_13,Model 3,1.009834987897051,.86374968,1.1806276,.90057057
+CIND/probable dementia,zC9AK_FF_13,Standardized values of C9AK_FF_13,Model 1,1.130765405490993,.97086746,1.3169979,.11194304
+CIND/probable dementia,zC9AK_FF_13,Standardized values of C9AK_FF_13,Model 2,1.099769263857809,.93536413,1.2930712,.24424975
+CIND/probable dementia,zC9AK_FF_13,Standardized values of C9AK_FF_13,Model 3,1.100234463383617,.94724667,1.277931,.20640194
+CIND/probable dementia,zC9AL_FF_13,Standardized values of C9AL_FF_13,Model 1,1.074551442549739,.93742639,1.2317349,.29581058
+CIND/probable dementia,zC9AL_FF_13,Standardized values of C9AL_FF_13,Model 2,1.067356738889215,.93674952,1.216174,.32128754
+CIND/probable dementia,zC9AL_FF_13,Standardized values of C9AL_FF_13,Model 3,1.040559009559311,.90372735,1.1981081,.57427496
+CIND/probable dementia,zC9AM_FF_13,Standardized values of C9AM_FF_13,Model 1,.9804543574163596,.89088523,1.0790287,.68126857
+CIND/probable dementia,zC9AM_FF_13,Standardized values of C9AM_FF_13,Model 2,.9582586051225634,.8757776,1.0485077,.34659052
+CIND/probable dementia,zC9AM_FF_13,Standardized values of C9AM_FF_13,Model 3,.937792975208446,.8484503,1.0365435,.20396738
+CIND/probable dementia,zC9AN_FF_13,Standardized values of C9AN_FF_13,Model 1,.8549410926538726,.75314593,.97049487,.016332105
+CIND/probable dementia,zC9AN_FF_13,Standardized values of C9AN_FF_13,Model 2,.9235535304798705,.82867748,1.029292,.14718458
+CIND/probable dementia,zC9AN_FF_13,Standardized values of C9AN_FF_13,Model 3,.9097261892333377,.79762465,1.037583,.15502638
+CIND/probable dementia,zC9AP_FF_13,Standardized values of C9AP_FF_13,Model 1,1.044859406087195,.91308582,1.1956501,.51689112
+CIND/probable dementia,zC9AP_FF_13,Standardized values of C9AP_FF_13,Model 2,1.062299148564936,.93422687,1.2079287,.34993532
+CIND/probable dementia,zC9AP_FF_13,Standardized values of C9AP_FF_13,Model 3,1.074793059213046,.95232105,1.2130154,.23729321
+CIND/probable dementia,zC9A_FF_13,Standardized values of C9A_FF_13,Model 1,1.080415887825358,1.0276067,1.1359389,.0031100977
+CIND/probable dementia,zC9A_FF_13,Standardized values of C9A_FF_13,Model 2,1.063233992313505,1.0066067,1.1230469,.028797697
+CIND/probable dementia,zC9A_FF_13,Standardized values of C9A_FF_13,Model 3,1.043857628113611,.99335194,1.0969312,.088430643
+CIND/probable dementia,zC9B_FF_13,Standardized values of C9B_FF_13,Model 1,.8765238509312889,.75592488,1.0163629,.07989087
+CIND/probable dementia,zC9B_FF_13,Standardized values of C9B_FF_13,Model 2,.9180722622027147,.80739474,1.0439215,.18786919
+CIND/probable dementia,zC9B_FF_13,Standardized values of C9B_FF_13,Model 3,.927597454997883,.81879985,1.0508515,.23248844
+CIND/probable dementia,zC9C_FF_13,Standardized values of C9C_FF_13,Model 1,1.101641536290902,1.0366235,1.1707376,.0023574412
+CIND/probable dementia,zC9C_FF_13,Standardized values of C9C_FF_13,Model 2,1.071420006113195,1.0021634,1.1454628,.043272715
+CIND/probable dementia,zC9C_FF_13,Standardized values of C9C_FF_13,Model 3,1.051003387197342,.98245287,1.1243371,.14509872
+CIND/probable dementia,zC9D_FF_13,Standardized values of C9D_FF_13,Model 1,.9857561959234921,.85585731,1.1353707,.83952379
+CIND/probable dementia,zC9D_FF_13,Standardized values of C9D_FF_13,Model 2,.9872042126043844,.86930317,1.1210958,.83994371
+CIND/probable dementia,zC9D_FF_13,Standardized values of C9D_FF_13,Model 3,.9529352882363695,.83771992,1.0839968,.45661727
+CIND/probable dementia,zC9E_FF_13,Standardized values of C9E_FF_13,Model 1,.9769146937710976,.83788955,1.1390073,.76159197
+CIND/probable dementia,zC9E_FF_13,Standardized values of C9E_FF_13,Model 2,.9927045220007357,.86338043,1.1413997,.91665363
+CIND/probable dementia,zC9E_FF_13,Standardized values of C9E_FF_13,Model 3,.9872933861983756,.86226207,1.1304548,.85058302
+CIND/probable dementia,zC9F_FF_13,Standardized values of C9F_FF_13,Model 1,1.033079490168416,.93378431,1.1429334,.52135348
+CIND/probable dementia,zC9F_FF_13,Standardized values of C9F_FF_13,Model 2,1.029365609983285,.9336049,1.1349486,.55493706
+CIND/probable dementia,zC9F_FF_13,Standardized values of C9F_FF_13,Model 3,.9974205908281396,.90339667,1.1012304,.95849782
+CIND/probable dementia,zC9G_FF_13,Standardized values of C9G_FF_13,Model 1,1.08398242121446,.9652462,1.2173245,.16921876
+CIND/probable dementia,zC9G_FF_13,Standardized values of C9G_FF_13,Model 2,1.087735858313069,.96914083,1.2208436,.15000489
+CIND/probable dementia,zC9G_FF_13,Standardized values of C9G_FF_13,Model 3,1.082061388508238,.96283948,1.2160457,.18129121
+CIND/probable dementia,zC9H_FF_13,Standardized values of C9H_FF_13,Model 1,1.072100776276992,.94138515,1.2209669,.28793246
+CIND/probable dementia,zC9H_FF_13,Standardized values of C9H_FF_13,Model 2,1.02822079296449,.89764297,1.1777934,.68291992
+CIND/probable dementia,zC9H_FF_13,Standardized values of C9H_FF_13,Model 3,.9984876904683276,.86548722,1.1519265,.98314893
+CIND/probable dementia,zC9I_FF_13,Standardized values of C9I_FF_13,Model 1,.9325812835438922,.75549966,1.1511691,.50929201
+CIND/probable dementia,zC9I_FF_13,Standardized values of C9I_FF_13,Model 2,.9723602474629437,.8101036,1.1671154,.75948858
+CIND/probable dementia,zC9I_FF_13,Standardized values of C9I_FF_13,Model 3,.9450578025261909,.77511102,1.1522661,.57014889
+CIND/probable dementia,zC9J_FF_13,Standardized values of C9J_FF_13,Model 1,1.078958835286553,.94259936,1.2350445,.26453942
+CIND/probable dementia,zC9J_FF_13,Standardized values of C9J_FF_13,Model 2,1.077960746542694,.95295447,1.219365,.22745827
+CIND/probable dementia,zC9J_FF_13,Standardized values of C9J_FF_13,Model 3,1.074339649293815,.9426288,1.224454,.27666986
+CIND/probable dementia,zC9K_FF_13,Standardized values of C9K_FF_13,Model 1,.9467554068235515,.83737206,1.0704272,.37568462
+CIND/probable dementia,zC9K_FF_13,Standardized values of C9K_FF_13,Model 2,.919346539428138,.81661576,1.0350009,.16061093
+CIND/probable dementia,zC9K_FF_13,Standardized values of C9K_FF_13,Model 3,.9089667809571881,.80410141,1.027508,.12440006
+CIND/probable dementia,zC9L_FF_13,Standardized values of C9L_FF_13,Model 1,.9783929891063624,.85649753,1.1176364,.74340898
+CIND/probable dementia,zC9L_FF_13,Standardized values of C9L_FF_13,Model 2,1.005672226679189,.88849288,1.1383058,.9274289
+CIND/probable dementia,zC9L_FF_13,Standardized values of C9L_FF_13,Model 3,.9659403706960875,.84697497,1.1016155,.599356
+CIND/probable dementia,zC9M_FF_13,Standardized values of C9M_FF_13,Model 1,.9881171200508767,.87848377,1.1114326,.8393361
+CIND/probable dementia,zC9M_FF_13,Standardized values of C9M_FF_13,Model 2,.9805571367173339,.88461334,1.0869068,.70383668
+CIND/probable dementia,zC9M_FF_13,Standardized values of C9M_FF_13,Model 3,.9817376997599025,.887254,1.086283,.71650112
+CIND/probable dementia,zC9N_FF_13,Standardized values of C9N_FF_13,Model 1,1.104932254855669,1.008839,1.2101786,.032185532
+CIND/probable dementia,zC9N_FF_13,Standardized values of C9N_FF_13,Model 2,1.060462319148276,.96316302,1.1675909,.22674355
+CIND/probable dementia,zC9N_FF_13,Standardized values of C9N_FF_13,Model 3,1.043736473650636,.95598465,1.1395432,.33292162
+CIND/probable dementia,zC9O_FF_13,Standardized values of C9O_FF_13,Model 1,1.062706889303216,.98181164,1.1502675,.12943317
+CIND/probable dementia,zC9O_FF_13,Standardized values of C9O_FF_13,Model 2,1.036497355907546,.95753223,1.1219746,.36858991
+CIND/probable dementia,zC9O_FF_13,Standardized values of C9O_FF_13,Model 3,1.044324474852173,.96019882,1.1358206,.30524638
+CIND/probable dementia,zC9P_FF_13,Standardized values of C9P_FF_13,Model 1,1.034782835316816,.95892894,1.116637,.37201226
+CIND/probable dementia,zC9P_FF_13,Standardized values of C9P_FF_13,Model 2,1.027490904649961,.95020854,1.1110588,.48994324
+CIND/probable dementia,zC9P_FF_13,Standardized values of C9P_FF_13,Model 3,1.019127448908619,.93873972,1.1063991,.6458118
+CIND/probable dementia,zC9Q_FF_13,Standardized values of C9Q_FF_13,Model 1,1.091382525668143,1.0108106,1.1783769,.026191659
+CIND/probable dementia,zC9Q_FF_13,Standardized values of C9Q_FF_13,Model 2,1.050962703063141,.97589135,1.131809,.1844248
+CIND/probable dementia,zC9Q_FF_13,Standardized values of C9Q_FF_13,Model 3,1.040466171287167,.96625942,1.1203719,.28732634
+CIND/probable dementia,zC9R_FF_13,Standardized values of C9R_FF_13,Model 1,1.053817748893487,.91684604,1.2112522,.45377573
+CIND/probable dementia,zC9R_FF_13,Standardized values of C9R_FF_13,Model 2,1.020824170043403,.90450883,1.1520971,.73408097
+CIND/probable dementia,zC9R_FF_13,Standardized values of C9R_FF_13,Model 3,1.007779724097341,.89316571,1.1371014,.89811492
+CIND/probable dementia,zC9S_FF_13,Standardized values of C9S_FF_13,Model 1,1.084886030705386,1.0203205,1.1535372,.010188956
+CIND/probable dementia,zC9S_FF_13,Standardized values of C9S_FF_13,Model 2,1.060742642695473,1.0044943,1.1201407,.034424376
+CIND/probable dementia,zC9S_FF_13,Standardized values of C9S_FF_13,Model 3,1.071479853203978,1.0135959,1.1326694,.015771559
+CIND/probable dementia,zC9T_FF_13,Standardized values of C9T_FF_13,Model 1,1.085909400520579,1.016874,1.1596317,.014871667
+CIND/probable dementia,zC9T_FF_13,Standardized values of C9T_FF_13,Model 2,1.063000872787958,1.0043116,1.1251198,.035485592
+CIND/probable dementia,zC9T_FF_13,Standardized values of C9T_FF_13,Model 3,1.059020128335783,.99720246,1.12467,.061261412
+CIND/probable dementia,zC9U_FF_13,Standardized values of C9U_FF_13,Model 1,1.045826644385162,.98776805,1.1072978,.12163871
+CIND/probable dementia,zC9U_FF_13,Standardized values of C9U_FF_13,Model 2,1.029131309094304,.97999865,1.0807272,.24451986
+CIND/probable dementia,zC9U_FF_13,Standardized values of C9U_FF_13,Model 3,1.038629203351196,.98583955,1.0942457,.15104139
+CIND/probable dementia,zC9V_FF_13,Standardized values of C9V_FF_13,Model 1,1.046834120925835,.93276882,1.1748481,.42998981
+CIND/probable dementia,zC9V_FF_13,Standardized values of C9V_FF_13,Model 2,1.060610987939244,.95050073,1.1834769,.28667995
+CIND/probable dementia,zC9V_FF_13,Standardized values of C9V_FF_13,Model 3,1.062151916714924,.94901544,1.1887759,.28800064
+CIND/probable dementia,zC9W_FF_13,Standardized values of C9W_FF_13,Model 1,.99377327946602,.86515856,1.1415079,.9283632
+CIND/probable dementia,zC9W_FF_13,Standardized values of C9W_FF_13,Model 2,1.007211785992469,.87820888,1.1551644,.91670066
+CIND/probable dementia,zC9W_FF_13,Standardized values of C9W_FF_13,Model 3,1.056549865219247,.91865009,1.21515,.43395001
+CIND/probable dementia,zC9X_FF_13,Standardized values of C9X_FF_13,Model 1,.9717906104575584,.84856439,1.1129115,.67400271
+CIND/probable dementia,zC9X_FF_13,Standardized values of C9X_FF_13,Model 2,1.028338483681262,.89663666,1.1793852,.68440074
+CIND/probable dementia,zC9X_FF_13,Standardized values of C9X_FF_13,Model 3,1.041345742754976,.90426183,1.1992112,.56749231
+CIND/probable dementia,zC9Y_FF_13,Standardized values of C9Y_FF_13,Model 1,1.04464363172588,.91900963,1.1874526,.49741325
+CIND/probable dementia,zC9Y_FF_13,Standardized values of C9Y_FF_13,Model 2,1.064117892314757,.94393611,1.1996012,.30324751
+CIND/probable dementia,zC9Y_FF_13,Standardized values of C9Y_FF_13,Model 3,1.079002720221386,.95563775,1.2182931,.21476163
+CIND/probable dementia,zC9Z_FF_13,Standardized values of C9Z_FF_13,Model 1,1.053817369838373,.93517452,1.187512,.38294902
+CIND/probable dementia,zC9Z_FF_13,Standardized values of C9Z_FF_13,Model 2,1.061945449294599,.9595443,1.1752747,.23999324
+CIND/probable dementia,zC9Z_FF_13,Standardized values of C9Z_FF_13,Model 3,1.041196514730133,.93466473,1.1598706,.45672271
+CIND/probable dementia,zhei2015_total_score,HEI-2015 total score (z),Model 1,.8981580552617883,.79909354,1.0095037,.070891917
+CIND/probable dementia,zhei2015_total_score,HEI-2015 total score (z),Model 2,.9222560213906902,.82881963,1.0262259,.13465026
+CIND/probable dementia,zhei2015_total_score,HEI-2015 total score (z),Model 3,.9849526430330792,.8625437,1.1247334,.8197493
+CIND/probable dementia,zheix10_sodium,Standardized values of heix10_sodium,Model 1,1.097996712262891,.94001025,1.2825358,.23298371
+CIND/probable dementia,zheix10_sodium,Standardized values of heix10_sodium,Model 2,1.09902865024601,.93685925,1.2892694,.24098639
+CIND/probable dementia,zheix10_sodium,Standardized values of heix10_sodium,Model 3,1.127819505156106,.95629609,1.3301078,.14965208
+CIND/probable dementia,zheix11_refinedgrain,Standardized values of heix11_refinedgrain,Model 1,1.029774822775065,.91960138,1.1531477,.60540545
+CIND/probable dementia,zheix11_refinedgrain,Standardized values of heix11_refinedgrain,Model 2,1.06336657135412,.95022231,1.189983,.27851388
+CIND/probable dementia,zheix11_refinedgrain,Standardized values of heix11_refinedgrain,Model 3,1.099862152068371,.97800595,1.2369012,.10998908
+CIND/probable dementia,zheix12_addedsugar,Standardized values of heix12_addedsugar,Model 1,.976454353794309,.83203614,1.1459396,.76656336
+CIND/probable dementia,zheix12_addedsugar,Standardized values of heix12_addedsugar,Model 2,1.008754434900648,.86523628,1.1760782,.90979451
+CIND/probable dementia,zheix12_addedsugar,Standardized values of heix12_addedsugar,Model 3,1.009918522245353,.85746241,1.1894813,.90423858
+CIND/probable dementia,zheix13_saturatedfat,Standardized values of heix13_saturatedfat,Model 1,.981902307246826,.85834408,1.1232467,.78652459
+CIND/probable dementia,zheix13_saturatedfat,Standardized values of heix13_saturatedfat,Model 2,.9869055476399493,.87008226,1.1194143,.83470255
+CIND/probable dementia,zheix13_saturatedfat,Standardized values of heix13_saturatedfat,Model 3,1.007711223660884,.88093227,1.1527355,.90926355
+CIND/probable dementia,zheix1_totalveg,Standardized values of heix1_totalveg,Model 1,.8563900403256344,.77438742,.9470762,.0031675552
+CIND/probable dementia,zheix1_totalveg,Standardized values of heix1_totalveg,Model 2,.8943694456073032,.8105737,.98682785,.026880123
+CIND/probable dementia,zheix1_totalveg,Standardized values of heix1_totalveg,Model 3,.9535235446116007,.85809726,1.0595618,.36968368
+CIND/probable dementia,zheix2_greens_and_bean,Standardized values of heix2_greens_and_bean,Model 1,.9678896817602071,.85267413,1.0986735,.60787815
+CIND/probable dementia,zheix2_greens_and_bean,Standardized values of heix2_greens_and_bean,Model 2,.9741033986508081,.84597915,1.1216322,.71068561
+CIND/probable dementia,zheix2_greens_and_bean,Standardized values of heix2_greens_and_bean,Model 3,1.022502610324331,.8910799,1.1733085,.74704522
+CIND/probable dementia,zheix3_totalfruit,Standardized values of heix3_totalfruit,Model 1,.882279606956097,.78466868,.99203312,.036741491
+CIND/probable dementia,zheix3_totalfruit,Standardized values of heix3_totalfruit,Model 2,.8788481135576371,.78378797,.98543745,.027745228
+CIND/probable dementia,zheix3_totalfruit,Standardized values of heix3_totalfruit,Model 3,.925666535711188,.81554562,1.0506568,.22685872
+CIND/probable dementia,zheix4_wholefruit,Standardized values of heix4_wholefruit,Model 1,.8931525176074824,.79278857,1.0062221,.062712766
+CIND/probable dementia,zheix4_wholefruit,Standardized values of heix4_wholefruit,Model 2,.9007161289295061,.80462754,1.0082797,.068587534
+CIND/probable dementia,zheix4_wholefruit,Standardized values of heix4_wholefruit,Model 3,.9508439634514599,.84697223,1.0674545,.38634634
+CIND/probable dementia,zheix5_wholegrain,Standardized values of heix5_wholegrain,Model 1,.9587675390804303,.84693652,1.0853649,.49911368
+CIND/probable dementia,zheix5_wholegrain,Standardized values of heix5_wholegrain,Model 2,.9550658046080472,.84902722,1.074348,.43705735
+CIND/probable dementia,zheix5_wholegrain,Standardized values of heix5_wholegrain,Model 3,.9835210015848909,.87688452,1.1031255,.77278537
+CIND/probable dementia,zheix6_totaldairy,Standardized values of heix6_totaldairy,Model 1,.9375771889794887,.81552333,1.077898,.35840014
+CIND/probable dementia,zheix6_totaldairy,Standardized values of heix6_totaldairy,Model 2,.9729293955744208,.84639269,1.1183835,.69456059
+CIND/probable dementia,zheix6_totaldairy,Standardized values of heix6_totaldairy,Model 3,1.007782836933555,.87561637,1.1598986,.91240001
+CIND/probable dementia,zheix7_totprot,Standardized values of heix7_totprot,Model 1,.9860153333240452,.88075173,1.1038595,.80352098
+CIND/probable dementia,zheix7_totprot,Standardized values of heix7_totprot,Model 2,.9760516515865936,.87654966,1.0868487,.65319598
+CIND/probable dementia,zheix7_totprot,Standardized values of heix7_totprot,Model 3,.9818227935525332,.87295985,1.1042615,.75559998
+CIND/probable dementia,zheix8_seaplant_prot,Standardized values of heix8_seaplant_prot,Model 1,.8646587398843085,.74789649,.99965006,.049468689
+CIND/probable dementia,zheix8_seaplant_prot,Standardized values of heix8_seaplant_prot,Model 2,.9057075620886681,.78759438,1.0415338,.16113344
+CIND/probable dementia,zheix8_seaplant_prot,Standardized values of heix8_seaplant_prot,Model 3,.9110946416503648,.78461015,1.0579693,.21715343
+CIND/probable dementia,zheix9_fattyacid,Standardized values of heix9_fattyacid,Model 1,.8941946774255561,.77173483,1.0360866,.13381994
+CIND/probable dementia,zheix9_fattyacid,Standardized values of heix9_fattyacid,Model 2,.9056301412278912,.78694671,1.0422128,.16294706
+CIND/probable dementia,zheix9_fattyacid,Standardized values of heix9_fattyacid,Model 3,.9170239957012454,.78726518,1.06817,.26013318
+MCI/CIND only,zC3A_FF_13,Standardized values of C3A_FF_13,Model 1,.9549845063946489,.821863,1.1096684,.5411697
+MCI/CIND only,zC3A_FF_13,Standardized values of C3A_FF_13,Model 2,1.003425996064651,.86337727,1.1661921,.96379763
+MCI/CIND only,zC3A_FF_13,Standardized values of C3A_FF_13,Model 3,1.031463423285867,.89355308,1.1906588,.66703624
+MCI/CIND only,zC3B_FF_13,Standardized values of C3B_FF_13,Model 1,.9750601131449718,.88169038,1.0783175,.61708784
+MCI/CIND only,zC3B_FF_13,Standardized values of C3B_FF_13,Model 2,.9638647432683936,.87257719,1.0647026,.461676
+MCI/CIND only,zC3B_FF_13,Standardized values of C3B_FF_13,Model 3,.9558887609443727,.85546142,1.0681058,.4188714
+MCI/CIND only,zC3C_FF_13,Standardized values of C3C_FF_13,Model 1,1.08841967848564,.9996683,1.1850505,.050869323
+MCI/CIND only,zC3C_FF_13,Standardized values of C3C_FF_13,Model 2,1.034148031909295,.9614625,1.1123285,.35985741
+MCI/CIND only,zC3C_FF_13,Standardized values of C3C_FF_13,Model 3,1.033434568459278,.96078831,1.1115737,.36981586
+MCI/CIND only,zC3D_FF_13,Standardized values of C3D_FF_13,Model 1,.7705200341834485,.5628171,1.0548741,.10195848
+MCI/CIND only,zC3D_FF_13,Standardized values of C3D_FF_13,Model 2,.7804269883529034,.57846725,1.0528967,.10278945
+MCI/CIND only,zC3D_FF_13,Standardized values of C3D_FF_13,Model 3,.7853385175547207,.57453269,1.0734926,.12703568
+MCI/CIND only,zC3E_FF_13,Standardized values of C3E_FF_13,Model 1,1.048175152684409,.92112637,1.1927475,.46863216
+MCI/CIND only,zC3E_FF_13,Standardized values of C3E_FF_13,Model 2,1.029111678911361,.91097409,1.1625696,.63906246
+MCI/CIND only,zC3E_FF_13,Standardized values of C3E_FF_13,Model 3,1.043354713838049,.92333031,1.1789812,.48937845
+MCI/CIND only,zC3F_FF_13,Standardized values of C3F_FF_13,Model 1,.9948722039522152,.86316103,1.1466814,.94242895
+MCI/CIND only,zC3F_FF_13,Standardized values of C3F_FF_13,Model 2,.9640469849744772,.83667505,1.1108094,.60665423
+MCI/CIND only,zC3F_FF_13,Standardized values of C3F_FF_13,Model 3,.9698814814965645,.84602761,1.111867,.65549368
+MCI/CIND only,zC3G_FF_13,Standardized values of C3G_FF_13,Model 1,1.150773142484284,1.0231459,1.2943206,.020095725
+MCI/CIND only,zC3G_FF_13,Standardized values of C3G_FF_13,Model 2,1.152977410480281,1.0365872,1.282436,.0096748676
+MCI/CIND only,zC3G_FF_13,Standardized values of C3G_FF_13,Model 3,1.158961375928875,1.0464319,1.2835919,.005434664
+MCI/CIND only,zC3H_FF_13,Standardized values of C3H_FF_13,Model 1,1.163172688728542,1.0405467,1.3002499,.0087429434
+MCI/CIND only,zC3H_FF_13,Standardized values of C3H_FF_13,Model 2,1.18725505195117,1.0611464,1.3283508,.0033869669
+MCI/CIND only,zC3H_FF_13,Standardized values of C3H_FF_13,Model 3,1.173057388743913,1.0425507,1.319901,.0089056548
+MCI/CIND only,zC3I_FF_13,Standardized values of C3I_FF_13,Model 1,1.001611862224034,.85260719,1.1766571,.98408467
+MCI/CIND only,zC3I_FF_13,Standardized values of C3I_FF_13,Model 2,1.018993153002112,.8756147,1.1858492,.8045584
+MCI/CIND only,zC3I_FF_13,Standardized values of C3I_FF_13,Model 3,1.03776440251181,.89506775,1.2032106,.61753279
+MCI/CIND only,zC3J_FF_13,Standardized values of C3J_FF_13,Model 1,.9909981823888303,.8678109,1.1316721,.89190739
+MCI/CIND only,zC3J_FF_13,Standardized values of C3J_FF_13,Model 2,1.029495562002786,.89275002,1.187187,.68430334
+MCI/CIND only,zC3J_FF_13,Standardized values of C3J_FF_13,Model 3,1.051478273860404,.91270912,1.211346,.48023775
+MCI/CIND only,zC3L_FF_13,Standardized values of C3L_FF_13,Model 1,.9421892555311557,.84008598,1.0567021,.30269334
+MCI/CIND only,zC3L_FF_13,Standardized values of C3L_FF_13,Model 2,.9668498302332056,.85759282,1.0900261,.57544601
+MCI/CIND only,zC3L_FF_13,Standardized values of C3L_FF_13,Model 3,.9586381858591906,.85727459,1.0719869,.45198777
+MCI/CIND only,zC3M_FF_13,Standardized values of C3M_FF_13,Model 1,1.039551462893128,.91042089,1.1869974,.56022269
+MCI/CIND only,zC3M_FF_13,Standardized values of C3M_FF_13,Model 2,1.044451713280307,.90935516,1.1996187,.53178298
+MCI/CIND only,zC3M_FF_13,Standardized values of C3M_FF_13,Model 3,1.027204198486417,.88855684,1.1874857,.71208316
+MCI/CIND only,zC3N_FF_13,Standardized values of C3N_FF_13,Model 1,.8533165835943803,.74898475,.97218162,.018046249
+MCI/CIND only,zC3N_FF_13,Standardized values of C3N_FF_13,Model 2,.8854969098989447,.79005152,.99247301,.037077177
+MCI/CIND only,zC3N_FF_13,Standardized values of C3N_FF_13,Model 3,.8651518704220301,.76009983,.98472297,.028989116
+MCI/CIND only,zC3P_FF_13,Standardized values of C3P_FF_13,Model 1,.9461574492153375,.7987681,1.1207433,.51519859
+MCI/CIND only,zC3P_FF_13,Standardized values of C3P_FF_13,Model 2,.9631361511232954,.81591052,1.1369277,.651793
+MCI/CIND only,zC3P_FF_13,Standardized values of C3P_FF_13,Model 3,.9474099476372186,.80156589,1.1197902,.51990169
+MCI/CIND only,zC3Q_FF_13,Standardized values of C3Q_FF_13,Model 1,1.084234698812982,.98678488,1.1913081,.090879619
+MCI/CIND only,zC3Q_FF_13,Standardized values of C3Q_FF_13,Model 2,1.071738030959373,.97747594,1.1750902,.13724399
+MCI/CIND only,zC3Q_FF_13,Standardized values of C3Q_FF_13,Model 3,1.034899401657086,.94382155,1.1347661,.45868859
+MCI/CIND only,zC3R_FF_13,Standardized values of C3R_FF_13,Model 1,1.0890255926152,.98153824,1.2082838,.10573936
+MCI/CIND only,zC3R_FF_13,Standardized values of C3R_FF_13,Model 2,1.07629107169616,.96249598,1.2035401,.1927956
+MCI/CIND only,zC3R_FF_13,Standardized values of C3R_FF_13,Model 3,1.058027354359659,.95675671,1.1700172,.26609457
+MCI/CIND only,zC4A_FF_13,Standardized values of C4A_FF_13,Model 1,1.017562757311256,.91324496,1.1337966,.74823415
+MCI/CIND only,zC4A_FF_13,Standardized values of C4A_FF_13,Model 2,1.008856691057098,.90500611,1.1246243,.87137437
+MCI/CIND only,zC4A_FF_13,Standardized values of C4A_FF_13,Model 3,1.017891484805397,.90695637,1.1423957,.7592659
+MCI/CIND only,zC4B_FF_13,Standardized values of C4B_FF_13,Model 1,.9416517399336176,.84816283,1.0454454,.25420147
+MCI/CIND only,zC4B_FF_13,Standardized values of C4B_FF_13,Model 2,.9531600870329852,.85094249,1.0676564,.40039018
+MCI/CIND only,zC4B_FF_13,Standardized values of C4B_FF_13,Model 3,.9487859408432219,.83868706,1.073338,.39672172
+MCI/CIND only,zC4C_FF_13,Standardized values of C4C_FF_13,Model 1,1.05908905472023,.96776783,1.1590276,.20735382
+MCI/CIND only,zC4C_FF_13,Standardized values of C4C_FF_13,Model 2,.9914524576819942,.86609477,1.1349543,.89919466
+MCI/CIND only,zC4C_FF_13,Standardized values of C4C_FF_13,Model 3,1.016120536535941,.90305758,1.1433389,.78687865
+MCI/CIND only,zC4D_FF_13,Standardized values of C4D_FF_13,Model 1,1.072621033964447,.94937402,1.2118679,.25469288
+MCI/CIND only,zC4D_FF_13,Standardized values of C4D_FF_13,Model 2,1.039910386629903,.92238528,1.1724099,.51586241
+MCI/CIND only,zC4D_FF_13,Standardized values of C4D_FF_13,Model 3,1.051850922031551,.93748844,1.1801643,.38260776
+MCI/CIND only,zC4E_FF_13,Standardized values of C4E_FF_13,Model 1,.9966567660675176,.86768186,1.1448029,.96155059
+MCI/CIND only,zC4E_FF_13,Standardized values of C4E_FF_13,Model 2,.9858550321255134,.87824392,1.1066517,.80582744
+MCI/CIND only,zC4E_FF_13,Standardized values of C4E_FF_13,Model 3,.9874351746784416,.89259297,1.0923548,.80279535
+MCI/CIND only,zC4F_FF_13,Standardized values of C4F_FF_13,Model 1,.999004635899058,.8333506,1.1975875,.99125713
+MCI/CIND only,zC4F_FF_13,Standardized values of C4F_FF_13,Model 2,1.0371469359081,.8855626,1.2146784,.64547032
+MCI/CIND only,zC4F_FF_13,Standardized values of C4F_FF_13,Model 3,1.071768940922334,.93144238,1.2332364,.32660207
+MCI/CIND only,zC4G_FF_13,Standardized values of C4G_FF_13,Model 1,.9296550949558825,.80926126,1.0679599,.29650074
+MCI/CIND only,zC4G_FF_13,Standardized values of C4G_FF_13,Model 2,.9252206826267463,.80963057,1.0573134,.24818729
+MCI/CIND only,zC4G_FF_13,Standardized values of C4G_FF_13,Model 3,.945469760745359,.82848585,1.0789721,.3985776
+MCI/CIND only,zC4H_FF_13,Standardized values of C4H_FF_13,Model 1,.9865802575998199,.82929063,1.1737026,.87668234
+MCI/CIND only,zC4H_FF_13,Standardized values of C4H_FF_13,Model 2,.9923362563656423,.83477288,1.1796397,.92927098
+MCI/CIND only,zC4H_FF_13,Standardized values of C4H_FF_13,Model 3,1.016009425963936,.86287624,1.1963189,.84624028
+MCI/CIND only,zC4I_FF_13,Standardized values of C4I_FF_13,Model 1,1.109846130750763,1.0289954,1.1970495,.0078085177
+MCI/CIND only,zC4I_FF_13,Standardized values of C4I_FF_13,Model 2,1.069251325894078,.98837459,1.156746,.093631655
+MCI/CIND only,zC4I_FF_13,Standardized values of C4I_FF_13,Model 3,1.083403178928518,.99541497,1.1791689,.063310869
+MCI/CIND only,zC4J_FF_13,Standardized values of C4J_FF_13,Model 1,1.102165158343481,.98137909,1.2378173,.098723993
+MCI/CIND only,zC4J_FF_13,Standardized values of C4J_FF_13,Model 2,1.087874152103764,.97251284,1.2169199,.13785143
+MCI/CIND only,zC4J_FF_13,Standardized values of C4J_FF_13,Model 3,1.112723843758892,1.0046331,1.2324443,.040817894
+MCI/CIND only,zC4K_FF_13,Standardized values of C4K_FF_13,Model 1,1.153895552064968,1.0406557,1.2794577,.0074825673
+MCI/CIND only,zC4K_FF_13,Standardized values of C4K_FF_13,Model 2,1.11288224526931,1.0115964,1.2243092,.028728195
+MCI/CIND only,zC4K_FF_13,Standardized values of C4K_FF_13,Model 3,1.136112899582468,1.0242199,1.2602298,.016784146
+MCI/CIND only,zC4L_FF_13,Standardized values of C4L_FF_13,Model 1,1.096827044310664,.97167265,1.2381017,.1320643
+MCI/CIND only,zC4L_FF_13,Standardized values of C4L_FF_13,Model 2,1.107760639720144,.9765296,1.2566272,.10954573
+MCI/CIND only,zC4L_FF_13,Standardized values of C4L_FF_13,Model 3,1.076022899126721,.94294637,1.2278802,.27085811
+MCI/CIND only,zC4M_FF_13,Standardized values of C4M_FF_13,Model 1,1.050430476602284,.96983546,1.1377231,.22203235
+MCI/CIND only,zC4M_FF_13,Standardized values of C4M_FF_13,Model 2,1.028446377321679,.97005117,1.0903569,.34045106
+MCI/CIND only,zC4M_FF_13,Standardized values of C4M_FF_13,Model 3,1.014633791373354,.96979129,1.0615498,.52219391
+MCI/CIND only,zC4N_FF_13,Standardized values of C4N_FF_13,Model 1,1.024054717151013,.91075832,1.151445,.68610924
+MCI/CIND only,zC4N_FF_13,Standardized values of C4N_FF_13,Model 2,1.009403274144784,.88188499,1.1553603,.89005005
+MCI/CIND only,zC4N_FF_13,Standardized values of C4N_FF_13,Model 3,1.034043752294943,.91557008,1.1678478,.58363628
+MCI/CIND only,zC4O_FF_13,Standardized values of C4O_FF_13,Model 1,1.015161647964516,.90753716,1.1355493,.78886706
+MCI/CIND only,zC4O_FF_13,Standardized values of C4O_FF_13,Model 2,.9944417321275751,.89329994,1.107035,.91743612
+MCI/CIND only,zC4O_FF_13,Standardized values of C4O_FF_13,Model 3,1.005437001988104,.89910758,1.1243411,.92290705
+MCI/CIND only,zC4P_FF_13,Standardized values of C4P_FF_13,Model 1,1.0378543565793,.88883924,1.2118521,.6328395
+MCI/CIND only,zC4P_FF_13,Standardized values of C4P_FF_13,Model 2,1.086979983302401,.93159461,1.2682828,.28330719
+MCI/CIND only,zC4P_FF_13,Standardized values of C4P_FF_13,Model 3,1.120110630154849,.95960826,1.3074583,.14731695
+MCI/CIND only,zC4Q_FF_13,Standardized values of C4Q_FF_13,Model 1,.8089711775396803,.68279403,.95846522,.01522131
+MCI/CIND only,zC4Q_FF_13,Standardized values of C4Q_FF_13,Model 2,.8919187393862938,.75861144,1.0486515,.16242555
+MCI/CIND only,zC4Q_FF_13,Standardized values of C4Q_FF_13,Model 3,.9211917449644449,.78197807,1.0851892,.31974828
+MCI/CIND only,zC4R_FF_13,Standardized values of C4R_FF_13,Model 1,1.146483291567159,1.0225018,1.2854979,.020117659
+MCI/CIND only,zC4R_FF_13,Standardized values of C4R_FF_13,Model 2,1.122732353556688,1.0028002,1.257008,.044776045
+MCI/CIND only,zC4R_FF_13,Standardized values of C4R_FF_13,Model 3,1.140533731394138,1.0099736,1.2879714,.034531597
+MCI/CIND only,zC4S_FF_13,Standardized values of C4S_FF_13,Model 1,1.018215643543864,.89160538,1.1628048,.78629839
+MCI/CIND only,zC4S_FF_13,Standardized values of C4S_FF_13,Model 2,1.049953099348696,.9256705,1.1909221,.4414182
+MCI/CIND only,zC4S_FF_13,Standardized values of C4S_FF_13,Model 3,1.044831340576627,.92931849,1.1747023,.45635483
+MCI/CIND only,zC5AA_FF_13,Standardized values of C5AA_FF_13,Model 1,1.034320627777158,.92222875,1.1600367,.55790234
+MCI/CIND only,zC5AA_FF_13,Standardized values of C5AA_FF_13,Model 2,.9853891542391181,.87656707,1.1077211,.80193508
+MCI/CIND only,zC5AA_FF_13,Standardized values of C5AA_FF_13,Model 3,1.02057059531756,.90867341,1.1462473,.72664678
+MCI/CIND only,zC5AB_FF_13,Standardized values of C5AB_FF_13,Model 1,.9847948209894829,.84346199,1.1498098,.84361404
+MCI/CIND only,zC5AB_FF_13,Standardized values of C5AB_FF_13,Model 2,.9843734227817914,.84534198,1.146271,.83654481
+MCI/CIND only,zC5AB_FF_13,Standardized values of C5AB_FF_13,Model 3,.9998455716848622,.86112082,1.1609186,.9983542
+MCI/CIND only,zC5A_FF_13,Standardized values of C5A_FF_13,Model 1,.9224380782684469,.79749483,1.0669562,.27111962
+MCI/CIND only,zC5A_FF_13,Standardized values of C5A_FF_13,Model 2,.9561764653387,.82762557,1.1046945,.53650528
+MCI/CIND only,zC5A_FF_13,Standardized values of C5A_FF_13,Model 3,.9817312441672821,.83727831,1.1511062,.8172797
+MCI/CIND only,zC5B_FF_13,Standardized values of C5B_FF_13,Model 1,1.050868966065266,.85362226,1.2936935,.63431674
+MCI/CIND only,zC5B_FF_13,Standardized values of C5B_FF_13,Model 2,1.039830192982615,.84132797,1.2851669,.71316969
+MCI/CIND only,zC5B_FF_13,Standardized values of C5B_FF_13,Model 3,1.04075224083261,.83676028,1.294475,.71508223
+MCI/CIND only,zC5C_FF_13,Standardized values of C5C_FF_13,Model 1,.9247384145446853,.77128971,1.1087159,.39123487
+MCI/CIND only,zC5C_FF_13,Standardized values of C5C_FF_13,Model 2,.9835711446674277,.83572984,1.1575657,.83925366
+MCI/CIND only,zC5C_FF_13,Standardized values of C5C_FF_13,Model 3,.9840880067888568,.82805657,1.1695205,.85297137
+MCI/CIND only,zC5D_FF_13,Standardized values of C5D_FF_13,Model 1,.8845073455035819,.72585946,1.0778302,.21870449
+MCI/CIND only,zC5D_FF_13,Standardized values of C5D_FF_13,Model 2,.8930674782277594,.73523688,1.084779,.24886779
+MCI/CIND only,zC5D_FF_13,Standardized values of C5D_FF_13,Model 3,.9425449107382956,.79161882,1.1222458,.49964371
+MCI/CIND only,zC5E_FF_13,Standardized values of C5E_FF_13,Model 1,.6966665499389161,.45411184,1.068777,.096195117
+MCI/CIND only,zC5E_FF_13,Standardized values of C5E_FF_13,Model 2,.7339108495389741,.49521729,1.0876541,.12075938
+MCI/CIND only,zC5E_FF_13,Standardized values of C5E_FF_13,Model 3,.7488592099774455,.51474714,1.0894477,.12782598
+MCI/CIND only,zC5F_FF_13,Standardized values of C5F_FF_13,Model 1,1.046512610142081,.89180595,1.2280571,.57130373
+MCI/CIND only,zC5F_FF_13,Standardized values of C5F_FF_13,Model 2,1.032774207185738,.88222426,1.2090153,.68326432
+MCI/CIND only,zC5F_FF_13,Standardized values of C5F_FF_13,Model 3,1.029513900232144,.88186008,1.20189,.70796657
+MCI/CIND only,zC5G_FF_13,Standardized values of C5G_FF_13,Model 1,.8727588952317751,.7375173,1.0328003,.11097392
+MCI/CIND only,zC5G_FF_13,Standardized values of C5G_FF_13,Model 2,.9022395921501435,.77929938,1.0445745,.164928
+MCI/CIND only,zC5G_FF_13,Standardized values of C5G_FF_13,Model 3,.9280572022013458,.80506128,1.0698442,.2972151
+MCI/CIND only,zC5H_FF_13,Standardized values of C5H_FF_13,Model 1,.9726306042103076,.85900402,1.1012874,.65615153
+MCI/CIND only,zC5H_FF_13,Standardized values of C5H_FF_13,Model 2,.949654619797682,.84076715,1.0726441,.39897981
+MCI/CIND only,zC5H_FF_13,Standardized values of C5H_FF_13,Model 3,.9395341992545738,.82328266,1.072201,.34812421
+MCI/CIND only,zC5I_FF_13,Standardized values of C5I_FF_13,Model 1,.9981457531219259,.88029253,1.1317772,.97649103
+MCI/CIND only,zC5I_FF_13,Standardized values of C5I_FF_13,Model 2,1.013346280393304,.91352332,1.1240772,.79874808
+MCI/CIND only,zC5I_FF_13,Standardized values of C5I_FF_13,Model 3,1.025319103057312,.91977704,1.1429719,.64640993
+MCI/CIND only,zC5J_FF_13,Standardized values of C5J_FF_13,Model 1,.9449251321417379,.71623737,1.2466307,.6836099
+MCI/CIND only,zC5J_FF_13,Standardized values of C5J_FF_13,Model 2,.9731986887841297,.79654902,1.1890237,.78678399
+MCI/CIND only,zC5J_FF_13,Standardized values of C5J_FF_13,Model 3,.9962930084128372,.81045747,1.22474,.971371
+MCI/CIND only,zC5K_FF_13,Standardized values of C5K_FF_13,Model 1,.830287276679585,.69654596,.98970777,.038348991
+MCI/CIND only,zC5K_FF_13,Standardized values of C5K_FF_13,Model 2,.8868785288113104,.75921834,1.0360043,.12736994
+MCI/CIND only,zC5K_FF_13,Standardized values of C5K_FF_13,Model 3,.9086522845431028,.76665968,1.0769433,.26346868
+MCI/CIND only,zC5L_FF_13,Standardized values of C5L_FF_13,Model 1,.9861723490423546,.87248945,1.1146678,.82062417
+MCI/CIND only,zC5L_FF_13,Standardized values of C5L_FF_13,Model 2,1.002452028026662,.88935137,1.129936,.96744591
+MCI/CIND only,zC5L_FF_13,Standardized values of C5L_FF_13,Model 3,1.025574316520929,.90465146,1.1626606,.68823081
+MCI/CIND only,zC5M_FF_13,Standardized values of C5M_FF_13,Model 1,1.090004302177012,.95945156,1.2383214,.18133561
+MCI/CIND only,zC5M_FF_13,Standardized values of C5M_FF_13,Model 2,1.103636690744074,.97238439,1.2526054,.12430724
+MCI/CIND only,zC5M_FF_13,Standardized values of C5M_FF_13,Model 3,1.097264705070916,.97477883,1.2351416,.12179142
+MCI/CIND only,zC5N_FF_13,Standardized values of C5N_FF_13,Model 1,.9807341167763772,.85575193,1.1239699,.77595985
+MCI/CIND only,zC5N_FF_13,Standardized values of C5N_FF_13,Model 2,.9738801644222188,.86717969,1.0937095,.64941025
+MCI/CIND only,zC5N_FF_13,Standardized values of C5N_FF_13,Model 3,.9847544652907312,.8715958,1.1126044,.80180866
+MCI/CIND only,zC5O_FF_13,Standardized values of C5O_FF_13,Model 1,.9897038340851705,.85836488,1.141139,.88470918
+MCI/CIND only,zC5O_FF_13,Standardized values of C5O_FF_13,Model 2,1.001162649228822,.8868677,1.1301874,.98474324
+MCI/CIND only,zC5O_FF_13,Standardized values of C5O_FF_13,Model 3,1.027579669309554,.91002923,1.1603143,.65533882
+MCI/CIND only,zC5P_FF_13,Standardized values of C5P_FF_13,Model 1,1.030931061481973,.88341755,1.2030765,.69412297
+MCI/CIND only,zC5P_FF_13,Standardized values of C5P_FF_13,Model 2,1.015110719948484,.87191147,1.1818284,.84404564
+MCI/CIND only,zC5P_FF_13,Standardized values of C5P_FF_13,Model 3,1.031999992963867,.90107793,1.1819444,.64354795
+MCI/CIND only,zC5Q_FF_13,Standardized values of C5Q_FF_13,Model 1,.9833875732133658,.85629398,1.1293448,.80922681
+MCI/CIND only,zC5Q_FF_13,Standardized values of C5Q_FF_13,Model 2,1.021533531460536,.92071962,1.133386,.68273085
+MCI/CIND only,zC5Q_FF_13,Standardized values of C5Q_FF_13,Model 3,1.02096546674125,.92901534,1.1220164,.66124409
+MCI/CIND only,zC5R_FF_13,Standardized values of C5R_FF_13,Model 1,.8936647278428164,.71258682,1.120757,.32407856
+MCI/CIND only,zC5R_FF_13,Standardized values of C5R_FF_13,Model 2,.9274249547189917,.77549553,1.1091193,.40235096
+MCI/CIND only,zC5R_FF_13,Standardized values of C5R_FF_13,Model 3,.9347151665780966,.79646981,1.0969561,.40157992
+MCI/CIND only,zC5S_FF_13,Standardized values of C5S_FF_13,Model 1,.983023240504033,.86166579,1.1214727,.7955125
+MCI/CIND only,zC5S_FF_13,Standardized values of C5S_FF_13,Model 2,.9396462279748038,.82986027,1.0639563,.31972799
+MCI/CIND only,zC5S_FF_13,Standardized values of C5S_FF_13,Model 3,.9691883233148597,.85412878,1.0997475,.62166941
+MCI/CIND only,zC5T_FF_13,Standardized values of C5T_FF_13,Model 1,.9533919779227688,.80985689,1.1223665,.56013137
+MCI/CIND only,zC5T_FF_13,Standardized values of C5T_FF_13,Model 2,.9860480615508114,.83693731,1.1617247,.8642751
+MCI/CIND only,zC5T_FF_13,Standardized values of C5T_FF_13,Model 3,1.008823554539933,.87726641,1.1601094,.90019518
+MCI/CIND only,zC5U_FF_13,Standardized values of C5U_FF_13,Model 1,.7928302575436561,.59963721,1.0482669,.1014401
+MCI/CIND only,zC5U_FF_13,Standardized values of C5U_FF_13,Model 2,.8526014947506224,.67911607,1.0704051,.16573124
+MCI/CIND only,zC5U_FF_13,Standardized values of C5U_FF_13,Model 3,.8913010096077746,.72653735,1.0934297,.26409972
+MCI/CIND only,zC5V_FF_13,Standardized values of C5V_FF_13,Model 1,1.016373477802795,.91358554,1.1307261,.76131403
+MCI/CIND only,zC5V_FF_13,Standardized values of C5V_FF_13,Model 2,1.016189762542453,.89723319,1.1509178,.79697353
+MCI/CIND only,zC5V_FF_13,Standardized values of C5V_FF_13,Model 3,1.034206239563946,.92158425,1.1605911,.56119072
+MCI/CIND only,zC5W_FF_13,Standardized values of C5W_FF_13,Model 1,.97563252057858,.80341685,1.1847633,.80001372
+MCI/CIND only,zC5W_FF_13,Standardized values of C5W_FF_13,Model 2,.9976921471196099,.8471508,1.1749852,.9775182
+MCI/CIND only,zC5W_FF_13,Standardized values of C5W_FF_13,Model 3,1.014864065681649,.84754288,1.2152176,.87023926
+MCI/CIND only,zC5X_FF_13,Standardized values of C5X_FF_13,Model 1,.8934873468027273,.70102453,1.1387899,.35623702
+MCI/CIND only,zC5X_FF_13,Standardized values of C5X_FF_13,Model 2,.9813818136840358,.79749781,1.2076651,.85662234
+MCI/CIND only,zC5X_FF_13,Standardized values of C5X_FF_13,Model 3,1.043065273188538,.84053051,1.294403,.69701266
+MCI/CIND only,zC5Y_FF_13,Standardized values of C5Y_FF_13,Model 1,1.030009289086366,.93013221,1.1406112,.56364435
+MCI/CIND only,zC5Y_FF_13,Standardized values of C5Y_FF_13,Model 2,1.041573046569883,.94556957,1.1473237,.402244
+MCI/CIND only,zC5Y_FF_13,Standardized values of C5Y_FF_13,Model 3,1.072614673261562,.96960866,1.1865635,.16969603
+MCI/CIND only,zC5Z_FF_13,Standardized values of C5Z_FF_13,Model 1,.9429096790802334,.82497174,1.077708,.38180277
+MCI/CIND only,zC5Z_FF_13,Standardized values of C5Z_FF_13,Model 2,.9726449039733785,.84840542,1.1150779,.68578106
+MCI/CIND only,zC5Z_FF_13,Standardized values of C5Z_FF_13,Model 3,1.011005238527771,.89432919,1.1429031,.85869503
+MCI/CIND only,zC6A_FF_13,Standardized values of C6A_FF_13,Model 1,1.113440873299221,.99665093,1.2439165,.057095442
+MCI/CIND only,zC6A_FF_13,Standardized values of C6A_FF_13,Model 2,1.083098311311268,.95458806,1.2289091,.21063241
+MCI/CIND only,zC6A_FF_13,Standardized values of C6A_FF_13,Model 3,1.08535085223417,.95536864,1.2330178,.20357554
+MCI/CIND only,zC6B_FF_13,Standardized values of C6B_FF_13,Model 1,.9626983795989098,.83724946,1.1069438,.587506
+MCI/CIND only,zC6B_FF_13,Standardized values of C6B_FF_13,Model 2,.9651639137780141,.83632457,1.1138515,.62191659
+MCI/CIND only,zC6B_FF_13,Standardized values of C6B_FF_13,Model 3,.9533602760916327,.82926112,1.0960308,.49537069
+MCI/CIND only,zC6C_FF_13,Standardized values of C6C_FF_13,Model 1,1.112255229892131,.98189056,1.2599282,.092853993
+MCI/CIND only,zC6C_FF_13,Standardized values of C6C_FF_13,Model 2,1.116214996054667,.98721778,1.2620679,.078292288
+MCI/CIND only,zC6C_FF_13,Standardized values of C6C_FF_13,Model 3,1.120561185594531,.99677682,1.2597177,.056430686
+MCI/CIND only,zC6D_FF_13,Standardized values of C6D_FF_13,Model 1,1.080026707593557,.96636403,1.2070583,.17090669
+MCI/CIND only,zC6D_FF_13,Standardized values of C6D_FF_13,Model 2,1.023370669659343,.92377985,1.1336982,.65290862
+MCI/CIND only,zC6D_FF_13,Standardized values of C6D_FF_13,Model 3,1.018866016180352,.90998417,1.1407758,.74158955
+MCI/CIND only,zC6E_FF_13,Standardized values of C6E_FF_13,Model 1,1.037582881993862,.92802608,1.1600733,.5103662
+MCI/CIND only,zC6E_FF_13,Standardized values of C6E_FF_13,Model 2,1.017350274903456,.91335505,1.1331865,.75041664
+MCI/CIND only,zC6E_FF_13,Standardized values of C6E_FF_13,Model 3,1.042118025459016,.93422204,1.1624752,.45260721
+MCI/CIND only,zC6F_FF_13,Standardized values of C6F_FF_13,Model 1,1.150719265451801,1.0237523,1.2934328,.019495763
+MCI/CIND only,zC6F_FF_13,Standardized values of C6F_FF_13,Model 2,1.124947916942724,.98900074,1.2795823,.072375648
+MCI/CIND only,zC6F_FF_13,Standardized values of C6F_FF_13,Model 3,1.138275221668241,.9797554,1.3224428,.089106493
+MCI/CIND only,zC6G_FF_13,Standardized values of C6G_FF_13,Model 1,1.049462635476805,.88816106,1.2400587,.56443918
+MCI/CIND only,zC6G_FF_13,Standardized values of C6G_FF_13,Model 2,1.105980391046558,.94088709,1.3000418,.21706028
+MCI/CIND only,zC6G_FF_13,Standardized values of C6G_FF_13,Model 3,1.153318009563677,.97674847,1.3618065,.090997972
+MCI/CIND only,zC6H_FF_13,Standardized values of C6H_FF_13,Model 1,1.163414605400487,1.0631698,1.2731113,.0013948389
+MCI/CIND only,zC6H_FF_13,Standardized values of C6H_FF_13,Model 2,1.129893195346068,1.0266695,1.2434953,.013428657
+MCI/CIND only,zC6H_FF_13,Standardized values of C6H_FF_13,Model 3,1.103521447296549,.98825538,1.2322317,.079051502
+MCI/CIND only,zC6I_FF_13,Standardized values of C6I_FF_13,Model 1,1.150896443742614,1.0579506,1.252008,.0014885648
+MCI/CIND only,zC6I_FF_13,Standardized values of C6I_FF_13,Model 2,1.123097215044969,1.0341641,1.2196782,.0066631474
+MCI/CIND only,zC6I_FF_13,Standardized values of C6I_FF_13,Model 3,1.131223730127812,1.0383275,1.2324312,.0056001586
+MCI/CIND only,zC6J_FF_13,Standardized values of C6J_FF_13,Model 1,1.074494544447059,.97252667,1.1871536,.15437557
+MCI/CIND only,zC6J_FF_13,Standardized values of C6J_FF_13,Model 2,1.053909937450082,.96699727,1.1486342,.2266884
+MCI/CIND only,zC6J_FF_13,Standardized values of C6J_FF_13,Model 3,1.01333909987007,.91399384,1.1234826,.79785824
+MCI/CIND only,zC6K_FF_13,Standardized values of C6K_FF_13,Model 1,1.178045280025819,1.0859337,1.2779701,.00017108495
+MCI/CIND only,zC6K_FF_13,Standardized values of C6K_FF_13,Model 2,1.120620826263979,1.0436009,1.203325,.0022487128
+MCI/CIND only,zC6K_FF_13,Standardized values of C6K_FF_13,Model 3,1.095722066513121,1.0104709,1.1881657,.027685242
+MCI/CIND only,zC6L_FF_13,Standardized values of C6L_FF_13,Model 1,1.127429172274324,1.0164045,1.2505814,.024160946
+MCI/CIND only,zC6L_FF_13,Standardized values of C6L_FF_13,Model 2,1.147961811356424,1.0352366,1.2729615,.0098102493
+MCI/CIND only,zC6L_FF_13,Standardized values of C6L_FF_13,Model 3,1.13409092730866,1.0271044,1.2522215,.013765496
+MCI/CIND only,zC6M_FF_13,Standardized values of C6M_FF_13,Model 1,1.118572050119658,.98810381,1.2662672,.075656645
+MCI/CIND only,zC6M_FF_13,Standardized values of C6M_FF_13,Model 2,1.105378215105191,.98360437,1.2422282,.091018438
+MCI/CIND only,zC6M_FF_13,Standardized values of C6M_FF_13,Model 3,1.094877353994576,.96992838,1.2359226,.13957183
+MCI/CIND only,zC6N_FF_13,Standardized values of C6N_FF_13,Model 1,.9722762456968264,.85481733,1.105875,.66337657
+MCI/CIND only,zC6N_FF_13,Standardized values of C6N_FF_13,Model 2,1.00201432384719,.89505267,1.1217582,.97163159
+MCI/CIND only,zC6N_FF_13,Standardized values of C6N_FF_13,Model 3,.9874388642638633,.87541509,1.1137979,.834153
+MCI/CIND only,zC6O_FF_13,Standardized values of C6O_FF_13,Model 1,.956032832410861,.81145537,1.1263697,.58484387
+MCI/CIND only,zC6O_FF_13,Standardized values of C6O_FF_13,Model 2,.9764698597815277,.83447206,1.1426307,.76253003
+MCI/CIND only,zC6O_FF_13,Standardized values of C6O_FF_13,Model 3,.9535008046304753,.80685532,1.126799,.57005161
+MCI/CIND only,zC6P_FF_13,Standardized values of C6P_FF_13,Model 1,.8630428078701119,.73365694,1.0152469,.074613839
+MCI/CIND only,zC6P_FF_13,Standardized values of C6P_FF_13,Model 2,.9136037118845232,.78599685,1.0619276,.23387945
+MCI/CIND only,zC6P_FF_13,Standardized values of C6P_FF_13,Model 3,.8966224968960136,.77119493,1.0424497,.15241303
+MCI/CIND only,zC6Q_FF_13,Standardized values of C6Q_FF_13,Model 1,1.087441835927243,.98679721,1.1983513,.089276411
+MCI/CIND only,zC6Q_FF_13,Standardized values of C6Q_FF_13,Model 2,1.005016047876324,.85873443,1.1762161,.94940323
+MCI/CIND only,zC6Q_FF_13,Standardized values of C6Q_FF_13,Model 3,.949161797600598,.80074036,1.1250939,.54114151
+MCI/CIND only,zC6R_FF_13,Standardized values of C6R_FF_13,Model 1,1.132724797359645,1.019554,1.2584575,.021180198
+MCI/CIND only,zC6R_FF_13,Standardized values of C6R_FF_13,Model 2,1.033669437336288,.89632666,1.1920571,.64341247
+MCI/CIND only,zC6R_FF_13,Standardized values of C6R_FF_13,Model 3,.9972022313840005,.86930621,1.1439148,.96751881
+MCI/CIND only,zC6S_FF_13,Standardized values of C6S_FF_13,Model 1,.9261872793484176,.76069224,1.1276871,.4383592
+MCI/CIND only,zC6S_FF_13,Standardized values of C6S_FF_13,Model 2,.9580590277701505,.81746095,1.1228391,.59067065
+MCI/CIND only,zC6S_FF_13,Standardized values of C6S_FF_13,Model 3,.9626714804806157,.83926463,1.1042243,.58064145
+MCI/CIND only,zC6T_FF_13,Standardized values of C6T_FF_13,Model 1,1.127321275230043,1.0340149,1.2290472,.007427868
+MCI/CIND only,zC6T_FF_13,Standardized values of C6T_FF_13,Model 2,1.059022883944676,.96172011,1.1661704,.23820932
+MCI/CIND only,zC6T_FF_13,Standardized values of C6T_FF_13,Model 3,1.053091392219489,.94051099,1.1791478,.3631855
+MCI/CIND only,zC6U_FF_13,Standardized values of C6U_FF_13,Model 1,.9911610934958137,.86260468,1.1388767,.89855641
+MCI/CIND only,zC6U_FF_13,Standardized values of C6U_FF_13,Model 2,1.030054020053782,.92322648,1.1492428,.59002256
+MCI/CIND only,zC6U_FF_13,Standardized values of C6U_FF_13,Model 3,1.036852931115188,.94127691,1.1421336,.45647833
+MCI/CIND only,zC6V_FF_13,Standardized values of C6V_FF_13,Model 1,.8686255989751109,.76871711,.98151898,.024667341
+MCI/CIND only,zC6V_FF_13,Standardized values of C6V_FF_13,Model 2,.9034603950687273,.80860859,1.0094386,.072019666
+MCI/CIND only,zC6V_FF_13,Standardized values of C6V_FF_13,Model 3,.93479510560435,.8336457,1.0482174,.2430917
+MCI/CIND only,zC6W_FF_13,Standardized values of C6W_FF_13,Model 1,.8480294750437515,.73507351,.97834295,.024607064
+MCI/CIND only,zC6W_FF_13,Standardized values of C6W_FF_13,Model 2,.8749704678662461,.78739083,.97229141,.014011565
+MCI/CIND only,zC6W_FF_13,Standardized values of C6W_FF_13,Model 3,.8786590004832009,.77665168,.99406421,.040262748
+MCI/CIND only,zC7A_FF_13,Standardized values of C7A_FF_13,Model 1,.9734042065382456,.8493911,1.1155236,.69334662
+MCI/CIND only,zC7A_FF_13,Standardized values of C7A_FF_13,Model 2,1.004583838725549,.87486839,1.153532,.94738567
+MCI/CIND only,zC7A_FF_13,Standardized values of C7A_FF_13,Model 3,.99043260789268,.87455845,1.1216595,.87751317
+MCI/CIND only,zC7B_FF_13,Standardized values of C7B_FF_13,Model 1,1.037940487582717,.91633081,1.1756895,.55172586
+MCI/CIND only,zC7B_FF_13,Standardized values of C7B_FF_13,Model 2,1.022733746342979,.90364307,1.1575193,.71733701
+MCI/CIND only,zC7B_FF_13,Standardized values of C7B_FF_13,Model 3,1.034499728355192,.90261388,1.1856562,.62017864
+MCI/CIND only,zC7C_FF_13,Standardized values of C7C_FF_13,Model 1,1.094181755912498,.98749506,1.2123946,.084272124
+MCI/CIND only,zC7C_FF_13,Standardized values of C7C_FF_13,Model 2,1.027445068929134,.90529156,1.1660811,.66982794
+MCI/CIND only,zC7C_FF_13,Standardized values of C7C_FF_13,Model 3,1.05257377111196,.93418479,1.1859661,.39320493
+MCI/CIND only,zC7E_FF_13,Standardized values of C7E_FF_13,Model 1,1.136119082260259,1.0288796,1.254536,.012596853
+MCI/CIND only,zC7E_FF_13,Standardized values of C7E_FF_13,Model 2,1.091595246685527,.99392521,1.198863,.066278882
+MCI/CIND only,zC7E_FF_13,Standardized values of C7E_FF_13,Model 3,1.051914978636176,.94837439,1.1667598,.33192784
+MCI/CIND only,zC7F_FF_13,Standardized values of C7F_FF_13,Model 1,1.024811130573449,.92317152,1.1376411,.6400435
+MCI/CIND only,zC7F_FF_13,Standardized values of C7F_FF_13,Model 2,1.037711875271371,.92688495,1.1617903,.5140233
+MCI/CIND only,zC7F_FF_13,Standardized values of C7F_FF_13,Model 3,1.035348242434606,.91647917,1.1696349,.57043284
+MCI/CIND only,zC7G_FF_13,Standardized values of C7G_FF_13,Model 1,.923568613608681,.82084632,1.0391458,.18210131
+MCI/CIND only,zC7G_FF_13,Standardized values of C7G_FF_13,Model 2,.921414782463632,.82038724,1.0348835,.16348185
+MCI/CIND only,zC7G_FF_13,Standardized values of C7G_FF_13,Model 3,.9442705969642727,.84071708,1.0605791,.32683951
+MCI/CIND only,zC7H_FF_13,Standardized values of C7H_FF_13,Model 1,.9007672885165403,.75913656,1.0688218,.22604842
+MCI/CIND only,zC7H_FF_13,Standardized values of C7H_FF_13,Model 2,.9474120131774519,.80939895,1.1089581,.49457958
+MCI/CIND only,zC7H_FF_13,Standardized values of C7H_FF_13,Model 3,.9396181021495693,.8015278,1.1014992,.43568799
+MCI/CIND only,zC7I_FF_13,Standardized values of C7I_FF_13,Model 1,1.003403720794043,.91108137,1.1050813,.94401127
+MCI/CIND only,zC7I_FF_13,Standardized values of C7I_FF_13,Model 2,.9684044513051546,.87009156,1.0778258,.55029094
+MCI/CIND only,zC7I_FF_13,Standardized values of C7I_FF_13,Model 3,.9319572030625508,.83291471,1.0427769,.21409534
+MCI/CIND only,zC7J_FF_13,Standardized values of C7J_FF_13,Model 1,1.008543869917379,.880871,1.1547215,.90021902
+MCI/CIND only,zC7J_FF_13,Standardized values of C7J_FF_13,Model 2,1.01213535550562,.91617739,1.1181437,.80915105
+MCI/CIND only,zC7J_FF_13,Standardized values of C7J_FF_13,Model 3,1.045621858589767,.94289428,1.1595415,.39104933
+MCI/CIND only,zC7K_FF_13,Standardized values of C7K_FF_13,Model 1,1.135043778560828,1.0400326,1.2387346,.005296676
+MCI/CIND only,zC7K_FF_13,Standardized values of C7K_FF_13,Model 2,1.072956945764834,.96994561,1.1869084,.16767758
+MCI/CIND only,zC7K_FF_13,Standardized values of C7K_FF_13,Model 3,1.065198542833895,.95106274,1.1930317,.26892096
+MCI/CIND only,zC7L_FF_13,Standardized values of C7L_FF_13,Model 1,1.032860018320548,.89391226,1.1934055,.65557855
+MCI/CIND only,zC7L_FF_13,Standardized values of C7L_FF_13,Model 2,1.07619617664605,.94946182,1.2198471,.24523532
+MCI/CIND only,zC7L_FF_13,Standardized values of C7L_FF_13,Model 3,1.044520420368012,.91438979,1.1931705,.51452553
+MCI/CIND only,zC7M_FF_13,Standardized values of C7M_FF_13,Model 1,1.023763262671525,.91039747,1.1512457,.68994558
+MCI/CIND only,zC7M_FF_13,Standardized values of C7M_FF_13,Model 2,.9548303587753629,.82818121,1.1008472,.51779449
+MCI/CIND only,zC7M_FF_13,Standardized values of C7M_FF_13,Model 3,.9512870190578567,.8332212,1.0860825,.45333153
+MCI/CIND only,zC7N_FF_13,Standardized values of C7N_FF_13,Model 1,.8996544479557493,.60044485,1.3479642,.60231102
+MCI/CIND only,zC7N_FF_13,Standardized values of C7N_FF_13,Model 2,.9656961671931883,.74488127,1.2519702,.78859931
+MCI/CIND only,zC7N_FF_13,Standardized values of C7N_FF_13,Model 3,.9843351558780072,.77182001,1.2553648,.89696437
+MCI/CIND only,zC7O_FF_13,Standardized values of C7O_FF_13,Model 1,1.172313233199627,1.0512547,1.3073124,.0050223614
+MCI/CIND only,zC7O_FF_13,Standardized values of C7O_FF_13,Model 2,1.128655924302493,1.0325907,1.2336583,.0085697332
+MCI/CIND only,zC7O_FF_13,Standardized values of C7O_FF_13,Model 3,1.104936420580017,1.0048059,1.2150451,.039856214
+MCI/CIND only,zC7P_FF_13,Standardized values of C7P_FF_13,Model 1,1.072211436542881,.95953858,1.1981148,.21351966
+MCI/CIND only,zC7P_FF_13,Standardized values of C7P_FF_13,Model 2,1.071204203238168,.96145648,1.1934793,.20756811
+MCI/CIND only,zC7P_FF_13,Standardized values of C7P_FF_13,Model 3,1.055671851142658,.95391905,1.1682785,.28874147
+MCI/CIND only,zC7Q_FF_13,Standardized values of C7Q_FF_13,Model 1,.924307962669157,.83134645,1.0276644,.14243178
+MCI/CIND only,zC7Q_FF_13,Standardized values of C7Q_FF_13,Model 2,.97215874712619,.88361889,1.0695704,.55589694
+MCI/CIND only,zC7Q_FF_13,Standardized values of C7Q_FF_13,Model 3,.9450305357704525,.85302925,1.0469544,.2734383
+MCI/CIND only,zC7R_FF_13,Standardized values of C7R_FF_13,Model 1,.9941566195583832,.88346606,1.1187158,.92110592
+MCI/CIND only,zC7R_FF_13,Standardized values of C7R_FF_13,Model 2,1.00714176901131,.89644176,1.1315119,.90296406
+MCI/CIND only,zC7R_FF_13,Standardized values of C7R_FF_13,Model 3,.9759913988102902,.863002,1.1037741,.69376379
+MCI/CIND only,zC7SA_FF_13,Standardized values of C7SA_FF_13,Model 1,1.01879204918761,.87530524,1.1858003,.8067615
+MCI/CIND only,zC7SA_FF_13,Standardized values of C7SA_FF_13,Model 2,1.038770086942444,.9075529,1.1889591,.57471836
+MCI/CIND only,zC7SA_FF_13,Standardized values of C7SA_FF_13,Model 3,1.055457082754824,.93268657,1.194388,.38553765
+MCI/CIND only,zC7SB_FF_13,Standardized values of C7SB_FF_13,Model 1,.9739336549355798,.83320498,1.1384314,.73577827
+MCI/CIND only,zC7SB_FF_13,Standardized values of C7SB_FF_13,Model 2,.9621490007458442,.81596023,1.1345292,.64077246
+MCI/CIND only,zC7SB_FF_13,Standardized values of C7SB_FF_13,Model 3,.9512001348592387,.82062644,1.10255,.49996328
+MCI/CIND only,zC7S_FF_13,Standardized values of C7S_FF_13,Model 1,.9871382810043073,.86443996,1.1272523,.84575558
+MCI/CIND only,zC7S_FF_13,Standardized values of C7S_FF_13,Model 2,.9890151438513545,.86395591,1.132177,.87053442
+MCI/CIND only,zC7S_FF_13,Standardized values of C7S_FF_13,Model 3,.9670530845024271,.83189237,1.1241739,.65737754
+MCI/CIND only,zC7T_FF_13,Standardized values of C7T_FF_13,Model 1,1.060727356267151,.93649578,1.2014389,.34703153
+MCI/CIND only,zC7T_FF_13,Standardized values of C7T_FF_13,Model 2,1.056097502298311,.94934833,1.17485,.30915844
+MCI/CIND only,zC7T_FF_13,Standardized values of C7T_FF_13,Model 3,1.030823625527503,.9251768,1.1485343,.57595634
+MCI/CIND only,zC8A_FF_13,Standardized values of C8A_FF_13,Model 1,1.055376377404054,.93192261,1.1951844,.38903001
+MCI/CIND only,zC8A_FF_13,Standardized values of C8A_FF_13,Model 2,1.087829012210433,.95847988,1.234634,.18812245
+MCI/CIND only,zC8A_FF_13,Standardized values of C8A_FF_13,Model 3,1.065521621337355,.93405026,1.2154981,.33837217
+MCI/CIND only,zC8B_FF_13,Standardized values of C8B_FF_13,Model 1,1.07737266091318,.99754113,1.1635931,.057519156
+MCI/CIND only,zC8B_FF_13,Standardized values of C8B_FF_13,Model 2,1.08091842621996,1.0058095,1.1616361,.034724403
+MCI/CIND only,zC8B_FF_13,Standardized values of C8B_FF_13,Model 3,1.062476761276244,.98659289,1.1441972,.10692218
+MCI/CIND only,zC8C_FF_13,Standardized values of C8C_FF_13,Model 1,1.047607308597811,.91247219,1.2027556,.50257725
+MCI/CIND only,zC8C_FF_13,Standardized values of C8C_FF_13,Model 2,.993400765591041,.85401416,1.1555371,.9303816
+MCI/CIND only,zC8C_FF_13,Standardized values of C8C_FF_13,Model 3,.9951608890915872,.83895326,1.1804534,.95480466
+MCI/CIND only,zC8D_FF_13,Standardized values of C8D_FF_13,Model 1,1.033058392027018,.93367559,1.1430198,.5220077
+MCI/CIND only,zC8D_FF_13,Standardized values of C8D_FF_13,Model 2,1.023724611625296,.933191,1.1230413,.61384034
+MCI/CIND only,zC8D_FF_13,Standardized values of C8D_FF_13,Model 3,1.021477608950323,.93286383,1.1185089,.64071685
+MCI/CIND only,zC8E_FF_13,Standardized values of C8E_FF_13,Model 1,1.009092514047056,.90864187,1.120648,.86329073
+MCI/CIND only,zC8E_FF_13,Standardized values of C8E_FF_13,Model 2,1.000947348230472,.9004963,1.1126038,.98574889
+MCI/CIND only,zC8E_FF_13,Standardized values of C8E_FF_13,Model 3,.961215861217264,.85016006,1.0867789,.52117366
+MCI/CIND only,zC8F_FF_13,Standardized values of C8F_FF_13,Model 1,1.065493953403873,.96669048,1.1743959,.19685103
+MCI/CIND only,zC8F_FF_13,Standardized values of C8F_FF_13,Model 2,1.093496064534725,.9920423,1.2053252,.071225666
+MCI/CIND only,zC8F_FF_13,Standardized values of C8F_FF_13,Model 3,1.087915783520916,.97620463,1.2124106,.12482943
+MCI/CIND only,zC8G_FF_13,Standardized values of C8G_FF_13,Model 1,1.043703571321417,.95060766,1.1459167,.3628723
+MCI/CIND only,zC8G_FF_13,Standardized values of C8G_FF_13,Model 2,1.059202259917761,.97065276,1.1558298,.1922062
+MCI/CIND only,zC8G_FF_13,Standardized values of C8G_FF_13,Model 3,1.022413563186737,.92183876,1.1339613,.66961014
+MCI/CIND only,zC8H_FF_13,Standardized values of C8H_FF_13,Model 1,.756011311680495,.64772779,.88239706,.00063028105
+MCI/CIND only,zC8H_FF_13,Standardized values of C8H_FF_13,Model 2,.8190217418979626,.7197634,.93196821,.0030752444
+MCI/CIND only,zC8H_FF_13,Standardized values of C8H_FF_13,Model 3,.7658354368461217,.65716368,.89247769,.00094851374
+MCI/CIND only,zC8I_FF_13,Standardized values of C8I_FF_13,Model 1,.911395734994372,.8180787,1.0153573,.090819284
+MCI/CIND only,zC8I_FF_13,Standardized values of C8I_FF_13,Model 2,.9981380803358443,.91703266,1.0864167,.96500838
+MCI/CIND only,zC8I_FF_13,Standardized values of C8I_FF_13,Model 3,.9969967398915224,.89542687,1.1100879,.95546579
+MCI/CIND only,zC8J_FF_13,Standardized values of C8J_FF_13,Model 1,.9863358863897193,.85000759,1.1445292,.85363019
+MCI/CIND only,zC8J_FF_13,Standardized values of C8J_FF_13,Model 2,1.024057833878768,.88596553,1.1836741,.74347562
+MCI/CIND only,zC8J_FF_13,Standardized values of C8J_FF_13,Model 3,.9988691226217303,.86091548,1.1589285,.98788232
+MCI/CIND only,zC8K_FF_13,Standardized values of C8K_FF_13,Model 1,.9097323249666488,.79657459,1.0389647,.15913652
+MCI/CIND only,zC8K_FF_13,Standardized values of C8K_FF_13,Model 2,.8771620435381605,.76893419,1.000623,.051055823
+MCI/CIND only,zC8K_FF_13,Standardized values of C8K_FF_13,Model 3,.8910668040231012,.76952785,1.0318016,.12071362
+MCI/CIND only,zC8L_FF_13,Standardized values of C8L_FF_13,Model 1,.922534679896802,.67529678,1.2602906,.60656935
+MCI/CIND only,zC8L_FF_13,Standardized values of C8L_FF_13,Model 2,.9416181670965271,.71119809,1.2466917,.66919744
+MCI/CIND only,zC8L_FF_13,Standardized values of C8L_FF_13,Model 3,.9635148418396328,.72937173,1.2728226,.79005194
+MCI/CIND only,zC8M_FF_13,Standardized values of C8M_FF_13,Model 1,.8333274253198465,.65215415,1.064832,.14180037
+MCI/CIND only,zC8M_FF_13,Standardized values of C8M_FF_13,Model 2,.8570188743997179,.6736744,1.0902616,.20432384
+MCI/CIND only,zC8M_FF_13,Standardized values of C8M_FF_13,Model 3,.8774494502528237,.68067122,1.1311152,.30670851
+MCI/CIND only,zC8N_FF_13,Standardized values of C8N_FF_13,Model 1,.995252820031355,.88437206,1.1200356,.93594658
+MCI/CIND only,zC8N_FF_13,Standardized values of C8N_FF_13,Model 2,.9944654508532573,.87238324,1.1336319,.93263477
+MCI/CIND only,zC8N_FF_13,Standardized values of C8N_FF_13,Model 3,1.000661328545262,.88862854,1.1268185,.99113762
+MCI/CIND only,zC8O_FF_13,Standardized values of C8O_FF_13,Model 1,1.071122386008325,.92364448,1.242148,.35669023
+MCI/CIND only,zC8O_FF_13,Standardized values of C8O_FF_13,Model 2,1.089687805333824,.95047486,1.2492908,.21323323
+MCI/CIND only,zC8O_FF_13,Standardized values of C8O_FF_13,Model 3,1.050574088799304,.912646,1.2093472,.48532823
+MCI/CIND only,zC8P_FF_13,Standardized values of C8P_FF_13,Model 1,1.141470915471471,.99387985,1.3109792,.060674187
+MCI/CIND only,zC8P_FF_13,Standardized values of C8P_FF_13,Model 2,1.098316647782497,.9539004,1.2645968,.18798709
+MCI/CIND only,zC8P_FF_13,Standardized values of C8P_FF_13,Model 3,1.111878994397764,.97994411,1.2615769,.098120995
+MCI/CIND only,zC9AA_FF_13,Standardized values of C9AA_FF_13,Model 1,.9317981744894744,.80683589,1.0761145,.32985866
+MCI/CIND only,zC9AA_FF_13,Standardized values of C9AA_FF_13,Model 2,.961164337315199,.82099926,1.1252592,.61654961
+MCI/CIND only,zC9AA_FF_13,Standardized values of C9AA_FF_13,Model 3,.9107830274261679,.74888062,1.1076876,.34283128
+MCI/CIND only,zC9AB_FF_13,Standardized values of C9AB_FF_13,Model 1,1.023537991731483,.90964592,1.1516899,.69419414
+MCI/CIND only,zC9AB_FF_13,Standardized values of C9AB_FF_13,Model 2,1.040655209186112,.9360413,1.156961,.45418453
+MCI/CIND only,zC9AB_FF_13,Standardized values of C9AB_FF_13,Model 3,1.044532278590538,.94114643,1.1592752,.40579963
+MCI/CIND only,zC9AC_FF_13,Standardized values of C9AC_FF_13,Model 1,1.003898467923954,.86808723,1.1609572,.95741236
+MCI/CIND only,zC9AC_FF_13,Standardized values of C9AC_FF_13,Model 2,1.023430430753893,.89001507,1.1768451,.7409296
+MCI/CIND only,zC9AC_FF_13,Standardized values of C9AC_FF_13,Model 3,1.028904875161519,.89404243,1.1841108,.68598795
+MCI/CIND only,zC9AD_FF_13,Standardized values of C9AD_FF_13,Model 1,1.053935669419914,.93044573,1.1938154,.40190992
+MCI/CIND only,zC9AD_FF_13,Standardized values of C9AD_FF_13,Model 2,1.024766597325044,.907233,1.1575269,.68890136
+MCI/CIND only,zC9AD_FF_13,Standardized values of C9AD_FF_13,Model 3,1.045626798353912,.93028826,1.1752652,.44752988
+MCI/CIND only,zC9AE_FF_13,Standardized values of C9AE_FF_13,Model 1,.836095727243728,.72195125,.96828711,.017758913
+MCI/CIND only,zC9AE_FF_13,Standardized values of C9AE_FF_13,Model 2,.8648734413403476,.75887829,.98567331,.03018518
+MCI/CIND only,zC9AE_FF_13,Standardized values of C9AE_FF_13,Model 3,.8363820672325756,.727157,.96201366,.013291391
+MCI/CIND only,zC9AF_FF_13,Standardized values of C9AF_FF_13,Model 1,1.008405838432488,.83864874,1.2125248,.92781943
+MCI/CIND only,zC9AF_FF_13,Standardized values of C9AF_FF_13,Model 2,1.018304405048117,.8697558,1.1922241,.81853139
+MCI/CIND only,zC9AF_FF_13,Standardized values of C9AF_FF_13,Model 3,.9980343107959517,.85712492,1.1621089,.97942501
+MCI/CIND only,zC9AG_FF_13,Standardized values of C9AG_FF_13,Model 1,.9374115044760987,.79541576,1.104756,.43375349
+MCI/CIND only,zC9AG_FF_13,Standardized values of C9AG_FF_13,Model 2,.9599591064253847,.81724441,1.1275959,.61291939
+MCI/CIND only,zC9AG_FF_13,Standardized values of C9AG_FF_13,Model 3,.9225281503807617,.77805072,1.0938338,.34688622
+MCI/CIND only,zC9AH_FF_13,Standardized values of C9AH_FF_13,Model 1,1.163709498109829,1.0255475,1.3204848,.019610757
+MCI/CIND only,zC9AH_FF_13,Standardized values of C9AH_FF_13,Model 2,1.073944839234483,.94148386,1.2250422,.28218812
+MCI/CIND only,zC9AH_FF_13,Standardized values of C9AH_FF_13,Model 3,1.076427906424372,.93848801,1.2346423,.28649974
+MCI/CIND only,zC9AI_FF_13,Standardized values of C9AI_FF_13,Model 1,.9867568212489574,.85156572,1.1434103,.85678154
+MCI/CIND only,zC9AI_FF_13,Standardized values of C9AI_FF_13,Model 2,.9682079002412468,.8229962,1.1390412,.69183517
+MCI/CIND only,zC9AI_FF_13,Standardized values of C9AI_FF_13,Model 3,.9625267443709924,.80838424,1.1460611,.66269034
+MCI/CIND only,zC9AJ_FF_13,Standardized values of C9AJ_FF_13,Model 1,1.04453325462881,.8835361,1.2348671,.60402572
+MCI/CIND only,zC9AJ_FF_13,Standardized values of C9AJ_FF_13,Model 2,1.034184716599958,.87777585,1.2184637,.68281156
+MCI/CIND only,zC9AJ_FF_13,Standardized values of C9AJ_FF_13,Model 3,1.015199246098417,.85766345,1.2016712,.85838079
+MCI/CIND only,zC9AK_FF_13,Standardized values of C9AK_FF_13,Model 1,1.143342354214886,.9813748,1.3320413,.084415674
+MCI/CIND only,zC9AK_FF_13,Standardized values of C9AK_FF_13,Model 2,1.110527061026304,.94383264,1.3066622,.20184198
+MCI/CIND only,zC9AK_FF_13,Standardized values of C9AK_FF_13,Model 3,1.109917383375654,.95470595,1.2903624,.17091899
+MCI/CIND only,zC9AL_FF_13,Standardized values of C9AL_FF_13,Model 1,1.08774993863921,.94770509,1.2484896,.2265307
+MCI/CIND only,zC9AL_FF_13,Standardized values of C9AL_FF_13,Model 2,1.07725957969621,.94544137,1.2274566,.25813761
+MCI/CIND only,zC9AL_FF_13,Standardized values of C9AL_FF_13,Model 3,1.054658349859059,.91546398,1.215017,.4543725
+MCI/CIND only,zC9AM_FF_13,Standardized values of C9AM_FF_13,Model 1,.9725110163619097,.87334174,1.0829412,.60558712
+MCI/CIND only,zC9AM_FF_13,Standardized values of C9AM_FF_13,Model 2,.9452962514249456,.8543368,1.0459399,.26997757
+MCI/CIND only,zC9AM_FF_13,Standardized values of C9AM_FF_13,Model 3,.9285360920917993,.83111471,1.037377,.18556762
+MCI/CIND only,zC9AN_FF_13,Standardized values of C9AN_FF_13,Model 1,.8480503183482887,.7381506,.97431248,.020816797
+MCI/CIND only,zC9AN_FF_13,Standardized values of C9AN_FF_13,Model 2,.9216667804948536,.82007372,1.0358455,.16721167
+MCI/CIND only,zC9AN_FF_13,Standardized values of C9AN_FF_13,Model 3,.9133988738380492,.79526752,1.0490777,.19538802
+MCI/CIND only,zC9AP_FF_13,Standardized values of C9AP_FF_13,Model 1,1.032181254558174,.89466429,1.1908357,.6588192
+MCI/CIND only,zC9AP_FF_13,Standardized values of C9AP_FF_13,Model 2,1.049447426569325,.9083944,1.2124028,.50559682
+MCI/CIND only,zC9AP_FF_13,Standardized values of C9AP_FF_13,Model 3,1.061049295260406,.92611134,1.2156482,.3864125
+MCI/CIND only,zC9A_FF_13,Standardized values of C9A_FF_13,Model 1,1.09088687191588,1.0379828,1.1464874,.00091095362
+MCI/CIND only,zC9A_FF_13,Standardized values of C9A_FF_13,Model 2,1.071165244124974,1.0157199,1.1296372,.012192246
+MCI/CIND only,zC9A_FF_13,Standardized values of C9A_FF_13,Model 3,1.051815830088507,1.0000627,1.1062472,.049725901
+MCI/CIND only,zC9B_FF_13,Standardized values of C9B_FF_13,Model 1,.8490898811856827,.71906596,1.0026251,.053595953
+MCI/CIND only,zC9B_FF_13,Standardized values of C9B_FF_13,Model 2,.8959182728387781,.77413636,1.0368581,.13738923
+MCI/CIND only,zC9B_FF_13,Standardized values of C9B_FF_13,Model 3,.9076238038025809,.78525186,1.0490659,.18536188
+MCI/CIND only,zC9C_FF_13,Standardized values of C9C_FF_13,Model 1,1.112076739769655,1.0461379,1.1821718,.00098038511
+MCI/CIND only,zC9C_FF_13,Standardized values of C9C_FF_13,Model 2,1.075687640735375,1.0045463,1.1518673,.037069488
+MCI/CIND only,zC9C_FF_13,Standardized values of C9C_FF_13,Model 3,1.056989046448906,.98480976,1.1344585,.12206861
+MCI/CIND only,zC9D_FF_13,Standardized values of C9D_FF_13,Model 1,.9929723123527314,.85872489,1.1482071,.9228403
+MCI/CIND only,zC9D_FF_13,Standardized values of C9D_FF_13,Model 2,.9909789443180531,.86968702,1.129187,.88988066
+MCI/CIND only,zC9D_FF_13,Standardized values of C9D_FF_13,Model 3,.9631260277670015,.8436991,1.099458,.57185072
+MCI/CIND only,zC9E_FF_13,Standardized values of C9E_FF_13,Model 1,.9547339244676126,.80724132,1.1291752,.58236808
+MCI/CIND only,zC9E_FF_13,Standardized values of C9E_FF_13,Model 2,.9699057164221,.8342604,1.1276062,.68597287
+MCI/CIND only,zC9E_FF_13,Standardized values of C9E_FF_13,Model 3,.9621724962234203,.8335731,1.1106116,.59231305
+MCI/CIND only,zC9F_FF_13,Standardized values of C9F_FF_13,Model 1,1.049168261988203,.94699675,1.1623631,.35192502
+MCI/CIND only,zC9F_FF_13,Standardized values of C9F_FF_13,Model 2,1.044524102098199,.94609833,1.1531894,.38157585
+MCI/CIND only,zC9F_FF_13,Standardized values of C9F_FF_13,Model 3,1.013730708624903,.91374093,1.1246623,.79339755
+MCI/CIND only,zC9G_FF_13,Standardized values of C9G_FF_13,Model 1,1.091034146882684,.97815084,1.2169447,.11561992
+MCI/CIND only,zC9G_FF_13,Standardized values of C9G_FF_13,Model 2,1.095875928555352,.98616737,1.2177893,.087557219
+MCI/CIND only,zC9G_FF_13,Standardized values of C9G_FF_13,Model 3,1.090750458365351,.98010772,1.2138835,.10933127
+MCI/CIND only,zC9H_FF_13,Standardized values of C9H_FF_13,Model 1,1.092787511773769,.96232277,1.2409397,.16752678
+MCI/CIND only,zC9H_FF_13,Standardized values of C9H_FF_13,Model 2,1.047956398898931,.91710544,1.1974769,.48450676
+MCI/CIND only,zC9H_FF_13,Standardized values of C9H_FF_13,Model 3,1.019687566985783,.88695294,1.1722863,.78040367
+MCI/CIND only,zC9I_FF_13,Standardized values of C9I_FF_13,Model 1,.9193915371725441,.72208798,1.1706064,.48859602
+MCI/CIND only,zC9I_FF_13,Standardized values of C9I_FF_13,Model 2,.9615630957401562,.7807408,1.1842644,.70757741
+MCI/CIND only,zC9I_FF_13,Standardized values of C9I_FF_13,Model 3,.9347300288418027,.7442441,1.17397,.55523258
+MCI/CIND only,zC9J_FF_13,Standardized values of C9J_FF_13,Model 1,1.086006370828008,.94709599,1.2452908,.2321638
+MCI/CIND only,zC9J_FF_13,Standardized values of C9J_FF_13,Model 2,1.082518924034889,.9583559,1.2227683,.19755381
+MCI/CIND only,zC9J_FF_13,Standardized values of C9J_FF_13,Model 3,1.080910931171198,.95112848,1.2284023,.22804552
+MCI/CIND only,zC9K_FF_13,Standardized values of C9K_FF_13,Model 1,.9418986936146576,.81628245,1.0868458,.40562594
+MCI/CIND only,zC9K_FF_13,Standardized values of C9K_FF_13,Model 2,.9093837306306713,.79712909,1.0374465,.15417184
+MCI/CIND only,zC9K_FF_13,Standardized values of C9K_FF_13,Model 3,.9006155888872165,.78681034,1.0308818,.12619418
+MCI/CIND only,zC9L_FF_13,Standardized values of C9L_FF_13,Model 1,.9864608694966537,.85753065,1.1347758,.84608167
+MCI/CIND only,zC9L_FF_13,Standardized values of C9L_FF_13,Model 2,1.018778730394147,.896456,1.1577926,.77177465
+MCI/CIND only,zC9L_FF_13,Standardized values of C9L_FF_13,Model 3,.9854506785946326,.86188954,1.1267257,.82727659
+MCI/CIND only,zC9M_FF_13,Standardized values of C9M_FF_13,Model 1,1.007159948938005,.9017936,1.1248374,.89752388
+MCI/CIND only,zC9M_FF_13,Standardized values of C9M_FF_13,Model 2,1.002035730093163,.91017449,1.1031682,.9663443
+MCI/CIND only,zC9M_FF_13,Standardized values of C9M_FF_13,Model 3,.9982895596278937,.9042924,1.1020573,.97245079
+MCI/CIND only,zC9N_FF_13,Standardized values of C9N_FF_13,Model 1,1.09723300717506,.99279857,1.2126532,.068347223
+MCI/CIND only,zC9N_FF_13,Standardized values of C9N_FF_13,Model 2,1.051200040554975,.94806874,1.16555,.33675295
+MCI/CIND only,zC9N_FF_13,Standardized values of C9N_FF_13,Model 3,1.038454885450347,.94855648,1.1368734,.40725005
+MCI/CIND only,zC9O_FF_13,Standardized values of C9O_FF_13,Model 1,1.076623254573611,.99284714,1.1674683,.073210828
+MCI/CIND only,zC9O_FF_13,Standardized values of C9O_FF_13,Model 2,1.049898407124497,.96837378,1.1382864,.23249713
+MCI/CIND only,zC9O_FF_13,Standardized values of C9O_FF_13,Model 3,1.060777190539627,.97483909,1.1542913,.16725701
+MCI/CIND only,zC9P_FF_13,Standardized values of C9P_FF_13,Model 1,1.038325679241941,.95495808,1.1289712,.37177002
+MCI/CIND only,zC9P_FF_13,Standardized values of C9P_FF_13,Model 2,1.02716593188613,.94262868,1.1192847,.53427923
+MCI/CIND only,zC9P_FF_13,Standardized values of C9P_FF_13,Model 3,1.018908164817795,.92992008,1.1164119,.68284142
+MCI/CIND only,zC9Q_FF_13,Standardized values of C9Q_FF_13,Model 1,1.105833001067281,1.0118096,1.2085936,.027223911
+MCI/CIND only,zC9Q_FF_13,Standardized values of C9Q_FF_13,Model 2,1.057655076580871,.97663158,1.1454004,.16432421
+MCI/CIND only,zC9Q_FF_13,Standardized values of C9Q_FF_13,Model 3,1.044964766281469,.96385455,1.1329006,.28006423
+MCI/CIND only,zC9R_FF_13,Standardized values of C9R_FF_13,Model 1,1.065761363264258,.92552471,1.2272469,.36957821
+MCI/CIND only,zC9R_FF_13,Standardized values of C9R_FF_13,Model 2,1.024973226016531,.90967155,1.1548895,.68032104
+MCI/CIND only,zC9R_FF_13,Standardized values of C9R_FF_13,Model 3,1.011095898527369,.89702535,1.1396723,.85411417
+MCI/CIND only,zC9S_FF_13,Standardized values of C9S_FF_13,Model 1,1.092016113340161,1.0269271,1.1612306,.0058062151
+MCI/CIND only,zC9S_FF_13,Standardized values of C9S_FF_13,Model 2,1.064561718017154,1.0098972,1.1221851,.02088535
+MCI/CIND only,zC9S_FF_13,Standardized values of C9S_FF_13,Model 3,1.07577904431845,1.0190835,1.1356288,.0091044176
+MCI/CIND only,zC9T_FF_13,Standardized values of C9T_FF_13,Model 1,1.095942920129274,1.0257652,1.1709219,.0075391638
+MCI/CIND only,zC9T_FF_13,Standardized values of C9T_FF_13,Model 2,1.070590544020424,1.0125524,1.1319554,.017384578
+MCI/CIND only,zC9T_FF_13,Standardized values of C9T_FF_13,Model 3,1.069070925767817,1.0080396,1.1337973,.026695898
+MCI/CIND only,zC9U_FF_13,Standardized values of C9U_FF_13,Model 1,1.05350512576504,.99529868,1.1151155,.071482986
+MCI/CIND only,zC9U_FF_13,Standardized values of C9U_FF_13,Model 2,1.03578405114672,.98780996,1.0860881,.14305569
+MCI/CIND only,zC9U_FF_13,Standardized values of C9U_FF_13,Model 3,1.045810597479506,.99473667,1.0995069,.07850109
+MCI/CIND only,zC9V_FF_13,Standardized values of C9V_FF_13,Model 1,1.046169076882107,.92321539,1.1854978,.47246313
+MCI/CIND only,zC9V_FF_13,Standardized values of C9V_FF_13,Model 2,1.061939298451775,.94246775,1.1965556,.3173449
+MCI/CIND only,zC9V_FF_13,Standardized values of C9V_FF_13,Model 3,1.055933283373429,.93779451,1.1889546,.36197177
+MCI/CIND only,zC9W_FF_13,Standardized values of C9W_FF_13,Model 1,.9744877723248545,.82643509,1.1490635,.75449395
+MCI/CIND only,zC9W_FF_13,Standardized values of C9W_FF_13,Model 2,.9907932516518162,.84877914,1.1565686,.90506637
+MCI/CIND only,zC9W_FF_13,Standardized values of C9W_FF_13,Model 3,1.029442030290009,.87405759,1.2124497,.72365582
+MCI/CIND only,zC9X_FF_13,Standardized values of C9X_FF_13,Model 1,.9870334273613252,.86128867,1.1311364,.84850144
+MCI/CIND only,zC9X_FF_13,Standardized values of C9X_FF_13,Model 2,1.051424080409131,.9157421,1.2072095,.47010171
+MCI/CIND only,zC9X_FF_13,Standardized values of C9X_FF_13,Model 3,1.063756336478,.92387617,1.2248151,.38346133
+MCI/CIND only,zC9Y_FF_13,Standardized values of C9Y_FF_13,Model 1,1.029874778171485,.89858973,1.1803408,.66698849
+MCI/CIND only,zC9Y_FF_13,Standardized values of C9Y_FF_13,Model 2,1.051914995749019,.92546117,1.1956472,.43179223
+MCI/CIND only,zC9Y_FF_13,Standardized values of C9Y_FF_13,Model 3,1.068782770201114,.93854111,1.2170981,.30944702
+MCI/CIND only,zC9Z_FF_13,Standardized values of C9Z_FF_13,Model 1,1.049949141270258,.92574036,1.1908233,.44116765
+MCI/CIND only,zC9Z_FF_13,Standardized values of C9Z_FF_13,Model 2,1.059448799154528,.95656198,1.173402,.26218784
+MCI/CIND only,zC9Z_FF_13,Standardized values of C9Z_FF_13,Model 3,1.042189764882755,.93576509,1.1607182,.44527879
+MCI/CIND only,zhei2015_total_score,HEI-2015 total score (z),Model 1,.8797554911801876,.77858138,.99407685,.040192552
+MCI/CIND only,zhei2015_total_score,HEI-2015 total score (z),Model 2,.9095005670878415,.81179589,1.0189646,.10005524
+MCI/CIND only,zhei2015_total_score,HEI-2015 total score (z),Model 3,.963414830782457,.83565998,1.1107007,.60166675
+MCI/CIND only,zheix10_sodium,Standardized values of heix10_sodium,Model 1,1.093444011945406,.93383223,1.2803369,.26147279
+MCI/CIND only,zheix10_sodium,Standardized values of heix10_sodium,Model 2,1.095833368088996,.93181622,1.2887206,.26289603
+MCI/CIND only,zheix10_sodium,Standardized values of heix10_sodium,Model 3,1.123007551809723,.94816625,1.3300894,.1750885
+MCI/CIND only,zheix11_refinedgrain,Standardized values of heix11_refinedgrain,Model 1,1.02985440995765,.90807706,1.1679627,.64129996
+MCI/CIND only,zheix11_refinedgrain,Standardized values of heix11_refinedgrain,Model 2,1.071615227026726,.94681317,1.2128677,.26780313
+MCI/CIND only,zheix11_refinedgrain,Standardized values of heix11_refinedgrain,Model 3,1.100197157289247,.96707678,1.2516419,.14356203
+MCI/CIND only,zheix12_addedsugar,Standardized values of heix12_addedsugar,Model 1,.9710434042043157,.82656509,1.1407756,.71610439
+MCI/CIND only,zheix12_addedsugar,Standardized values of heix12_addedsugar,Model 2,1.0059558830833,.86112082,1.1751513,.93925887
+MCI/CIND only,zheix12_addedsugar,Standardized values of heix12_addedsugar,Model 3,1.009151912419413,.85252917,1.1945486,.91419047
+MCI/CIND only,zheix13_saturatedfat,Standardized values of heix13_saturatedfat,Model 1,.958556032268291,.83381236,1.1019621,.54541337
+MCI/CIND only,zheix13_saturatedfat,Standardized values of heix13_saturatedfat,Model 2,.9666955780640283,.84854239,1.1013007,.60466588
+MCI/CIND only,zheix13_saturatedfat,Standardized values of heix13_saturatedfat,Model 3,.9861092946261718,.85502779,1.1372864,.84491408
+MCI/CIND only,zheix1_totalveg,Standardized values of heix1_totalveg,Model 1,.8504803603029568,.76460737,.94599777,.0035239311
+MCI/CIND only,zheix1_totalveg,Standardized values of heix1_totalveg,Model 2,.8951890464005543,.80429226,.99635851,.042935606
+MCI/CIND only,zheix1_totalveg,Standardized values of heix1_totalveg,Model 3,.9487315148828036,.8454321,1.0646527,.36422038
+MCI/CIND only,zheix2_greens_and_bean,Standardized values of heix2_greens_and_bean,Model 1,.962812188371321,.84911239,1.0917369,.54809397
+MCI/CIND only,zheix2_greens_and_bean,Standardized values of heix2_greens_and_bean,Model 2,.971348589212902,.84545243,1.115992,.67635375
+MCI/CIND only,zheix2_greens_and_bean,Standardized values of heix2_greens_and_bean,Model 3,1.017093946305602,.8874476,1.1656802,.80420327
+MCI/CIND only,zheix3_totalfruit,Standardized values of heix3_totalfruit,Model 1,.8663430522086303,.76530588,.98071939,.024155719
+MCI/CIND only,zheix3_totalfruit,Standardized values of heix3_totalfruit,Model 2,.8672181895714549,.76727629,.98017806,.023405196
+MCI/CIND only,zheix3_totalfruit,Standardized values of heix3_totalfruit,Model 3,.9059343086517405,.78918421,1.0399561,.15696211
+MCI/CIND only,zheix4_wholefruit,Standardized values of heix4_wholefruit,Model 1,.8830732893380014,.78118336,.99825275,.046928938
+MCI/CIND only,zheix4_wholefruit,Standardized values of heix4_wholefruit,Model 2,.8941853305836669,.79646742,1.0038922,.057916749
+MCI/CIND only,zheix4_wholefruit,Standardized values of heix4_wholefruit,Model 3,.9388649012991231,.83243161,1.0589066,.2979846
+MCI/CIND only,zheix5_wholegrain,Standardized values of heix5_wholegrain,Model 1,.9490816043349467,.8398872,1.0724725,.39523688
+MCI/CIND only,zheix5_wholegrain,Standardized values of heix5_wholegrain,Model 2,.9480992631319498,.84523255,1.063485,.35643676
+MCI/CIND only,zheix5_wholegrain,Standardized values of heix5_wholegrain,Model 3,.9760091507700343,.86815327,1.0972646,.67934114
+MCI/CIND only,zheix6_totaldairy,Standardized values of heix6_totaldairy,Model 1,.9316768543968383,.80328745,1.0805867,.34300107
+MCI/CIND only,zheix6_totaldairy,Standardized values of heix6_totaldairy,Model 2,.9642726200167118,.82936859,1.12112,.63046545
+MCI/CIND only,zheix6_totaldairy,Standardized values of heix6_totaldairy,Model 3,.999715353256004,.85806674,1.1647471,.99703413
+MCI/CIND only,zheix7_totprot,Standardized values of heix7_totprot,Model 1,1.001377836205563,.88620335,1.1315209,.98206449
+MCI/CIND only,zheix7_totprot,Standardized values of heix7_totprot,Model 2,.9930579582050246,.88451022,1.1149267,.90444309
+MCI/CIND only,zheix7_totprot,Standardized values of heix7_totprot,Model 3,.9933731003849466,.87526405,1.1274198,.9165467
+MCI/CIND only,zheix8_seaplant_prot,Standardized values of heix8_seaplant_prot,Model 1,.8655250452820448,.74366122,1.0073587,.061719846
+MCI/CIND only,zheix8_seaplant_prot,Standardized values of heix8_seaplant_prot,Model 2,.9134381923154179,.78834993,1.0583743,.22317967
+MCI/CIND only,zheix8_seaplant_prot,Standardized values of heix8_seaplant_prot,Model 3,.9158397148863131,.7814095,1.0733967,.27188307
+MCI/CIND only,zheix9_fattyacid,Standardized values of heix9_fattyacid,Model 1,.877111093260747,.7472989,1.0294728,.1065862
+MCI/CIND only,zheix9_fattyacid,Standardized values of heix9_fattyacid,Model 2,.8928351111751507,.76460087,1.042576,.1485792
+MCI/CIND only,zheix9_fattyacid,Standardized values of heix9_fattyacid,Model 3,.8985736028526417,.75602573,1.0679988,.21994944
+Probable dementia only,zC3A_FF_13,Standardized values of C3A_FF_13,Model 1,1.180605100398658,.99708116,1.3979087,.053955898
+Probable dementia only,zC3A_FF_13,Standardized values of C3A_FF_13,Model 2,1.21941985474571,1.0514652,1.4142027,.0096255215
+Probable dementia only,zC3A_FF_13,Standardized values of C3A_FF_13,Model 3,1.147677711930469,.95630682,1.3773447,.13594776
+Probable dementia only,zC3B_FF_13,Standardized values of C3B_FF_13,Model 1,.3633972859363069,.17623787,.74931449,.0069746943
+Probable dementia only,zC3B_FF_13,Standardized values of C3B_FF_13,Model 2,.341909082351013,.14949907,.78195685,.011951457
+Probable dementia only,zC3B_FF_13,Standardized values of C3B_FF_13,Model 3,.31308869890381,.13411272,.73091155,.0081579201
+Probable dementia only,zC3C_FF_13,Standardized values of C3C_FF_13,Model 1,.8731059800747945,.50542015,1.5082779,.62084693
+Probable dementia only,zC3C_FF_13,Standardized values of C3C_FF_13,Model 2,.8492771671406503,.4669897,1.5445131,.58630472
+Probable dementia only,zC3C_FF_13,Standardized values of C3C_FF_13,Model 3,.7742065970731383,.47640595,1.258162,.29548419
+Probable dementia only,zC3D_FF_13,Standardized values of C3D_FF_13,Model 1,1.050187399542723,.87573028,1.2593987,.5912419
+Probable dementia only,zC3D_FF_13,Standardized values of C3D_FF_13,Model 2,.9895476424832682,.74738556,1.3101732,.94046646
+Probable dementia only,zC3D_FF_13,Standardized values of C3D_FF_13,Model 3,.9416210246931701,.74129993,1.1960748,.61629629
+Probable dementia only,zC3E_FF_13,Standardized values of C3E_FF_13,Model 1,1.181419944864273,.6675759,2.0907781,.56073064
+Probable dementia only,zC3E_FF_13,Standardized values of C3E_FF_13,Model 2,1.220956487468685,.70974982,2.1003666,.46395367
+Probable dementia only,zC3E_FF_13,Standardized values of C3E_FF_13,Model 3,1.162329554776849,.68867904,1.9617412,.56699181
+Probable dementia only,zC3F_FF_13,Standardized values of C3F_FF_13,Model 1,1.088251249075835,.83300024,1.4217172,.52865517
+Probable dementia only,zC3F_FF_13,Standardized values of C3F_FF_13,Model 2,1.106243786914719,.82176697,1.4892,.49892098
+Probable dementia only,zC3F_FF_13,Standardized values of C3F_FF_13,Model 3,1.149654041958707,.86714655,1.5241996,.32599816
+Probable dementia only,zC3G_FF_13,Standardized values of C3G_FF_13,Model 1,.9234808175508188,.54544502,1.5635248,.76304966
+Probable dementia only,zC3G_FF_13,Standardized values of C3G_FF_13,Model 2,.901520574749349,.47756961,1.7018238,.74491251
+Probable dementia only,zC3G_FF_13,Standardized values of C3G_FF_13,Model 3,1.027354945307285,.60217226,1.7527514,.91972548
+Probable dementia only,zC3H_FF_13,Standardized values of C3H_FF_13,Model 1,.9626116334179941,.62468362,1.4833448,.86046779
+Probable dementia only,zC3H_FF_13,Standardized values of C3H_FF_13,Model 2,.9637162073403388,.61970973,1.4986838,.86740053
+Probable dementia only,zC3H_FF_13,Standardized values of C3H_FF_13,Model 3,.8618875066140443,.52539021,1.4139017,.54980528
+Probable dementia only,zC3I_FF_13,Standardized values of C3I_FF_13,Model 1,1.025963025252558,.72158432,1.4587348,.88449049
+Probable dementia only,zC3I_FF_13,Standardized values of C3I_FF_13,Model 2,.9924750940543565,.72609776,1.3565761,.96154374
+Probable dementia only,zC3I_FF_13,Standardized values of C3I_FF_13,Model 3,.9287644555133389,.63987756,1.3480757,.69253874
+Probable dementia only,zC3J_FF_13,Standardized values of C3J_FF_13,Model 1,1.025523866228458,.65576267,1.6037803,.91047728
+Probable dementia only,zC3J_FF_13,Standardized values of C3J_FF_13,Model 2,1.02944224720658,.7404936,1.4311419,.86054289
+Probable dementia only,zC3J_FF_13,Standardized values of C3J_FF_13,Model 3,.9425869456273515,.66337383,1.3393205,.7371673
+Probable dementia only,zC3L_FF_13,Standardized values of C3L_FF_13,Model 1,.8082564521999156,.52380019,1.2471902,.32966718
+Probable dementia only,zC3L_FF_13,Standardized values of C3L_FF_13,Model 2,.8387308338842241,.55568105,1.265959,.39567056
+Probable dementia only,zC3L_FF_13,Standardized values of C3L_FF_13,Model 3,.8432947988125522,.5232591,1.3590708,.47719628
+Probable dementia only,zC3M_FF_13,Standardized values of C3M_FF_13,Model 1,.3200971177394716,.099576026,1.0289843,.055671602
+Probable dementia only,zC3M_FF_13,Standardized values of C3M_FF_13,Model 2,.2805093916732769,.077869445,1.01048,.051827777
+Probable dementia only,zC3M_FF_13,Standardized values of C3M_FF_13,Model 3,.329020638221644,.077933185,1.3890691,.12765366
+Probable dementia only,zC3N_FF_13,Standardized values of C3N_FF_13,Model 1,.8207474323572227,.45120788,1.4929402,.51093489
+Probable dementia only,zC3N_FF_13,Standardized values of C3N_FF_13,Model 2,.8849206826131035,.46421102,1.6869152,.70558202
+Probable dementia only,zC3N_FF_13,Standardized values of C3N_FF_13,Model 3,.8889463808672223,.49954867,1.5818793,.68388355
+Probable dementia only,zC3P_FF_13,Standardized values of C3P_FF_13,Model 1,.9051059465109604,.56977886,1.4377801,.66761976
+Probable dementia only,zC3P_FF_13,Standardized values of C3P_FF_13,Model 2,.944561980923322,.57968116,1.5391173,.8157751
+Probable dementia only,zC3P_FF_13,Standardized values of C3P_FF_13,Model 3,.8950786739267456,.62706864,1.2776366,.53505754
+Probable dementia only,zC3Q_FF_13,Standardized values of C3Q_FF_13,Model 1,1.124852915878322,.85836828,1.474069,.38697118
+Probable dementia only,zC3Q_FF_13,Standardized values of C3Q_FF_13,Model 2,1.114995908652777,.84175974,1.4769249,.44107467
+Probable dementia only,zC3Q_FF_13,Standardized values of C3Q_FF_13,Model 3,1.094951288803358,.81193936,1.4766107,.54575473
+Probable dementia only,zC3R_FF_13,Standardized values of C3R_FF_13,Model 1,1.071199749545,.82208872,1.395797,.60462761
+Probable dementia only,zC3R_FF_13,Standardized values of C3R_FF_13,Model 2,1.054976503422533,.7950809,1.3998266,.70598805
+Probable dementia only,zC3R_FF_13,Standardized values of C3R_FF_13,Model 3,.990326724190675,.69077057,1.4197869,.95706969
+Probable dementia only,zC4A_FF_13,Standardized values of C4A_FF_13,Model 1,1.447595208639528,1.2161999,1.723016,.000081636193
+Probable dementia only,zC4A_FF_13,Standardized values of C4A_FF_13,Model 2,1.411252993366218,1.2147374,1.6395601,.000024921424
+Probable dementia only,zC4A_FF_13,Standardized values of C4A_FF_13,Model 3,1.529298295659111,1.300557,1.7982705,2.4836950e-06
+Probable dementia only,zC4B_FF_13,Standardized values of C4B_FF_13,Model 1,1.140435366283116,.82669121,1.573251,.41658235
+Probable dementia only,zC4B_FF_13,Standardized values of C4B_FF_13,Model 2,1.142184806743498,.81360912,1.6034557,.43558666
+Probable dementia only,zC4B_FF_13,Standardized values of C4B_FF_13,Model 3,1.107558973903825,.72539234,1.6910667,.63047278
+Probable dementia only,zC4C_FF_13,Standardized values of C4C_FF_13,Model 1,.516082929880166,.053811047,4.9495707,.56002808
+Probable dementia only,zC4C_FF_13,Standardized values of C4C_FF_13,Model 2,.2131268661557874,.0043483861,10.445959,.42947066
+Probable dementia only,zC4C_FF_13,Standardized values of C4C_FF_13,Model 3,.2302312612909404,.018595269,2.8505332,.24714832
+Probable dementia only,zC4D_FF_13,Standardized values of C4D_FF_13,Model 1,1.542540465468513,1.0042822,2.3692851,.047838643
+Probable dementia only,zC4D_FF_13,Standardized values of C4D_FF_13,Model 2,1.634091321994351,1.0336934,2.5832169,.036046334
+Probable dementia only,zC4D_FF_13,Standardized values of C4D_FF_13,Model 3,1.614652084384672,1.0143547,2.5702069,.043601763
+Probable dementia only,zC4E_FF_13,Standardized values of C4E_FF_13,Model 1,.9833275239481856,.70284766,1.3757362,.92044002
+Probable dementia only,zC4E_FF_13,Standardized values of C4E_FF_13,Model 2,.9359443969458006,.60326344,1.4520886,.76374429
+Probable dementia only,zC4E_FF_13,Standardized values of C4E_FF_13,Model 3,.9032618234776802,.52285421,1.5604386,.71061677
+Probable dementia only,zC4F_FF_13,Standardized values of C4F_FF_13,Model 1,.7797666949705795,.43535745,1.3966365,.39606279
+Probable dementia only,zC4F_FF_13,Standardized values of C4F_FF_13,Model 2,.7970897762554122,.44165128,1.4385833,.44474486
+Probable dementia only,zC4F_FF_13,Standardized values of C4F_FF_13,Model 3,.7815336629981817,.42089757,1.4511722,.42817813
+Probable dementia only,zC4G_FF_13,Standardized values of C4G_FF_13,Model 1,.9006265986489163,.579952,1.3986127,.63556868
+Probable dementia only,zC4G_FF_13,Standardized values of C4G_FF_13,Model 2,.8431713148777065,.52772158,1.3471836,.46877125
+Probable dementia only,zC4G_FF_13,Standardized values of C4G_FF_13,Model 3,.8003976648249004,.414547,1.5453892,.50049722
+Probable dementia only,zC4H_FF_13,Standardized values of C4H_FF_13,Model 1,1.062439588132883,.77156705,1.462968,.70582724
+Probable dementia only,zC4H_FF_13,Standardized values of C4H_FF_13,Model 2,1.091316183374717,.76158214,1.5638117,.62833422
+Probable dementia only,zC4H_FF_13,Standardized values of C4H_FF_13,Model 3,1.098617822734619,.79001635,1.5277673,.56992483
+Probable dementia only,zC4I_FF_13,Standardized values of C4I_FF_13,Model 1,1.136972336234913,.82908177,1.5592022,.41881108
+Probable dementia only,zC4I_FF_13,Standardized values of C4I_FF_13,Model 2,1.084560089010738,.72791982,1.6159344,.68487269
+Probable dementia only,zC4I_FF_13,Standardized values of C4I_FF_13,Model 3,1.07956314287388,.62963712,1.8509972,.77705431
+Probable dementia only,zC4J_FF_13,Standardized values of C4J_FF_13,Model 1,.8463021972591201,.47696835,1.5016246,.56213051
+Probable dementia only,zC4J_FF_13,Standardized values of C4J_FF_13,Model 2,.779473815355622,.43428373,1.399038,.39703709
+Probable dementia only,zC4J_FF_13,Standardized values of C4J_FF_13,Model 3,.7692273582825911,.35350281,1.6738502,.50170171
+Probable dementia only,zC4K_FF_13,Standardized values of C4K_FF_13,Model 1,1.079530887592532,.76071912,1.5319543,.6629886
+Probable dementia only,zC4K_FF_13,Standardized values of C4K_FF_13,Model 2,1.074461017176466,.7384758,1.5633099,.7025885
+Probable dementia only,zC4K_FF_13,Standardized values of C4K_FF_13,Model 3,1.089978546611831,.7822448,1.5187742,.60482311
+Probable dementia only,zC4L_FF_13,Standardized values of C4L_FF_13,Model 1,.9257850100139841,.66942167,1.2803259,.63551027
+Probable dementia only,zC4L_FF_13,Standardized values of C4L_FF_13,Model 2,.955384653170106,.7087127,1.2879124,.76056731
+Probable dementia only,zC4L_FF_13,Standardized values of C4L_FF_13,Model 3,.935792776532739,.78303236,1.1183549,.45871395
+Probable dementia only,zC4M_FF_13,Standardized values of C4M_FF_13,Model 1,.6944221275303354,.22614162,2.1323898,.51749653
+Probable dementia only,zC4M_FF_13,Standardized values of C4M_FF_13,Model 2,.7177810727192567,.25052235,2.0565417,.53045583
+Probable dementia only,zC4M_FF_13,Standardized values of C4M_FF_13,Model 3,.8686416085689607,.32783788,2.3015592,.77318829
+Probable dementia only,zC4N_FF_13,Standardized values of C4N_FF_13,Model 1,.9720838868476471,.70347738,1.3432515,.86137229
+Probable dementia only,zC4N_FF_13,Standardized values of C4N_FF_13,Model 2,.9101187165284043,.59868473,1.3835597,.65402842
+Probable dementia only,zC4N_FF_13,Standardized values of C4N_FF_13,Model 3,.9723242850106741,.68945271,1.3712536,.87064326
+Probable dementia only,zC4O_FF_13,Standardized values of C4O_FF_13,Model 1,.6847252592095942,.37542266,1.2488556,.21192451
+Probable dementia only,zC4O_FF_13,Standardized values of C4O_FF_13,Model 2,.6242800378625459,.30392244,1.2823192,.1950603
+Probable dementia only,zC4O_FF_13,Standardized values of C4O_FF_13,Model 3,.7017565046598853,.33009237,1.4918921,.35078278
+Probable dementia only,zC4P_FF_13,Standardized values of C4P_FF_13,Model 1,1.007236652662793,.7097984,1.4293152,.96721542
+Probable dementia only,zC4P_FF_13,Standardized values of C4P_FF_13,Model 2,.976838349566387,.67725885,1.4089342,.89844227
+Probable dementia only,zC4P_FF_13,Standardized values of C4P_FF_13,Model 3,.9565531485330928,.573403,1.5957257,.86254489
+Probable dementia only,zC4Q_FF_13,Standardized values of C4Q_FF_13,Model 1,1.016477863451581,.76999187,1.3418677,.90654743
+Probable dementia only,zC4Q_FF_13,Standardized values of C4Q_FF_13,Model 2,1.026088408308021,.76027018,1.3848464,.86396366
+Probable dementia only,zC4Q_FF_13,Standardized values of C4Q_FF_13,Model 3,1.029406294097272,.72189385,1.4679129,.87058687
+Probable dementia only,zC4R_FF_13,Standardized values of C4R_FF_13,Model 1,1.078981198482105,.76174426,1.5283351,.66341799
+Probable dementia only,zC4R_FF_13,Standardized values of C4R_FF_13,Model 2,1.005140887618028,.7128042,1.4173714,.97625446
+Probable dementia only,zC4R_FF_13,Standardized values of C4R_FF_13,Model 3,.8802377947375126,.56753302,1.3652396,.56263018
+Probable dementia only,zC4S_FF_13,Standardized values of C4S_FF_13,Model 1,1.135451735478592,.86178619,1.4960215,.3599802
+Probable dementia only,zC4S_FF_13,Standardized values of C4S_FF_13,Model 2,1.095557845376412,.78632915,1.5263926,.58353478
+Probable dementia only,zC4S_FF_13,Standardized values of C4S_FF_13,Model 3,1.101825079175258,.71825713,1.6902282,.65150917
+Probable dementia only,zC5AA_FF_13,Standardized values of C5AA_FF_13,Model 1,1.233317372476318,.80234379,1.8957856,.33258921
+Probable dementia only,zC5AA_FF_13,Standardized values of C5AA_FF_13,Model 2,1.242497799798559,.75513303,2.044409,.3860414
+Probable dementia only,zC5AA_FF_13,Standardized values of C5AA_FF_13,Model 3,1.291857250522183,.7639392,2.1845915,.33290991
+Probable dementia only,zC5AB_FF_13,Standardized values of C5AB_FF_13,Model 1,.6230531340822189,.44745344,.86756563,.0059107849
+Probable dementia only,zC5AB_FF_13,Standardized values of C5AB_FF_13,Model 2,.5669831818584469,.37991294,.84616739,.0063100471
+Probable dementia only,zC5AB_FF_13,Standardized values of C5AB_FF_13,Model 3,.6038188617008079,.42910412,.84967077,.0045341677
+Probable dementia only,zC5A_FF_13,Standardized values of C5A_FF_13,Model 1,.8543792779178103,.5369978,1.3593426,.49987453
+Probable dementia only,zC5A_FF_13,Standardized values of C5A_FF_13,Model 2,.8913410313057042,.58159041,1.3660624,.59143651
+Probable dementia only,zC5A_FF_13,Standardized values of C5A_FF_13,Model 3,.8669517939480815,.55613267,1.3514858,.52196157
+Probable dementia only,zC5B_FF_13,Standardized values of C5B_FF_13,Model 1,1.201608804455755,.90929747,1.5878893,.19215636
+Probable dementia only,zC5B_FF_13,Standardized values of C5B_FF_13,Model 2,1.225027734800991,.92858911,1.6161001,.14776601
+Probable dementia only,zC5B_FF_13,Standardized values of C5B_FF_13,Model 3,1.267797095012373,.98559749,1.630797,.064226441
+Probable dementia only,zC5C_FF_13,Standardized values of C5C_FF_13,Model 1,.9192276033910312,.53033191,1.593303,.76010698
+Probable dementia only,zC5C_FF_13,Standardized values of C5C_FF_13,Model 2,.9584289338764438,.58527279,1.5695006,.86365944
+Probable dementia only,zC5C_FF_13,Standardized values of C5C_FF_13,Model 3,.9456731114727666,.53571665,1.6693481,.84456861
+Probable dementia only,zC5D_FF_13,Standardized values of C5D_FF_13,Model 1,.455015607882895,.077715605,2.6640623,.37579149
+Probable dementia only,zC5D_FF_13,Standardized values of C5D_FF_13,Model 2,.4559843734295501,.12778971,1.6270617,.22128028
+Probable dementia only,zC5D_FF_13,Standardized values of C5D_FF_13,Model 3,.3869693268568522,.14349028,1.0435916,.060327865
+Probable dementia only,zC5E_FF_13,Standardized values of C5E_FF_13,Model 1,.7709223079924674,.4364551,1.3617007,.36341611
+Probable dementia only,zC5E_FF_13,Standardized values of C5E_FF_13,Model 2,.6679408560965766,.30958554,1.4411042,.2975226
+Probable dementia only,zC5E_FF_13,Standardized values of C5E_FF_13,Model 3,.5582141045827245,.25275525,1.2328249,.14601244
+Probable dementia only,zC5F_FF_13,Standardized values of C5F_FF_13,Model 1,.9238716033069914,.52126008,1.6374528,.78261715
+Probable dementia only,zC5F_FF_13,Standardized values of C5F_FF_13,Model 2,.8693476344586416,.46386898,1.6292646,.65684551
+Probable dementia only,zC5F_FF_13,Standardized values of C5F_FF_13,Model 3,.8788204563225259,.48648593,1.5875596,.66328377
+Probable dementia only,zC5G_FF_13,Standardized values of C5G_FF_13,Model 1,.8629804067283258,.54911971,1.3562347,.51631069
+Probable dementia only,zC5G_FF_13,Standardized values of C5G_FF_13,Model 2,.8245890374107689,.51827651,1.3119388,.40881479
+Probable dementia only,zC5G_FF_13,Standardized values of C5G_FF_13,Model 3,.8216969761690363,.52756995,1.2798035,.37829056
+Probable dementia only,zC5H_FF_13,Standardized values of C5H_FF_13,Model 1,.8908460290694412,.57051682,1.391031,.60529357
+Probable dementia only,zC5H_FF_13,Standardized values of C5H_FF_13,Model 2,.8575957955536422,.51029092,1.4412769,.55560017
+Probable dementia only,zC5H_FF_13,Standardized values of C5H_FF_13,Model 3,.8758842802862814,.49062869,1.5636535,.6485765
+Probable dementia only,zC5I_FF_13,Standardized values of C5I_FF_13,Model 1,.9379281873275819,.70488316,1.2480214,.65476918
+Probable dementia only,zC5I_FF_13,Standardized values of C5I_FF_13,Model 2,.9624593288807241,.71329057,1.2986685,.79894859
+Probable dementia only,zC5I_FF_13,Standardized values of C5I_FF_13,Model 3,.8975218292455234,.58310449,1.381477,.61738795
+Probable dementia only,zC5J_FF_13,Standardized values of C5J_FF_13,Model 1,.9794260786313217,.7135365,1.3443958,.89583302
+Probable dementia only,zC5J_FF_13,Standardized values of C5J_FF_13,Model 2,.9686713275370521,.71025491,1.3211089,.83788604
+Probable dementia only,zC5J_FF_13,Standardized values of C5J_FF_13,Model 3,.9022699199625334,.55446881,1.468236,.67373759
+Probable dementia only,zC5K_FF_13,Standardized values of C5K_FF_13,Model 1,.5093520232773627,.23083754,1.1239051,.093226753
+Probable dementia only,zC5K_FF_13,Standardized values of C5K_FF_13,Model 2,.478637590155581,.21105997,1.0854448,.076808363
+Probable dementia only,zC5K_FF_13,Standardized values of C5K_FF_13,Model 3,.479274536260844,.24028794,.95595342,.037248783
+Probable dementia only,zC5L_FF_13,Standardized values of C5L_FF_13,Model 1,.7032547014092918,.38076752,1.2988691,.255162
+Probable dementia only,zC5L_FF_13,Standardized values of C5L_FF_13,Model 2,.6700402847236404,.37381193,1.2010157,.17469385
+Probable dementia only,zC5L_FF_13,Standardized values of C5L_FF_13,Model 3,.4910161096313921,.32874826,.73337829,.00079034554
+Probable dementia only,zC5M_FF_13,Standardized values of C5M_FF_13,Model 1,.8001939938409592,.59346348,1.0789382,.14073461
+Probable dementia only,zC5M_FF_13,Standardized values of C5M_FF_13,Model 2,.7573071209816606,.50989288,1.1247737,.1646564
+Probable dementia only,zC5M_FF_13,Standardized values of C5M_FF_13,Model 3,.6839598563429071,.45725349,1.0230674,.063958257
+Probable dementia only,zC5N_FF_13,Standardized values of C5N_FF_13,Model 1,.8412260083753909,.57286727,1.235297,.37107909
+Probable dementia only,zC5N_FF_13,Standardized values of C5N_FF_13,Model 2,.8214412551052799,.54775774,1.2318689,.3349359
+Probable dementia only,zC5N_FF_13,Standardized values of C5N_FF_13,Model 3,.6829267925799587,.3926324,1.1878515,.17293376
+Probable dementia only,zC5O_FF_13,Standardized values of C5O_FF_13,Model 1,.6715911341063787,.41707617,1.0814203,.09965989
+Probable dementia only,zC5O_FF_13,Standardized values of C5O_FF_13,Model 2,.6446894597087454,.3885141,1.0697796,.087962702
+Probable dementia only,zC5O_FF_13,Standardized values of C5O_FF_13,Model 3,.6237406766404632,.38332355,1.0149453,.057144072
+Probable dementia only,zC5P_FF_13,Standardized values of C5P_FF_13,Model 1,.5588425643970936,.29267219,1.0670813,.076886751
+Probable dementia only,zC5P_FF_13,Standardized values of C5P_FF_13,Model 2,.4469752470984754,.21189533,.94285643,.03498321
+Probable dementia only,zC5P_FF_13,Standardized values of C5P_FF_13,Model 3,.4423542310272224,.19809593,.98779041,.04671419
+Probable dementia only,zC5Q_FF_13,Standardized values of C5Q_FF_13,Model 1,.5230842463901569,.24269097,1.1274302,.096487544
+Probable dementia only,zC5Q_FF_13,Standardized values of C5Q_FF_13,Model 2,.536493455799206,.24330087,1.1830013,.12026899
+Probable dementia only,zC5Q_FF_13,Standardized values of C5Q_FF_13,Model 3,.6007393001739929,.28452152,1.2684021,.17734572
+Probable dementia only,zC5R_FF_13,Standardized values of C5R_FF_13,Model 1,.5247916792004987,.23784256,1.1579353,.10824239
+Probable dementia only,zC5R_FF_13,Standardized values of C5R_FF_13,Model 2,.5437513004931072,.25937858,1.1398994,.10473873
+Probable dementia only,zC5R_FF_13,Standardized values of C5R_FF_13,Model 3,.5305486034716904,.28987968,.97102982,.040190756
+Probable dementia only,zC5S_FF_13,Standardized values of C5S_FF_13,Model 1,.9389800081122487,.62846982,1.402905,.7545135
+Probable dementia only,zC5S_FF_13,Standardized values of C5S_FF_13,Model 2,.8528873595629611,.51646256,1.40846,.52758718
+Probable dementia only,zC5S_FF_13,Standardized values of C5S_FF_13,Model 3,.9803831857291471,.57316011,1.6769332,.94130528
+Probable dementia only,zC5T_FF_13,Standardized values of C5T_FF_13,Model 1,1.034773995186711,.72027683,1.4865912,.85072583
+Probable dementia only,zC5T_FF_13,Standardized values of C5T_FF_13,Model 2,1.002163769465276,.6918425,1.4516776,.99071574
+Probable dementia only,zC5T_FF_13,Standardized values of C5T_FF_13,Model 3,1.01843078154669,.73407,1.412946,.91140109
+Probable dementia only,zC5U_FF_13,Standardized values of C5U_FF_13,Model 1,1.149477881547922,.86030895,1.5358429,.33954096
+Probable dementia only,zC5U_FF_13,Standardized values of C5U_FF_13,Model 2,1.172018011993047,.88363332,1.5545207,.26495314
+Probable dementia only,zC5U_FF_13,Standardized values of C5U_FF_13,Model 3,1.161838480661038,.78902775,1.7107999,.44056639
+Probable dementia only,zC5V_FF_13,Standardized values of C5V_FF_13,Model 1,.9019393923330067,.68166125,1.1934001,.46325865
+Probable dementia only,zC5V_FF_13,Standardized values of C5V_FF_13,Model 2,.8714840434710093,.62539065,1.214416,.40968737
+Probable dementia only,zC5V_FF_13,Standardized values of C5V_FF_13,Model 3,.7867131395472076,.49916914,1.2398955,.29522726
+Probable dementia only,zC5W_FF_13,Standardized values of C5W_FF_13,Model 1,.6878001279836694,.3979345,1.1888113,.17605604
+Probable dementia only,zC5W_FF_13,Standardized values of C5W_FF_13,Model 2,.6851639050709315,.41161951,1.140494,.1427204
+Probable dementia only,zC5W_FF_13,Standardized values of C5W_FF_13,Model 3,.7208279997851961,.3854534,1.3480047,.29921773
+Probable dementia only,zC5X_FF_13,Standardized values of C5X_FF_13,Model 1,.8744009383556915,.60204792,1.2699604,.474132
+Probable dementia only,zC5X_FF_13,Standardized values of C5X_FF_13,Model 2,.8994369644818553,.6407299,1.262602,.53373826
+Probable dementia only,zC5X_FF_13,Standardized values of C5X_FF_13,Model 3,.9405043087531116,.61313272,1.4426703,.77494586
+Probable dementia only,zC5Y_FF_13,Standardized values of C5Y_FF_13,Model 1,.4354008446176102,.12309086,1.5401136,.19263761
+Probable dementia only,zC5Y_FF_13,Standardized values of C5Y_FF_13,Model 2,.4158451341677893,.11403046,1.5164999,.17967039
+Probable dementia only,zC5Y_FF_13,Standardized values of C5Y_FF_13,Model 3,.3302204794672512,.12808783,.85133433,.022683639
+Probable dementia only,zC5Z_FF_13,Standardized values of C5Z_FF_13,Model 1,1.081683772518473,.6556735,1.7844853,.75446236
+Probable dementia only,zC5Z_FF_13,Standardized values of C5Z_FF_13,Model 2,1.065157821162656,.65573019,1.7302256,.79525292
+Probable dementia only,zC5Z_FF_13,Standardized values of C5Z_FF_13,Model 3,1.058116581505792,.62383604,1.7947196,.83113158
+Probable dementia only,zC6A_FF_13,Standardized values of C6A_FF_13,Model 1,1.225389943647051,.98488724,1.5246217,.067610256
+Probable dementia only,zC6A_FF_13,Standardized values of C6A_FF_13,Model 2,1.26791045323365,.99622446,1.6136895,.053575452
+Probable dementia only,zC6A_FF_13,Standardized values of C6A_FF_13,Model 3,1.347370480446082,1.026404,1.7687062,.032327536
+Probable dementia only,zC6B_FF_13,Standardized values of C6B_FF_13,Model 1,1.185517534177269,.97552681,1.4407107,.08580973
+Probable dementia only,zC6B_FF_13,Standardized values of C6B_FF_13,Model 2,1.197776117214773,1.0256591,1.3987763,.023427498
+Probable dementia only,zC6B_FF_13,Standardized values of C6B_FF_13,Model 3,1.212672131105258,.97731256,1.5047117,.078812115
+Probable dementia only,zC6C_FF_13,Standardized values of C6C_FF_13,Model 1,.7889811224775366,.40809268,1.5253673,.47427192
+Probable dementia only,zC6C_FF_13,Standardized values of C6C_FF_13,Model 2,.7616686412254183,.37397912,1.5512607,.4463512
+Probable dementia only,zC6C_FF_13,Standardized values of C6C_FF_13,Model 3,.7185809118788833,.33219033,1.5544056,.39441508
+Probable dementia only,zC6D_FF_13,Standardized values of C6D_FF_13,Model 1,.7902539797581346,.36034387,1.7330705,.55048472
+Probable dementia only,zC6D_FF_13,Standardized values of C6D_FF_13,Model 2,.7331260599041651,.30671754,1.7523413,.47827587
+Probable dementia only,zC6D_FF_13,Standardized values of C6D_FF_13,Model 3,.7924490916663601,.2522727,2.4892728,.6853736
+Probable dementia only,zC6E_FF_13,Standardized values of C6E_FF_13,Model 1,.7474071384892733,.47952193,1.1649466,.19408371
+Probable dementia only,zC6E_FF_13,Standardized values of C6E_FF_13,Model 2,.6968542315187265,.43236575,1.1231366,.13512689
+Probable dementia only,zC6E_FF_13,Standardized values of C6E_FF_13,Model 3,.7293959463571525,.47670344,1.1160365,.1427879
+Probable dementia only,zC6F_FF_13,Standardized values of C6F_FF_13,Model 1,.5743551698305636,.36856103,.89505899,.015242537
+Probable dementia only,zC6F_FF_13,Standardized values of C6F_FF_13,Model 2,.4689130189655523,.27009967,.81406766,.0080198133
+Probable dementia only,zC6F_FF_13,Standardized values of C6F_FF_13,Model 3,.3691444171261505,.17487124,.77924538,.0098726768
+Probable dementia only,zC6G_FF_13,Standardized values of C6G_FF_13,Model 1,.8739433086183784,.52572346,1.4528112,.59735489
+Probable dementia only,zC6G_FF_13,Standardized values of C6G_FF_13,Model 2,.8813680598449287,.52651131,1.4753902,.62523502
+Probable dementia only,zC6G_FF_13,Standardized values of C6G_FF_13,Model 3,1.016684260922705,.58903921,1.7548016,.95177525
+Probable dementia only,zC6H_FF_13,Standardized values of C6H_FF_13,Model 1,1.532031559788525,1.0486273,2.2382793,.028131476
+Probable dementia only,zC6H_FF_13,Standardized values of C6H_FF_13,Model 2,1.524755651798199,1.1541235,2.0144114,.0036642151
+Probable dementia only,zC6H_FF_13,Standardized values of C6H_FF_13,Model 3,1.560285914152242,1.0982834,2.2166338,.013971334
+Probable dementia only,zC6I_FF_13,Standardized values of C6I_FF_13,Model 1,1.24795555234204,1.1317855,1.3760496,.000030740535
+Probable dementia only,zC6I_FF_13,Standardized values of C6I_FF_13,Model 2,1.253134367603625,1.1112423,1.4131442,.0004094028
+Probable dementia only,zC6I_FF_13,Standardized values of C6I_FF_13,Model 3,1.278370443742818,1.1307334,1.4452841,.00018435869
+Probable dementia only,zC6J_FF_13,Standardized values of C6J_FF_13,Model 1,1.149008079286022,.93916517,1.4057373,.17307201
+Probable dementia only,zC6J_FF_13,Standardized values of C6J_FF_13,Model 2,1.154192857152749,.92159611,1.4454935,.20697597
+Probable dementia only,zC6J_FF_13,Standardized values of C6J_FF_13,Model 3,1.103674329249201,.81240475,1.4993721,.52148312
+Probable dementia only,zC6K_FF_13,Standardized values of C6K_FF_13,Model 1,1.067848378805067,.81503952,1.3990735,.62822759
+Probable dementia only,zC6K_FF_13,Standardized values of C6K_FF_13,Model 2,1.025177993303302,.75947416,1.383839,.86867726
+Probable dementia only,zC6K_FF_13,Standardized values of C6K_FF_13,Model 3,.9133583167155479,.61682868,1.3524394,.64541626
+Probable dementia only,zC6L_FF_13,Standardized values of C6L_FF_13,Model 1,.9963077416853697,.69644314,1.4252838,.98355746
+Probable dementia only,zC6L_FF_13,Standardized values of C6L_FF_13,Model 2,1.013618536986773,.69862425,1.4706368,.94219935
+Probable dementia only,zC6L_FF_13,Standardized values of C6L_FF_13,Model 3,.9746551652199776,.68073791,1.395475,.88654274
+Probable dementia only,zC6M_FF_13,Standardized values of C6M_FF_13,Model 1,.9005960679938553,.55261141,1.46771,.66916066
+Probable dementia only,zC6M_FF_13,Standardized values of C6M_FF_13,Model 2,.9005138359347519,.56279457,1.4408901,.65679735
+Probable dementia only,zC6M_FF_13,Standardized values of C6M_FF_13,Model 3,.8610541263623597,.54524058,1.3597927,.51448274
+Probable dementia only,zC6N_FF_13,Standardized values of C6N_FF_13,Model 1,.677127242423073,.42725518,1.0731322,.095374964
+Probable dementia only,zC6N_FF_13,Standardized values of C6N_FF_13,Model 2,.6801622009813468,.44913137,1.0300341,.06807097
+Probable dementia only,zC6N_FF_13,Standardized values of C6N_FF_13,Model 3,.6077270463026943,.37313235,.98981541,.045539226
+Probable dementia only,zC6O_FF_13,Standardized values of C6O_FF_13,Model 1,.4184065982379823,.23315078,.75086212,.004213532
+Probable dementia only,zC6O_FF_13,Standardized values of C6O_FF_13,Model 2,.4025789788996736,.2240423,.72338945,.0029515179
+Probable dementia only,zC6O_FF_13,Standardized values of C6O_FF_13,Model 3,.2739085049511208,.11326799,.66237485,.0048065758
+Probable dementia only,zC6P_FF_13,Standardized values of C6P_FF_13,Model 1,.941534596319757,.60888362,1.4559226,.78283221
+Probable dementia only,zC6P_FF_13,Standardized values of C6P_FF_13,Model 2,.9785565175146427,.66364431,1.4429007,.91133696
+Probable dementia only,zC6P_FF_13,Standardized values of C6P_FF_13,Model 3,.8881084011370552,.55998313,1.4085004,.60817796
+Probable dementia only,zC6Q_FF_13,Standardized values of C6Q_FF_13,Model 1,1.243721621538418,.96213973,1.6077118,.09426342
+Probable dementia only,zC6Q_FF_13,Standardized values of C6Q_FF_13,Model 2,1.312626490551323,.83692008,2.0587251,.23095374
+Probable dementia only,zC6Q_FF_13,Standardized values of C6Q_FF_13,Model 3,1.105345106112578,.6026606,2.0273232,.74196494
+Probable dementia only,zC6R_FF_13,Standardized values of C6R_FF_13,Model 1,.9453145340242212,.73711085,1.2123272,.6523149
+Probable dementia only,zC6R_FF_13,Standardized values of C6R_FF_13,Model 2,.8834211500963856,.58862281,1.3258625,.54317963
+Probable dementia only,zC6R_FF_13,Standardized values of C6R_FF_13,Model 3,.715827669676837,.30400118,1.6855502,.43738258
+Probable dementia only,zC6S_FF_13,Standardized values of C6S_FF_13,Model 1,1.111051504478,.74666113,1.6532741,.59756821
+Probable dementia only,zC6S_FF_13,Standardized values of C6S_FF_13,Model 2,1.074015751413942,.68151617,1.6925641,.75424665
+Probable dementia only,zC6S_FF_13,Standardized values of C6S_FF_13,Model 3,1.035687926258219,.70546013,1.5204962,.85545689
+Probable dementia only,zC6T_FF_13,Standardized values of C6T_FF_13,Model 1,.8778138685117765,.55088603,1.3987597,.5773741
+Probable dementia only,zC6T_FF_13,Standardized values of C6T_FF_13,Model 2,.77458291697842,.45516554,1.3181549,.33985394
+Probable dementia only,zC6T_FF_13,Standardized values of C6T_FF_13,Model 3,.7758199266002569,.42633733,1.4117848,.39918488
+Probable dementia only,zC6U_FF_13,Standardized values of C6U_FF_13,Model 1,.8200222837314277,.54143304,1.2419569,.34228799
+Probable dementia only,zC6U_FF_13,Standardized values of C6U_FF_13,Model 2,.7004812559721653,.43039152,1.1400642,.14869565
+Probable dementia only,zC6U_FF_13,Standardized values of C6U_FF_13,Model 3,.7419777477405393,.4550927,1.2097118,.22634915
+Probable dementia only,zC6V_FF_13,Standardized values of C6V_FF_13,Model 1,.8565049491026898,.41161209,1.7822623,.67349792
+Probable dementia only,zC6V_FF_13,Standardized values of C6V_FF_13,Model 2,.7415780277548418,.38565534,1.425983,.36347106
+Probable dementia only,zC6V_FF_13,Standardized values of C6V_FF_13,Model 3,.6895717765991245,.44871032,1.0597243,.088610463
+Probable dementia only,zC6W_FF_13,Standardized values of C6W_FF_13,Model 1,1.169516484425889,.89124262,1.5346762,.25313291
+Probable dementia only,zC6W_FF_13,Standardized values of C6W_FF_13,Model 2,1.070257531598519,.7785269,1.4713058,.67063677
+Probable dementia only,zC6W_FF_13,Standardized values of C6W_FF_13,Model 3,1.130856702913888,.83714253,1.5276214,.41604793
+Probable dementia only,zC7A_FF_13,Standardized values of C7A_FF_13,Model 1,.8771292859732983,.60218167,1.2776141,.48775896
+Probable dementia only,zC7A_FF_13,Standardized values of C7A_FF_13,Model 2,.9034384734619891,.64961535,1.2564375,.53977734
+Probable dementia only,zC7A_FF_13,Standardized values of C7A_FF_13,Model 3,.842294957208202,.60241473,1.1776949,.30931982
+Probable dementia only,zC7B_FF_13,Standardized values of C7B_FF_13,Model 1,1.207713319721889,.85618842,1.7035637,.27633959
+Probable dementia only,zC7B_FF_13,Standardized values of C7B_FF_13,Model 2,1.197732836421848,.80753309,1.776477,.36300433
+Probable dementia only,zC7B_FF_13,Standardized values of C7B_FF_13,Model 3,1.139478108536453,.70490104,1.8419753,.58806682
+Probable dementia only,zC7C_FF_13,Standardized values of C7C_FF_13,Model 1,1.266445987222182,1.0762626,1.4902362,.0052194395
+Probable dementia only,zC7C_FF_13,Standardized values of C7C_FF_13,Model 2,1.294069524923351,1.0516495,1.5923707,.015802162
+Probable dementia only,zC7C_FF_13,Standardized values of C7C_FF_13,Model 3,1.206848718566445,.93651205,1.5552217,.14306414
+Probable dementia only,zC7E_FF_13,Standardized values of C7E_FF_13,Model 1,.955909871767617,.54932016,1.6634446,.87102169
+Probable dementia only,zC7E_FF_13,Standardized values of C7E_FF_13,Model 2,.9445208908789954,.5270108,1.6927921,.84529477
+Probable dementia only,zC7E_FF_13,Standardized values of C7E_FF_13,Model 3,.8894768216749306,.49090192,1.6116642,.69445252
+Probable dementia only,zC7F_FF_13,Standardized values of C7F_FF_13,Model 1,.4209239207344128,.13616347,1.3012077,.13014513
+Probable dementia only,zC7F_FF_13,Standardized values of C7F_FF_13,Model 2,.4424349288223464,.15264328,1.282393,.13035759
+Probable dementia only,zC7F_FF_13,Standardized values of C7F_FF_13,Model 3,.4951263551885047,.20423943,1.2003074,.11737586
+Probable dementia only,zC7G_FF_13,Standardized values of C7G_FF_13,Model 1,1.084095896822802,.75868994,1.5490701,.65205055
+Probable dementia only,zC7G_FF_13,Standardized values of C7G_FF_13,Model 2,1.131245466542513,.79412568,1.6114783,.48783389
+Probable dementia only,zC7G_FF_13,Standardized values of C7G_FF_13,Model 3,1.043741550022196,.77643234,1.4030797,.77291131
+Probable dementia only,zC7H_FF_13,Standardized values of C7H_FF_13,Model 1,1.054317346053994,.78386509,1.4180821,.72200114
+Probable dementia only,zC7H_FF_13,Standardized values of C7H_FF_13,Model 2,1.087873313924509,.81112957,1.4590374,.56764174
+Probable dementia only,zC7H_FF_13,Standardized values of C7H_FF_13,Model 3,1.134620952583319,.83401722,1.5435709,.4144491
+Probable dementia only,zC7I_FF_13,Standardized values of C7I_FF_13,Model 1,1.072099682861124,.845281,1.3597817,.55964291
+Probable dementia only,zC7I_FF_13,Standardized values of C7I_FF_13,Model 2,1.057848168742159,.77342135,1.4468734,.72031951
+Probable dementia only,zC7I_FF_13,Standardized values of C7I_FF_13,Model 3,1.091546275252377,.74172598,1.6063523,.65136993
+Probable dementia only,zC7J_FF_13,Standardized values of C7J_FF_13,Model 1,1.053708226934471,.81766647,1.3578899,.68092746
+Probable dementia only,zC7J_FF_13,Standardized values of C7J_FF_13,Model 2,1.103785035988839,.78070045,1.5605748,.57003903
+Probable dementia only,zC7J_FF_13,Standardized values of C7J_FF_13,Model 3,1.151361698814503,.83586001,1.5859519,.3815994
+Probable dementia only,zC7K_FF_13,Standardized values of C7K_FF_13,Model 1,.8665721246449898,.55353051,1.3566501,.52463853
+Probable dementia only,zC7K_FF_13,Standardized values of C7K_FF_13,Model 2,.8011819304207076,.41159129,1.5595386,.50758857
+Probable dementia only,zC7K_FF_13,Standardized values of C7K_FF_13,Model 3,.7097181764561398,.30317017,1.6614428,.42264006
+Probable dementia only,zC7L_FF_13,Standardized values of C7L_FF_13,Model 1,.7100328977258618,.29435357,1.712725,.43909284
+Probable dementia only,zC7L_FF_13,Standardized values of C7L_FF_13,Model 2,.7394101556439057,.30604437,1.7864318,.49567291
+Probable dementia only,zC7L_FF_13,Standardized values of C7L_FF_13,Model 3,.6419491263396387,.22879875,1.8011405,.3929652
+Probable dementia only,zC7M_FF_13,Standardized values of C7M_FF_13,Model 1,.1219254483767207,.0005047326,29.452852,.44544125
+Probable dementia only,zC7M_FF_13,Standardized values of C7M_FF_13,Model 2,.0966496998499375,.00092642894,10.08298,.31806478
+Probable dementia only,zC7M_FF_13,Standardized values of C7M_FF_13,Model 3,.1226768975280267,.00063496496,23.7015,.42781904
+Probable dementia only,zC7N_FF_13,Standardized values of C7N_FF_13,Model 1,.1279081707376457,.0092332363,1.7719139,.12264279
+Probable dementia only,zC7N_FF_13,Standardized values of C7N_FF_13,Model 2,.1470724296936166,.011088443,1.9507066,.14298192
+Probable dementia only,zC7N_FF_13,Standardized values of C7N_FF_13,Model 3,.2960264231483045,.04784885,1.8314264,.18619566
+Probable dementia only,zC7O_FF_13,Standardized values of C7O_FF_13,Model 1,.7964977735524836,.46427318,1.3664556,.40188205
+Probable dementia only,zC7O_FF_13,Standardized values of C7O_FF_13,Model 2,.741030348495415,.39102027,1.4043415,.35155487
+Probable dementia only,zC7O_FF_13,Standardized values of C7O_FF_13,Model 3,.6839657791350461,.30665854,1.5255052,.34679154
+Probable dementia only,zC7P_FF_13,Standardized values of C7P_FF_13,Model 1,.7325348667018463,.33224866,1.6150775,.43354204
+Probable dementia only,zC7P_FF_13,Standardized values of C7P_FF_13,Model 2,.7202755817538216,.31486732,1.6476684,.43022525
+Probable dementia only,zC7P_FF_13,Standardized values of C7P_FF_13,Model 3,.6533586218899944,.25034806,1.7051361,.37777203
+Probable dementia only,zC7Q_FF_13,Standardized values of C7Q_FF_13,Model 1,.8847359722539652,.52264059,1.4976981,.64288396
+Probable dementia only,zC7Q_FF_13,Standardized values of C7Q_FF_13,Model 2,.8536899221801991,.47434005,1.536422,.59174204
+Probable dementia only,zC7Q_FF_13,Standardized values of C7Q_FF_13,Model 3,.7472143355825349,.44199455,1.263204,.27087429
+Probable dementia only,zC7R_FF_13,Standardized values of C7R_FF_13,Model 1,1.31713757944796,.97555345,1.7783253,.071342096
+Probable dementia only,zC7R_FF_13,Standardized values of C7R_FF_13,Model 2,1.326785856042345,1.0056797,1.7504188,.045650896
+Probable dementia only,zC7R_FF_13,Standardized values of C7R_FF_13,Model 3,1.308757798890962,1.0677373,1.6041838,.010506634
+Probable dementia only,zC7SA_FF_13,Standardized values of C7SA_FF_13,Model 1,.9263758286094224,.48729953,1.7610773,.81232297
+Probable dementia only,zC7SA_FF_13,Standardized values of C7SA_FF_13,Model 2,.9309136912090338,.51608777,1.6791723,.80874765
+Probable dementia only,zC7SA_FF_13,Standardized values of C7SA_FF_13,Model 3,.9737354393881259,.585181,1.6202862,.91695791
+Probable dementia only,zC7SB_FF_13,Standardized values of C7SB_FF_13,Model 1,.4672329259016448,.16028646,1.3619778,.15970673
+Probable dementia only,zC7SB_FF_13,Standardized values of C7SB_FF_13,Model 2,.4077452529774843,.1161238,1.431715,.15796556
+Probable dementia only,zC7SB_FF_13,Standardized values of C7SB_FF_13,Model 3,.3586125940673051,.082378954,1.5611145,.16796216
+Probable dementia only,zC7S_FF_13,Standardized values of C7S_FF_13,Model 1,.6784864207500391,.3735626,1.2323071,.1981471
+Probable dementia only,zC7S_FF_13,Standardized values of C7S_FF_13,Model 2,.6485933622910933,.33421183,1.2587028,.19610801
+Probable dementia only,zC7S_FF_13,Standardized values of C7S_FF_13,Model 3,.595097263604399,.29201508,1.2127483,.14968754
+Probable dementia only,zC7T_FF_13,Standardized values of C7T_FF_13,Model 1,.3034289538248539,.11630318,.79163039,.015731543
+Probable dementia only,zC7T_FF_13,Standardized values of C7T_FF_13,Model 2,.2628058315193138,.094220698,.7330333,.011618223
+Probable dementia only,zC7T_FF_13,Standardized values of C7T_FF_13,Model 3,.2367596801522198,.069784373,.80326217,.021668088
+Probable dementia only,zC8A_FF_13,Standardized values of C8A_FF_13,Model 1,1.055777169854951,.82264876,1.3549713,.66457081
+Probable dementia only,zC8A_FF_13,Standardized values of C8A_FF_13,Model 2,.9947241191051225,.8413744,1.1760235,.94974357
+Probable dementia only,zC8A_FF_13,Standardized values of C8A_FF_13,Model 3,.9449818238647479,.72455436,1.2324688,.67106515
+Probable dementia only,zC8B_FF_13,Standardized values of C8B_FF_13,Model 1,1.304187870991121,1.2080773,1.4079447,4.5081294e-09
+Probable dementia only,zC8B_FF_13,Standardized values of C8B_FF_13,Model 2,1.26038061981692,1.1398605,1.3936436,.000024044473
+Probable dementia only,zC8B_FF_13,Standardized values of C8B_FF_13,Model 3,1.141049177317138,1.0103214,1.2886921,.03409205
+Probable dementia only,zC8C_FF_13,Standardized values of C8C_FF_13,Model 1,.168696631809935,.010827059,2.6284657,.19944021
+Probable dementia only,zC8C_FF_13,Standardized values of C8C_FF_13,Model 2,.1385153542677528,.0070658047,2.7154026,.18858504
+Probable dementia only,zC8C_FF_13,Standardized values of C8C_FF_13,Model 3,.0933664996932161,.001531032,5.6937432,.25265899
+Probable dementia only,zC8D_FF_13,Standardized values of C8D_FF_13,Model 1,.7952136556709504,.39580196,1.5976797,.51316303
+Probable dementia only,zC8D_FF_13,Standardized values of C8D_FF_13,Model 2,.7529518054071751,.33191112,1.7080971,.49046886
+Probable dementia only,zC8D_FF_13,Standardized values of C8D_FF_13,Model 3,.6499060981628826,.26823044,1.5746832,.33341783
+Probable dementia only,zC8E_FF_13,Standardized values of C8E_FF_13,Model 1,.9250709038854872,.69260049,1.2355697,.59185129
+Probable dementia only,zC8E_FF_13,Standardized values of C8E_FF_13,Model 2,.935587025232261,.60410798,1.4489515,.76148611
+Probable dementia only,zC8E_FF_13,Standardized values of C8E_FF_13,Model 3,.7948591263750839,.57074618,1.1069738,.17039104
+Probable dementia only,zC8F_FF_13,Standardized values of C8F_FF_13,Model 1,.4760376491673919,.10074838,2.2492852,.34229741
+Probable dementia only,zC8F_FF_13,Standardized values of C8F_FF_13,Model 2,.483140036811079,.10586108,2.2050059,.34112918
+Probable dementia only,zC8F_FF_13,Standardized values of C8F_FF_13,Model 3,.3856215597519816,.080369852,1.8502458,.22852844
+Probable dementia only,zC8G_FF_13,Standardized values of C8G_FF_13,Model 1,1.135821677916685,.90438026,1.4264916,.26753885
+Probable dementia only,zC8G_FF_13,Standardized values of C8G_FF_13,Model 2,1.157965369872382,.93536955,1.4335337,.17414477
+Probable dementia only,zC8G_FF_13,Standardized values of C8G_FF_13,Model 3,1.052635674248128,.84344071,1.3137163,.64448965
+Probable dementia only,zC8H_FF_13,Standardized values of C8H_FF_13,Model 1,.6902581530304512,.31796634,1.498449,.34205309
+Probable dementia only,zC8H_FF_13,Standardized values of C8H_FF_13,Model 2,.7486925687199575,.37730786,1.4856318,.40098575
+Probable dementia only,zC8H_FF_13,Standardized values of C8H_FF_13,Model 3,.8314714850066048,.48171473,1.4351748,.50086766
+Probable dementia only,zC8I_FF_13,Standardized values of C8I_FF_13,Model 1,.5379164551810839,.24760687,1.1686029,.11497471
+Probable dementia only,zC8I_FF_13,Standardized values of C8I_FF_13,Model 2,.6059040879209928,.30845994,1.1901699,.14265694
+Probable dementia only,zC8I_FF_13,Standardized values of C8I_FF_13,Model 3,.6706596017356872,.39196548,1.1475099,.14177006
+Probable dementia only,zC8J_FF_13,Standardized values of C8J_FF_13,Model 1,1.028866646191699,.73202395,1.4460819,.86755919
+Probable dementia only,zC8J_FF_13,Standardized values of C8J_FF_13,Model 2,1.075271997742176,.75931436,1.5227025,.6775471
+Probable dementia only,zC8J_FF_13,Standardized values of C8J_FF_13,Model 3,.9688506491718664,.64867347,1.4470632,.87497485
+Probable dementia only,zC8K_FF_13,Standardized values of C8K_FF_13,Model 1,.9745236640635682,.68518353,1.3860466,.88381493
+Probable dementia only,zC8K_FF_13,Standardized values of C8K_FF_13,Model 2,.9728338374358343,.68558908,1.380427,.87524688
+Probable dementia only,zC8K_FF_13,Standardized values of C8K_FF_13,Model 3,1.031692704520365,.66633987,1.5973678,.88678658
+Probable dementia only,zC8L_FF_13,Standardized values of C8L_FF_13,Model 1,1.232805559728221,.89969081,1.6892576,.18850295
+Probable dementia only,zC8L_FF_13,Standardized values of C8L_FF_13,Model 2,1.241101410908016,.92198336,1.670673,.15097645
+Probable dementia only,zC8L_FF_13,Standardized values of C8L_FF_13,Model 3,1.244746051528258,.92662281,1.6720856,.14283709
+Probable dementia only,zC8M_FF_13,Standardized values of C8M_FF_13,Model 1,1.349526571414365,.9433111,1.9306695,.099127501
+Probable dementia only,zC8M_FF_13,Standardized values of C8M_FF_13,Model 2,1.432566804994662,1.0705595,1.9169861,.016511651
+Probable dementia only,zC8M_FF_13,Standardized values of C8M_FF_13,Model 3,1.467090013858871,1.1027377,1.951827,.0094283763
+Probable dementia only,zC8N_FF_13,Standardized values of C8N_FF_13,Model 1,.9210526974436029,.71118718,1.1928478,.52653694
+Probable dementia only,zC8N_FF_13,Standardized values of C8N_FF_13,Model 2,.8848913569319399,.68483937,1.1433816,.34311643
+Probable dementia only,zC8N_FF_13,Standardized values of C8N_FF_13,Model 3,.8569545943643924,.65530622,1.1206534,.25384283
+Probable dementia only,zC8O_FF_13,Standardized values of C8O_FF_13,Model 1,1.211771224791088,.7463569,1.9674093,.43043721
+Probable dementia only,zC8O_FF_13,Standardized values of C8O_FF_13,Model 2,1.332167161576409,.81372464,2.1809213,.24864124
+Probable dementia only,zC8O_FF_13,Standardized values of C8O_FF_13,Model 3,1.251960914083914,.75673962,2.0712621,.37495482
+Probable dementia only,zC8P_FF_13,Standardized values of C8P_FF_13,Model 1,1.212945675735273,1.0628258,1.3842694,.0049507543
+Probable dementia only,zC8P_FF_13,Standardized values of C8P_FF_13,Model 2,1.232269377093054,1.0796326,1.4064856,.002525982
+Probable dementia only,zC8P_FF_13,Standardized values of C8P_FF_13,Model 3,1.313030344911831,1.119192,1.5404404,.00119828
+Probable dementia only,zC9AA_FF_13,Standardized values of C9AA_FF_13,Model 1,.7366594221409284,.1985628,2.7329748,.64220965
+Probable dementia only,zC9AA_FF_13,Standardized values of C9AA_FF_13,Model 2,.6741803958569301,.17864688,2.5442326,.55433452
+Probable dementia only,zC9AA_FF_13,Standardized values of C9AA_FF_13,Model 3,.3077253078521722,.060420409,1.5672661,.15249257
+Probable dementia only,zC9AB_FF_13,Standardized values of C9AB_FF_13,Model 1,.0039013699067811,1.6868565e-06,9.0231075,.15696897
+Probable dementia only,zC9AB_FF_13,Standardized values of C9AB_FF_13,Model 2,.0042994669310872,1.5841166e-06,11.669227,.1727843
+Probable dementia only,zC9AB_FF_13,Standardized values of C9AB_FF_13,Model 3,.0072618831313008,.000021660579,2.4346046,.095275395
+Probable dementia only,zC9AC_FF_13,Standardized values of C9AC_FF_13,Model 1,1.096368570129402,.92309111,1.3021727,.28849974
+Probable dementia only,zC9AC_FF_13,Standardized values of C9AC_FF_13,Model 2,1.213860650066805,1.0140957,1.4529771,.035143629
+Probable dementia only,zC9AC_FF_13,Standardized values of C9AC_FF_13,Model 3,1.225808837642686,1.0086875,1.4896657,.04097848
+Probable dementia only,zC9AD_FF_13,Standardized values of C9AD_FF_13,Model 1,.3539565387781954,.031563316,3.9693305,.39293718
+Probable dementia only,zC9AD_FF_13,Standardized values of C9AD_FF_13,Model 2,.2737225334568246,.020988449,3.5697742,.31641978
+Probable dementia only,zC9AD_FF_13,Standardized values of C9AD_FF_13,Model 3,.3850418127444263,.023055436,6.4304657,.49976733
+Probable dementia only,zC9AE_FF_13,Standardized values of C9AE_FF_13,Model 1,1.386258098482346,1.0942757,1.7561492,.0076823821
+Probable dementia only,zC9AE_FF_13,Standardized values of C9AE_FF_13,Model 2,1.350087783489652,1.0551953,1.727393,.017896451
+Probable dementia only,zC9AE_FF_13,Standardized values of C9AE_FF_13,Model 3,1.213498801500244,.86006254,1.712177,.2648553
+Probable dementia only,zC9AF_FF_13,Standardized values of C9AF_FF_13,Model 1,.7809391584225168,.43514436,1.4015256,.40050119
+Probable dementia only,zC9AF_FF_13,Standardized values of C9AF_FF_13,Model 2,.7516884155461816,.43346882,1.3035204,.30330938
+Probable dementia only,zC9AF_FF_13,Standardized values of C9AF_FF_13,Model 3,.6734042308066819,.3735413,1.2139843,.18426149
+Probable dementia only,zC9AG_FF_13,Standardized values of C9AG_FF_13,Model 1,1.338911826383517,.9572385,1.8727672,.086914808
+Probable dementia only,zC9AG_FF_13,Standardized values of C9AG_FF_13,Model 2,1.421078504290552,1.0260322,1.9682268,.034972172
+Probable dementia only,zC9AG_FF_13,Standardized values of C9AG_FF_13,Model 3,1.399965621666153,1.0257369,1.9107275,.034521051
+Probable dementia only,zC9AH_FF_13,Standardized values of C9AH_FF_13,Model 1,1.312620846086393,.9088527,1.8957676,.14377943
+Probable dementia only,zC9AH_FF_13,Standardized values of C9AH_FF_13,Model 2,1.266943812692785,.96603346,1.661585,.085930638
+Probable dementia only,zC9AH_FF_13,Standardized values of C9AH_FF_13,Model 3,1.263885345222275,.91318393,1.749271,.1543977
+Probable dementia only,zC9AI_FF_13,Standardized values of C9AI_FF_13,Model 1,.340098425046595,.11893445,.97252679,.044423055
+Probable dementia only,zC9AI_FF_13,Standardized values of C9AI_FF_13,Model 2,.3057273607989433,.10803725,.86515731,.02631239
+Probable dementia only,zC9AI_FF_13,Standardized values of C9AI_FF_13,Model 3,.2609920181864271,.049926374,1.3643457,.10932431
+Probable dementia only,zC9AJ_FF_13,Standardized values of C9AJ_FF_13,Model 1,.9622607287171879,.59956974,1.5443504,.87114179
+Probable dementia only,zC9AJ_FF_13,Standardized values of C9AJ_FF_13,Model 2,.9485355345152113,.56497651,1.5924903,.83882701
+Probable dementia only,zC9AJ_FF_13,Standardized values of C9AJ_FF_13,Model 3,.9025331256899736,.4937689,1.6496909,.73459578
+Probable dementia only,zC9AK_FF_13,Standardized values of C9AK_FF_13,Model 1,.9323429705329105,.65196306,1.3333017,.69622606
+Probable dementia only,zC9AK_FF_13,Standardized values of C9AK_FF_13,Model 2,.9017265126475728,.62399638,1.3030696,.57567042
+Probable dementia only,zC9AK_FF_13,Standardized values of C9AK_FF_13,Model 3,.9790675942359545,.70242012,1.3646724,.89887697
+Probable dementia only,zC9AL_FF_13,Standardized values of C9AL_FF_13,Model 1,.8331892808798611,.50923228,1.3632373,.46075821
+Probable dementia only,zC9AL_FF_13,Standardized values of C9AL_FF_13,Model 2,.8053895658751302,.46906978,1.3828483,.42579991
+Probable dementia only,zC9AL_FF_13,Standardized values of C9AL_FF_13,Model 3,.7557694509760717,.45701629,1.2498186,.26944041
+Probable dementia only,zC9AM_FF_13,Standardized values of C9AM_FF_13,Model 1,1.082532888382493,.7266224,1.6127735,.69168484
+Probable dementia only,zC9AM_FF_13,Standardized values of C9AM_FF_13,Model 2,1.106110017276753,.71289396,1.716215,.6472621
+Probable dementia only,zC9AM_FF_13,Standardized values of C9AM_FF_13,Model 3,1.051584733942464,.71093774,1.5554533,.79775995
+Probable dementia only,zC9AN_FF_13,Standardized values of C9AN_FF_13,Model 1,.9055078749586428,.66958046,1.2245646,.51263601
+Probable dementia only,zC9AN_FF_13,Standardized values of C9AN_FF_13,Model 2,.9083521013200964,.67370564,1.2247242,.52185804
+Probable dementia only,zC9AN_FF_13,Standardized values of C9AN_FF_13,Model 3,.7880872152272896,.53933311,1.1515731,.2135855
+Probable dementia only,zC9AP_FF_13,Standardized values of C9AP_FF_13,Model 1,1.21649136273672,.90246558,1.639787,.19387579
+Probable dementia only,zC9AP_FF_13,Standardized values of C9AP_FF_13,Model 2,1.192802259118953,.87437093,1.627201,.26017195
+Probable dementia only,zC9AP_FF_13,Standardized values of C9AP_FF_13,Model 3,1.180316034145976,.90878767,1.5329719,.20912866
+Probable dementia only,zC9A_FF_13,Standardized values of C9A_FF_13,Model 1,.8288256624789569,.5425213,1.2662213,.37849411
+Probable dementia only,zC9A_FF_13,Standardized values of C9A_FF_13,Model 2,.7774738011276345,.46979409,1.2866604,.32104933
+Probable dementia only,zC9A_FF_13,Standardized values of C9A_FF_13,Model 3,.7821939456425395,.46015361,1.3296155,.35750556
+Probable dementia only,zC9B_FF_13,Standardized values of C9B_FF_13,Model 1,1.059289681214535,.82208091,1.3649442,.65067244
+Probable dementia only,zC9B_FF_13,Standardized values of C9B_FF_13,Model 2,1.089839677666116,.7680403,1.546469,.62420207
+Probable dementia only,zC9B_FF_13,Standardized values of C9B_FF_13,Model 3,1.110060646145041,.78926504,1.5612431,.54206216
+Probable dementia only,zC9C_FF_13,Standardized values of C9C_FF_13,Model 1,.8466332624936358,.59210205,1.2105817,.35487133
+Probable dementia only,zC9C_FF_13,Standardized values of C9C_FF_13,Model 2,.8090688780680771,.56283563,1.163026,.2470344
+Probable dementia only,zC9C_FF_13,Standardized values of C9C_FF_13,Model 3,.7650655427578708,.4562726,1.2828412,.30367056
+Probable dementia only,zC9D_FF_13,Standardized values of C9D_FF_13,Model 1,.8131382209863361,.54448032,1.2143575,.30584693
+Probable dementia only,zC9D_FF_13,Standardized values of C9D_FF_13,Model 2,.7493224151557715,.43689302,1.2851752,.28838864
+Probable dementia only,zC9D_FF_13,Standardized values of C9D_FF_13,Model 3,.7185670833365793,.48204345,1.0711455,.1028007
+Probable dementia only,zC9E_FF_13,Standardized values of C9E_FF_13,Model 1,1.190896287384607,.86472309,1.6401019,.27874768
+Probable dementia only,zC9E_FF_13,Standardized values of C9E_FF_13,Model 2,1.221931661955503,.91355443,1.6344039,.17284447
+Probable dementia only,zC9E_FF_13,Standardized values of C9E_FF_13,Model 3,1.278081634799222,.92828697,1.759685,.12985906
+Probable dementia only,zC9F_FF_13,Standardized values of C9F_FF_13,Model 1,.7282139648929149,.44915214,1.1806592,.19386154
+Probable dementia only,zC9F_FF_13,Standardized values of C9F_FF_13,Model 2,.7549824282227846,.48346245,1.1789922,.21166699
+Probable dementia only,zC9F_FF_13,Standardized values of C9F_FF_13,Model 3,.7869910020593045,.51135319,1.2112075,.27038255
+Probable dementia only,zC9G_FF_13,Standardized values of C9G_FF_13,Model 1,.5513645573143947,.15531236,1.9573643,.35045147
+Probable dementia only,zC9G_FF_13,Standardized values of C9G_FF_13,Model 2,.5112383144436972,.13150012,1.9875617,.32640165
+Probable dementia only,zC9G_FF_13,Standardized values of C9G_FF_13,Model 3,.5159439494417645,.16062444,1.6572706,.26068357
+Probable dementia only,zC9H_FF_13,Standardized values of C9H_FF_13,Model 1,.5329185351467417,.1669862,1.7007523,.28181472
+Probable dementia only,zC9H_FF_13,Standardized values of C9H_FF_13,Model 2,.4832878149541023,.12521276,1.8653619,.28531942
+Probable dementia only,zC9H_FF_13,Standardized values of C9H_FF_13,Model 3,.448580401212217,.12718284,1.582166,.20781183
+Probable dementia only,zC9I_FF_13,Standardized values of C9I_FF_13,Model 1,1.047544831634845,.7494365,1.4642338,.78208035
+Probable dementia only,zC9I_FF_13,Standardized values of C9I_FF_13,Model 2,1.099206232618231,.74309367,1.6259786,.63019443
+Probable dementia only,zC9I_FF_13,Standardized values of C9I_FF_13,Model 3,1.066273853715363,.71760339,1.5843569,.74660951
+Probable dementia only,zC9J_FF_13,Standardized values of C9J_FF_13,Model 1,.9263431601971395,.72729033,1.179875,.52883244
+Probable dementia only,zC9J_FF_13,Standardized values of C9J_FF_13,Model 2,.8829404531682363,.67234999,1.1594912,.36384127
+Probable dementia only,zC9J_FF_13,Standardized values of C9J_FF_13,Model 3,.7921410804660353,.52655286,1.1916895,.25780141
+Probable dementia only,zC9K_FF_13,Standardized values of C9K_FF_13,Model 1,.9630529700489837,.77363235,1.1988524,.73179615
+Probable dementia only,zC9K_FF_13,Standardized values of C9K_FF_13,Model 2,.9368674160088885,.69419485,1.264372,.66458482
+Probable dementia only,zC9K_FF_13,Standardized values of C9K_FF_13,Model 3,.86205394331487,.62467766,1.1896328,.35972854
+Probable dementia only,zC9L_FF_13,Standardized values of C9L_FF_13,Model 1,.9269236135572083,.58800721,1.4611851,.73954904
+Probable dementia only,zC9L_FF_13,Standardized values of C9L_FF_13,Model 2,.9066215356185312,.57101023,1.4394884,.67253911
+Probable dementia only,zC9L_FF_13,Standardized values of C9L_FF_13,Model 3,.8236045908990862,.47873273,1.416917,.47651255
+Probable dementia only,zC9M_FF_13,Standardized values of C9M_FF_13,Model 1,.2803908991368134,.047907535,1.6410583,.15490955
+Probable dementia only,zC9M_FF_13,Standardized values of C9M_FF_13,Model 2,.2625511847385293,.045217428,1.5244813,.13332827
+Probable dementia only,zC9M_FF_13,Standardized values of C9M_FF_13,Model 3,.3694404855674251,.058641437,2.3274715,.28299728
+Probable dementia only,zC9N_FF_13,Standardized values of C9N_FF_13,Model 1,1.208651549137222,.99022365,1.4752612,.061978064
+Probable dementia only,zC9N_FF_13,Standardized values of C9N_FF_13,Model 2,1.314891563331922,.85761642,2.0159826,.20461009
+Probable dementia only,zC9N_FF_13,Standardized values of C9N_FF_13,Model 3,1.393929143601013,.92487562,2.1008646,.11040986
+Probable dementia only,zC9O_FF_13,Standardized values of C9O_FF_13,Model 1,.8510434708693515,.54560423,1.3274732,.47026184
+Probable dementia only,zC9O_FF_13,Standardized values of C9O_FF_13,Model 2,.7529783700268954,.37904489,1.4958029,.4110356
+Probable dementia only,zC9O_FF_13,Standardized values of C9O_FF_13,Model 3,.7287351494769988,.31324223,1.6953491,.45580077
+Probable dementia only,zC9P_FF_13,Standardized values of C9P_FF_13,Model 1,1.002590234526081,.88538355,1.1353127,.96688861
+Probable dementia only,zC9P_FF_13,Standardized values of C9P_FF_13,Model 2,.9687029960226303,.81543124,1.1507844,.71282971
+Probable dementia only,zC9P_FF_13,Standardized values of C9P_FF_13,Model 3,.9575038876598334,.75975567,1.2067218,.7082181
+Probable dementia only,zC9Q_FF_13,Standardized values of C9Q_FF_13,Model 1,1.071619176017967,.77160197,1.4882902,.6746428
+Probable dementia only,zC9Q_FF_13,Standardized values of C9Q_FF_13,Model 2,1.025052972608392,.66115183,1.5892471,.91037661
+Probable dementia only,zC9Q_FF_13,Standardized values of C9Q_FF_13,Model 3,1.096727873095724,.7099995,1.6941025,.6721012
+Probable dementia only,zC9R_FF_13,Standardized values of C9R_FF_13,Model 1,.8819156854796399,.67036873,1.1602201,.36253759
+Probable dementia only,zC9R_FF_13,Standardized values of C9R_FF_13,Model 2,.8878951809105591,.68621939,1.1488422,.35910276
+Probable dementia only,zC9R_FF_13,Standardized values of C9R_FF_13,Model 3,.9140708536592618,.65634537,1.2729968,.58890092
+Probable dementia only,zC9S_FF_13,Standardized values of C9S_FF_13,Model 1,.9946560016888172,.77037024,1.2842404,.96663141
+Probable dementia only,zC9S_FF_13,Standardized values of C9S_FF_13,Model 2,1.034316067586543,.70934439,1.5081668,.8583746
+Probable dementia only,zC9S_FF_13,Standardized values of C9S_FF_13,Model 3,1.068990614682781,.69058329,1.6547475,.76076365
+Probable dementia only,zC9T_FF_13,Standardized values of C9T_FF_13,Model 1,.7722891357595244,.26827025,2.2232451,.6262629
+Probable dementia only,zC9T_FF_13,Standardized values of C9T_FF_13,Model 2,.8278182865186964,.28752214,2.38341,.72163993
+Probable dementia only,zC9T_FF_13,Standardized values of C9T_FF_13,Model 3,.8245308351668361,.27930981,2.4340394,.72231221
+Probable dementia only,zC9U_FF_13,Standardized values of C9U_FF_13,Model 1,.7104137357314432,.2181295,2.3137066,.56408
+Probable dementia only,zC9U_FF_13,Standardized values of C9U_FF_13,Model 2,.67875358298455,.17659107,2.6088886,.56645501
+Probable dementia only,zC9U_FF_13,Standardized values of C9U_FF_13,Model 3,.7087694582709394,.16613105,3.0238426,.63630939
+Probable dementia only,zC9V_FF_13,Standardized values of C9V_FF_13,Model 1,1.116702216704605,.80430639,1.5504338,.50307685
+Probable dementia only,zC9V_FF_13,Standardized values of C9V_FF_13,Model 2,1.105217003410942,.78170317,1.5626194,.56501555
+Probable dementia only,zC9V_FF_13,Standardized values of C9V_FF_13,Model 3,1.177247267292451,.79651672,1.7399648,.4061954
+Probable dementia only,zC9W_FF_13,Standardized values of C9W_FF_13,Model 1,1.144047777956455,.85043377,1.5390326,.36714497
+Probable dementia only,zC9W_FF_13,Standardized values of C9W_FF_13,Model 2,1.114723628221018,.79625487,1.5605667,.52037281
+Probable dementia only,zC9W_FF_13,Standardized values of C9W_FF_13,Model 3,1.22420300782363,.8676632,1.727252,.24400459
+Probable dementia only,zC9X_FF_13,Standardized values of C9X_FF_13,Model 1,.6652112538779991,.38123018,1.1607319,.1479401
+Probable dementia only,zC9X_FF_13,Standardized values of C9X_FF_13,Model 2,.6495680494932091,.40613922,1.0389016,.070990629
+Probable dementia only,zC9X_FF_13,Standardized values of C9X_FF_13,Model 3,.6010713279768969,.32928234,1.0971944,.095700696
+Probable dementia only,zC9Y_FF_13,Standardized values of C9Y_FF_13,Model 1,1.205761619871563,.92859328,1.5656596,.15677178
+Probable dementia only,zC9Y_FF_13,Standardized values of C9Y_FF_13,Model 2,1.22234628279548,.90195113,1.6565537,.19108374
+Probable dementia only,zC9Y_FF_13,Standardized values of C9Y_FF_13,Model 3,1.243259560526518,.91699809,1.6856025,.15736078
+Probable dementia only,zC9Z_FF_13,Standardized values of C9Z_FF_13,Model 1,1.104468786326866,.89061975,1.3696656,.35884184
+Probable dementia only,zC9Z_FF_13,Standardized values of C9Z_FF_13,Model 2,1.035808132969457,.70155007,1.5293256,.85707217
+Probable dementia only,zC9Z_FF_13,Standardized values of C9Z_FF_13,Model 3,.8706319706529356,.43323424,1.7496309,.69232655
+Probable dementia only,zhei2015_total_score,HEI-2015 total score (z),Model 1,1.182945542452833,.76597178,1.8269083,.44183961
+Probable dementia only,zhei2015_total_score,HEI-2015 total score (z),Model 2,1.139453869095185,.72441965,1.7922692,.56587386
+Probable dementia only,zhei2015_total_score,HEI-2015 total score (z),Model 3,1.203860617484321,.75702709,1.9144367,.42627928
+Probable dementia only,zheix10_sodium,Standardized values of heix10_sodium,Model 1,1.142546236987505,.70346767,1.8556814,.58410841
+Probable dementia only,zheix10_sodium,Standardized values of heix10_sodium,Model 2,1.077480945776784,.66477531,1.7464025,.75797594
+Probable dementia only,zheix10_sodium,Standardized values of heix10_sodium,Model 3,1.177785493813799,.72506195,1.9131864,.50189531
+Probable dementia only,zheix11_refinedgrain,Standardized values of heix11_refinedgrain,Model 1,1.044947983765937,.776712,1.4058188,.76756948
+Probable dementia only,zheix11_refinedgrain,Standardized values of heix11_refinedgrain,Model 2,1.039840149210686,.74299622,1.4552799,.81668746
+Probable dementia only,zheix11_refinedgrain,Standardized values of heix11_refinedgrain,Model 3,1.12051780248705,.77241957,1.6254898,.5424121
+Probable dementia only,zheix12_addedsugar,Standardized values of heix12_addedsugar,Model 1,284.9390361562091,181.03923,448.46771,1.0863264e-31
+Probable dementia only,zheix12_addedsugar,Standardized values of heix12_addedsugar,Model 2,1507.516294058049,587.80573,3866.2524,8.1673897e-22
+Probable dementia only,zheix12_addedsugar,Standardized values of heix12_addedsugar,Model 3,1578.236265069833,27.313818,91193.031,.00060724613
+Probable dementia only,zheix13_saturatedfat,Standardized values of heix13_saturatedfat,Model 1,1.290330670395871,.82124943,2.0273416,.2631366
+Probable dementia only,zheix13_saturatedfat,Standardized values of heix13_saturatedfat,Model 2,1.275354269282194,.80131072,2.029835,.2988351
+Probable dementia only,zheix13_saturatedfat,Standardized values of heix13_saturatedfat,Model 3,1.190981194827119,.77390516,1.8328295,.41999903
+Probable dementia only,zheix1_totalveg,Standardized values of heix1_totalveg,Model 1,.9900436836491169,.68097687,1.439383,.95745939
+Probable dementia only,zheix1_totalveg,Standardized values of heix1_totalveg,Model 2,.9690038631981163,.66426355,1.4135481,.86789286
+Probable dementia only,zheix1_totalveg,Standardized values of heix1_totalveg,Model 3,1.072180072568773,.63488269,1.8106811,.79081929
+Probable dementia only,zheix2_greens_and_bean,Standardized values of heix2_greens_and_bean,Model 1,1.053286707736574,.6620962,1.6756067,.8235094
+Probable dementia only,zheix2_greens_and_bean,Standardized values of heix2_greens_and_bean,Model 2,1.001870116605696,.64853364,1.5477127,.99316198
+Probable dementia only,zheix2_greens_and_bean,Standardized values of heix2_greens_and_bean,Model 3,1.068484157561699,.69309843,1.6471808,.76022518
+Probable dementia only,zheix3_totalfruit,Standardized values of heix3_totalfruit,Model 1,1.263483664150114,.76504803,2.0866547,.35427082
+Probable dementia only,zheix3_totalfruit,Standardized values of heix3_totalfruit,Model 2,1.199501324666381,.73825705,1.9489193,.45581043
+Probable dementia only,zheix3_totalfruit,Standardized values of heix3_totalfruit,Model 3,1.362457076514802,.78053474,2.3782275,.27068973
+Probable dementia only,zheix4_wholefruit,Standardized values of heix4_wholefruit,Model 1,1.116875878882747,.80578774,1.5480649,.50028479
+Probable dementia only,zheix4_wholefruit,Standardized values of heix4_wholefruit,Model 2,1.095561151700641,.78567284,1.5276769,.58446884
+Probable dementia only,zheix4_wholefruit,Standardized values of heix4_wholefruit,Model 3,1.224742762947947,.8492474,1.7662637,.27197891
+Probable dementia only,zheix5_wholegrain,Standardized values of heix5_wholegrain,Model 1,1.104330720163032,.77940834,1.5647079,.57049966
+Probable dementia only,zheix5_wholegrain,Standardized values of heix5_wholegrain,Model 2,1.143821127421935,.80489796,1.6254567,.44676805
+Probable dementia only,zheix5_wholegrain,Standardized values of heix5_wholegrain,Model 3,1.056937010290516,.78005934,1.4320909,.71626288
+Probable dementia only,zheix6_totaldairy,Standardized values of heix6_totaldairy,Model 1,1.016071943319502,.66331911,1.5564187,.94054335
+Probable dementia only,zheix6_totaldairy,Standardized values of heix6_totaldairy,Model 2,1.097774493802362,.67901194,1.7747977,.69866937
+Probable dementia only,zheix6_totaldairy,Standardized values of heix6_totaldairy,Model 3,1.042016684989751,.64136219,1.6929573,.86566913
+Probable dementia only,zheix7_totprot,Standardized values of heix7_totprot,Model 1,.8476571142009544,.58322442,1.2319831,.37955001
+Probable dementia only,zheix7_totprot,Standardized values of heix7_totprot,Model 2,.7843442250354472,.52698725,1.1673828,.22612555
+Probable dementia only,zheix7_totprot,Standardized values of heix7_totprot,Model 3,.8252812362682203,.55311692,1.2313656,.34039709
+Probable dementia only,zheix8_seaplant_prot,Standardized values of heix8_seaplant_prot,Model 1,.8240360233123176,.59036654,1.1501929,.24980417
+Probable dementia only,zheix8_seaplant_prot,Standardized values of heix8_seaplant_prot,Model 2,.7724260279357613,.53329241,1.1187896,.16807248
+Probable dementia only,zheix8_seaplant_prot,Standardized values of heix8_seaplant_prot,Model 3,.7673730466848381,.52738219,1.1165743,.16274983
+Probable dementia only,zheix9_fattyacid,Standardized values of heix9_fattyacid,Model 1,1.081391270230892,.7339977,1.5932026,.68728095
+Probable dementia only,zheix9_fattyacid,Standardized values of heix9_fattyacid,Model 2,1.018868696533435,.66923904,1.5511549,.92930341
+Probable dementia only,zheix9_fattyacid,Standardized values of heix9_fattyacid,Model 3,1.078457204854277,.70637763,1.6465272,.72191495

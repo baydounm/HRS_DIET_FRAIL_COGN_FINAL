@@ -1,0 +1,40 @@
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  D:\16GBBACKUPUSB\BACKUP_USB_SEPTEMBER2014\SUMMER_STUDENT_2026\HRS_DIET_FRAILTY_COG\OUTPUT\FIGURE_S2_MCIONLY_SMOOTHED_CUMHAZ.txt
+  log type:  text
+ opened on:   3 Apr 2026, 12:11:43
+(0 observations deleted)
+
+Survival-time data settings
+
+           ID variable: HHIDPN
+         Failure event: fail_mci==1
+Observed time interval: (doevent_mci[_n-1], doevent_mci]
+     Enter on or after: time doenter
+     Exit on or before: failure
+     Time for analysis: (time-origin)/365.25
+                Origin: time doenter
+
+--------------------------------------------------------------------------
+      1,636  total observations
+        130  observations end on or before enter()
+--------------------------------------------------------------------------
+      1,506  observations remaining, representing
+      1,506  subjects
+        316  failures in single-failure-per-subject data
+  7,262.103  total analysis time at risk and under observation
+                                                At risk from t =         0
+                                     Earliest observed entry t =         0
+                                          Last observed exit t =  5.998631
+(1,636 missing values generated)
+(341 real changes made)
+(959 real changes made)
+(336 real changes made)
+(0 observations deleted)
+(130 observations deleted)
+(0 real changes made)
+(0 observations deleted)
+(130 observations deleted)
+(0 real changes made)
+file D:\16GBBACKUPUSB\BACKUP_USB_SEPTEMBER2014\SUMMER_STUDENT_2026\HRS_DIET_FRAILTY_COG\OUTPUT\FIGURE_S2_MCIONLY_SMOOTHED_CUMHAZ.png saved as PNG format
+file D:\16GBBACKUPUSB\BACKUP_USB_SEPTEMBER2014\SUMMER_STUDENT_2026\HRS_DIET_FRAILTY_COG\OUTPUT\FIGURE_S2_MCIONLY_SMOOTHED_CUMHAZ.pdf saved as PDF format

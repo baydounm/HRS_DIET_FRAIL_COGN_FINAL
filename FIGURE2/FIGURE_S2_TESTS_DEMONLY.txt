@@ -1,0 +1,168 @@
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  D:\16GBBACKUPUSB\BACKUP_USB_SEPTEMBER2014\SUMMER_STUDENT_2026\HRS_DIET_FRAILTY_COG\OUTPUT\FIGURE_S2_TESTS_DEMONLY.txt
+  log type:  text
+ opened on:   3 Apr 2026, 12:11:55
+(0 observations deleted)
+
+Sampling weights: HCNSWGTR_NT
+             VCE: linearized
+     Single unit: centered
+        Strata 1: stratum
+ Sampling unit 1: secu
+           FPC 1: <zero>
+
+Survival-time data settings
+
+           ID variable: HHIDPN
+         Failure event: fail_dem==1
+Observed time interval: (doevent_dem[_n-1], doevent_dem]
+     Enter on or after: time doenter
+     Exit on or before: failure
+     Time for analysis: (time-origin)/365.25
+                Origin: time doenter
+
+--------------------------------------------------------------------------
+      1,636  total observations
+        205  observations end on or before enter()
+--------------------------------------------------------------------------
+      1,431  observations remaining, representing
+      1,431  subjects
+         33  failures in single-failure-per-subject data
+  7,391.247  total analysis time at risk and under observation
+                                                At risk from t =         0
+                                     Earliest observed entry t =         0
+                                          Last observed exit t =  5.998631
+(1,636 missing values generated)
+(341 real changes made)
+(959 real changes made)
+(336 real changes made)
+==============================================================
+WEIGHTED COX-BASED GLOBAL TESTS FOR FIGURE S2
+Outcome: Incident probable dementia only
+Reference group for each categorical variable = lowest-risk group
+==============================================================
+ 
+--------------------------------------------------------------
+HEI-2015 quartiles
+--------------------------------------------------------------
+(running stcox on estimation sample)
+
+Survey: Cox regression
+
+Number of strata =  56                            Number of obs   =      1,636
+Number of PSUs   = 111                            Population size = 19,541,739
+                                                  Subpop. no. obs =      1,362
+                                                  Subpop. size    = 17,596,101
+                                                  Design df       =         55
+                                                  F(3, 53)        =       0.34
+                                                  Prob > F        =     0.7975
+
+-------------------------------------------------------------------------------
+              |             Linearized
+           _t | Haz. ratio   std. err.      t    P>|t|     [95% conf. interval]
+--------------+----------------------------------------------------------------
+        hei_q |
+          Q2  |   1.148109   .6876225     0.23   0.818     .3457145    3.812838
+          Q3  |   1.502345   .8387341     0.73   0.469     .4907612     4.59906
+Q4 (highest)  |   1.546913   .7363578     0.92   0.363     .5958903    4.015741
+-------------------------------------------------------------------------------
+Note: Strata with single sampling unit centered at overall mean.
+
+Adjusted Wald test
+
+ ( 1)  2.hei_q = 0
+ ( 2)  3.hei_q = 0
+ ( 3)  4.hei_q = 0
+
+       F(  3,    53) =    0.34
+            Prob > F =    0.7975
+Trend test:
+(running stcox on estimation sample)
+
+Survey: Cox regression
+
+Number of strata =  56                            Number of obs   =      1,636
+Number of PSUs   = 111                            Population size = 19,541,739
+                                                  Subpop. no. obs =      1,362
+                                                  Subpop. size    = 17,596,101
+                                                  Design df       =         55
+                                                  F(1, 55)        =       1.07
+                                                  Prob > F        =     0.3062
+
+------------------------------------------------------------------------------
+             |             Linearized
+          _t | Haz. ratio   std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+       hei_q |   1.165383   .1726788     1.03   0.306     .8659773    1.568306
+------------------------------------------------------------------------------
+Note: Strata with single sampling unit centered at overall mean.
+
+ ( 1)  hei_q = 0
+
+------------------------------------------------------------------------------
+          _t |     exp(b)   Std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+         (1) |   1.165383   .1726788     1.03   0.306     .8659773    1.568306
+------------------------------------------------------------------------------
+ 
+--------------------------------------------------------------
+Frailty categories
+--------------------------------------------------------------
+(running stcox on estimation sample)
+
+Survey: Cox regression
+
+Number of strata =  56                            Number of obs   =      1,636
+Number of PSUs   = 111                            Population size = 19,541,739
+                                                  Subpop. no. obs =      1,362
+                                                  Subpop. size    = 17,596,101
+                                                  Design df       =         55
+                                                  F(2, 54)        =      11.31
+                                                  Prob > F        =     0.0001
+
+----------------------------------------------------------------------------------
+                 |             Linearized
+              _t | Haz. ratio   std. err.      t    P>|t|     [95% conf. interval]
+-----------------+----------------------------------------------------------------
+       frail_cat |
+Pre-frail (1-2)  |    2.24978   1.548406     1.18   0.244     .5664042    8.936213
+    Frail (>=3)  |   14.14691   9.442214     3.97   0.000     3.713283    53.89706
+----------------------------------------------------------------------------------
+Note: Strata with single sampling unit centered at overall mean.
+
+Adjusted Wald test
+
+ ( 1)  2.frail_cat = 0
+ ( 2)  3.frail_cat = 0
+
+       F(  2,    54) =   11.31
+            Prob > F =    0.0001
+Trend test:
+(running stcox on estimation sample)
+
+Survey: Cox regression
+
+Number of strata =  56                            Number of obs   =      1,636
+Number of PSUs   = 111                            Population size = 19,541,739
+                                                  Subpop. no. obs =      1,362
+                                                  Subpop. size    = 17,596,101
+                                                  Design df       =         55
+                                                  F(1, 55)        =      16.82
+                                                  Prob > F        =     0.0001
+
+------------------------------------------------------------------------------
+             |             Linearized
+          _t | Haz. ratio   std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+   frail_cat |   4.941003   1.924943     4.10   0.000     2.263294    10.78671
+------------------------------------------------------------------------------
+Note: Strata with single sampling unit centered at overall mean.
+
+ ( 1)  frail_cat = 0
+
+------------------------------------------------------------------------------
+          _t |     exp(b)   Std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+         (1) |   4.941003   1.924943     4.10   0.000     2.263294    10.78671
+------------------------------------------------------------------------------
