@@ -4,5 +4,5 @@ This repository contains code, Output and Figures for the manuscript entitled: "
 
 May A. Beydoun1,*; Caiqi Wei1; Marie T. Fanelli-Kuczmarski2; Jordan Weiss3,4; Hind A. Beydoun5,6; Nicole Noren Hooten1; Osorio Meirelles7; Jack Tsai5,6; Tianyi Huang1; Michele K. Evans1; Alan B. Zonderman1
 
-Currently Under Review in AJCN. 
+Accepted in BMC Global Public Health.  
 
