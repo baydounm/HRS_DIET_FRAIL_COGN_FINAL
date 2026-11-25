@@ -6,3 +6,4 @@ May A. Beydoun1,*; Caiqi Wei1; Marie T. Fanelli-Kuczmarski2; Jordan Weiss3,4; Hi
 
 Accepted in BMC Global Public Health.  
 
+Please use the updated version of the HEI-2015 included in the SYNTAX folder rather than the one in the main syntax file. Correlation between old and new version of the HEI-2015 is 0.90. 
